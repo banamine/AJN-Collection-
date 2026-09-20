@@ -3,40 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>AJN TV Hub - Live Streams & Playlists</title>
+    <title>AJN TV Hub - Select & Download Channels</title>
     <style>
         :root {
             --primary: #0066cc;
             --primary-dark: #0052a3;
             --secondary: #ffd700;
             --success: #28a745;
-            --warning: #ffc107;
             --danger: #dc3545;
-            --bg: #ffffff;
-            --bg-alt: #f8f9fa;
-            --text: #1a1a1a;
-            --text-light: #666666;
-            --border: #e0e0e0;
-            --shadow: 0 2px 8px rgba(0,0,0,0.1);
-            --shadow-lg: 0 8px 24px rgba(0,0,0,0.15);
-        }
-
-        @media (prefers-color-scheme: dark) {
-            :root:not([data-theme="light"]) {
-                --bg: #1a1a1a;
-                --bg-alt: #2d2d2d;
-                --text: #ffffff;
-                --text-light: #b0b0b0;
-                --border: #404040;
-            }
-        }
-
-        :root[data-theme="dark"] {
             --bg: #1a1a1a;
             --bg-alt: #2d2d2d;
             --text: #ffffff;
             --text-light: #b0b0b0;
             --border: #404040;
+            --shadow: 0 2px 8px rgba(0,0,0,0.3);
         }
 
         * {
@@ -50,161 +30,94 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background: var(--bg);
             color: var(--text);
             line-height: 1.6;
-            padding: env(safe-area-inset-top, 0px) 16px env(safe-area-inset-bottom, 0px) 16px;
+            padding: 16px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
         }
 
         /* Header */
         .header {
+            background: linear-gradient(135deg, #ff006e 0%, #0066cc 50%, #00d9ff 100%);
+            padding: 2rem;
+            border-radius: 12px;
             text-align: center;
-            padding: 2rem 0 1.5rem;
-            border-bottom: 2px solid var(--border);
             margin-bottom: 2rem;
-        }
-
-        .header-logo {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
+            box-shadow: var(--shadow);
         }
 
         .header h1 {
-            font-size: 2rem;
+            font-size: 2.5rem;
             font-weight: 700;
-            margin-bottom: 0.25rem;
-            background: linear-gradient(135deg, var(--primary), var(--secondary));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         }
 
         .header p {
-            color: var(--text-light);
-            font-size: 1.05rem;
+            font-size: 1.1rem;
+            opacity: 0.95;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
         }
 
-        /* Theme Toggle */
-        .theme-toggle {
-            position: fixed;
-            top: 1rem;
-            right: 1rem;
-            background: var(--primary);
-            color: white;
-            border: none;
-            border-radius: 50%;
-            width: 44px;
-            height: 44px;
-            font-size: 1.2rem;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: var(--shadow);
-            z-index: 1000;
-            transition: all 0.3s ease;
-        }
-
-        .theme-toggle:hover {
-            background: var(--primary-dark);
-            transform: scale(1.1);
-        }
-
-        /* Stats Dashboard */
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 1rem;
-            margin-bottom: 2rem;
-        }
-
-        .stat-card {
+        /* Controls */
+        .controls {
             background: var(--bg-alt);
             padding: 1.5rem;
             border-radius: 12px;
-            text-align: center;
+            margin-bottom: 2rem;
             border: 1px solid var(--border);
-            transition: all 0.3s ease;
         }
 
-        .stat-card:hover {
-            transform: translateY(-4px);
-            box-shadow: var(--shadow-lg);
+        .control-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1rem;
         }
 
-        .stat-number {
-            font-size: 2rem;
-            font-weight: 700;
-            color: var(--primary);
+        .control-row:last-child {
+            margin-bottom: 0;
+        }
+
+        .control-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .control-group label {
+            font-weight: 600;
             margin-bottom: 0.5rem;
-        }
-
-        .stat-label {
+            color: var(--secondary);
             font-size: 0.9rem;
-            color: var(--text-light);
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
 
-        /* Format Cards */
-        .section-title {
-            font-size: 1.5rem;
-            font-weight: 600;
-            margin-bottom: 1rem;
-            padding-bottom: 0.5rem;
-            border-bottom: 2px solid var(--primary);
-        }
-
-        .formats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 1.5rem;
-            margin-bottom: 2rem;
-        }
-
-        .format-card {
-            background: var(--bg-alt);
-            border: 2px solid var(--border);
-            border-radius: 12px;
-            padding: 1.5rem;
+        input[type="text"],
+        select {
+            padding: 0.75rem;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            background: var(--bg);
+            color: var(--text);
+            font-size: 1rem;
             transition: all 0.3s ease;
         }
 
-        .format-card:hover {
+        input[type="text"]:focus,
+        select:focus {
+            outline: none;
             border-color: var(--primary);
-            box-shadow: var(--shadow-lg);
-            transform: translateY(-4px);
+            box-shadow: 0 0 0 3px rgba(0,102,204,0.1);
         }
 
-        .format-icon {
-            font-size: 2rem;
-            margin-bottom: 0.5rem;
-        }
-
-        .format-title {
-            font-size: 1.25rem;
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-        }
-
-        .format-desc {
-            font-size: 0.9rem;
-            color: var(--text-light);
-            margin-bottom: 1rem;
-            line-height: 1.5;
-        }
-
-        .format-specs {
-            background: var(--bg);
-            padding: 0.75rem;
-            border-radius: 8px;
-            font-size: 0.85rem;
-            color: var(--text-light);
-            margin-bottom: 1rem;
-            border-left: 3px solid var(--primary);
-        }
-
+        /* Buttons */
         .button-group {
             display: flex;
             gap: 0.75rem;
@@ -212,20 +125,16 @@
         }
 
         .btn {
-            flex: 1;
-            min-width: 120px;
-            padding: 0.75rem 1rem;
+            padding: 0.75rem 1.5rem;
             border: none;
             border-radius: 8px;
-            font-size: 0.9rem;
+            font-size: 0.95rem;
             font-weight: 600;
             cursor: pointer;
             transition: all 0.3s ease;
-            display: flex;
+            display: inline-flex;
             align-items: center;
-            justify-content: center;
             gap: 0.5rem;
-            text-decoration: none;
         }
 
         .btn-primary {
@@ -235,209 +144,159 @@
 
         .btn-primary:hover {
             background: var(--primary-dark);
-            transform: scale(1.05);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow);
         }
 
-        .btn-secondary {
-            background: var(--bg);
-            color: var(--primary);
-            border: 2px solid var(--primary);
-        }
-
-        .btn-secondary:hover {
-            background: var(--primary);
-            color: white;
-        }
-
-        /* Regional Selector */
-        .regions-section {
-            margin-bottom: 2rem;
-        }
-
-        .regions-label {
-            font-weight: 600;
-            margin-bottom: 0.75rem;
-            display: block;
-            color: var(--text-light);
-        }
-
-        .regions-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-            gap: 0.75rem;
-            margin-bottom: 1rem;
-        }
-
-        .region-btn {
-            padding: 0.75rem;
-            border: 2px solid var(--border);
-            background: var(--bg);
-            border-radius: 8px;
-            cursor: pointer;
-            font-weight: 500;
-            transition: all 0.3s ease;
-            font-size: 0.9rem;
-        }
-
-        .region-btn:hover {
-            border-color: var(--primary);
-            background: var(--bg-alt);
-        }
-
-        .region-btn.active {
-            background: var(--primary);
-            color: white;
-            border-color: var(--primary);
-        }
-
-        /* Tech Stack */
-        .tech-stack {
-            background: var(--bg-alt);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 1.5rem;
-            margin-bottom: 2rem;
-        }
-
-        .tech-title {
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin-bottom: 1rem;
-        }
-
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 1rem;
-        }
-
-        .tech-badge {
-            background: var(--bg);
-            padding: 0.75rem;
-            border-radius: 8px;
-            text-align: center;
-            font-size: 0.85rem;
-            border: 1px solid var(--border);
-        }
-
-        .tech-badge strong {
-            display: block;
-            color: var(--primary);
-            margin-bottom: 0.25rem;
-        }
-
-        /* Integration Section */
-        .integration-section {
-            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
-            color: white;
-            border-radius: 12px;
-            padding: 2rem;
-            margin-bottom: 2rem;
-        }
-
-        .integration-section h3 {
-            font-size: 1.3rem;
-            margin-bottom: 1rem;
-        }
-
-        .integration-list {
-            list-style: none;
-            margin-bottom: 1.5rem;
-        }
-
-        .integration-list li {
-            padding: 0.5rem 0;
-            font-size: 0.95rem;
-        }
-
-        .integration-list li:before {
-            content: "▶ ";
-            margin-right: 0.5rem;
-            color: var(--secondary);
-        }
-
-        .copy-btn {
-            background: var(--secondary);
-            color: var(--primary);
-            padding: 0.75rem 1rem;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            font-weight: 600;
-            transition: all 0.3s ease;
-        }
-
-        .copy-btn:hover {
-            transform: scale(1.05);
-            box-shadow: 0 4px 12px rgba(255,215,0,0.3);
-        }
-
-        .copy-btn.copied {
+        .btn-success {
             background: var(--success);
             color: white;
         }
 
-        /* Footer */
-        .footer {
+        .btn-success:hover {
+            background: #218838;
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--secondary);
+            border: 2px solid var(--secondary);
+        }
+
+        .btn-secondary:hover {
+            background: var(--secondary);
+            color: var(--bg);
+        }
+
+        /* Stats */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .stat {
+            background: var(--bg-alt);
+            padding: 1rem;
+            border-radius: 8px;
             text-align: center;
-            padding: 2rem 0;
-            border-top: 1px solid var(--border);
+            border-left: 4px solid var(--primary);
+        }
+
+        .stat-number {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--secondary);
+            margin-bottom: 0.25rem;
+        }
+
+        .stat-label {
+            font-size: 0.85rem;
             color: var(--text-light);
-            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
-        .footer a {
-            color: var(--primary);
-            text-decoration: none;
+        /* Channel List */
+        .channel-list {
+            display: grid;
+            gap: 0.5rem;
+            max-height: 600px;
+            overflow-y: auto;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1rem;
+            background: var(--bg-alt);
         }
 
-        .footer a:hover {
-            text-decoration: underline;
+        .channel-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 0.75rem;
+            background: var(--bg);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            transition: all 0.2s ease;
+            cursor: pointer;
         }
 
-        /* Responsive */
-        @media (max-width: 640px) {
-            body {
-                padding-left: 12px;
-                padding-right: 12px;
-            }
-
-            .header h1 {
-                font-size: 1.5rem;
-            }
-
-            .header p {
-                font-size: 0.95rem;
-            }
-
-            .formats-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .stats-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-
-            .integration-section {
-                padding: 1.5rem;
-            }
-
-            .button-group {
-                flex-direction: column;
-            }
-
-            .btn {
-                min-width: unset;
-            }
+        .channel-item:hover {
+            background: rgba(0,102,204,0.1);
+            border-color: var(--primary);
+            transform: translateX(4px);
         }
 
-        /* Loading State */
+        .channel-item input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+            cursor: pointer;
+            accent-color: var(--primary);
+        }
+
+        .channel-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .channel-name {
+            font-weight: 600;
+            color: var(--text);
+            word-break: break-word;
+        }
+
+        .channel-group {
+            font-size: 0.85rem;
+            color: var(--text-light);
+            margin-top: 0.25rem;
+        }
+
+        .channel-count {
+            background: var(--primary);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: var(--text-light);
+        }
+
+        .empty-state p {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Loading */
         .loading {
-            opacity: 0.6;
-            pointer-events: none;
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-light);
         }
 
-        /* Copy Toast */
+        .spinner {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            border: 3px solid var(--border);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin-right: 1rem;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Toast */
         .toast {
             position: fixed;
             bottom: 2rem;
@@ -446,9 +305,9 @@
             color: white;
             padding: 1rem 1.5rem;
             border-radius: 8px;
-            box-shadow: var(--shadow-lg);
+            box-shadow: var(--shadow);
+            z-index: 1000;
             animation: slideUp 0.3s ease;
-            z-index: 2000;
         }
 
         @keyframes slideUp {
@@ -461,329 +320,321 @@
                 opacity: 1;
             }
         }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .control-row {
+                grid-template-columns: 1fr;
+            }
+
+            .channel-list {
+                max-height: 400px;
+            }
+        }
     </style>
 </head>
 <body>
-    <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>📺 AJN TV Hub</h1>
+            <p>Search • Filter • Select • Download Custom Playlists</p>
+        </div>
 
-    <header class="header">
-        <div class="header-logo">📺</div>
-        <h1>AJN TV Hub</h1>
-        <p>Live Streams, Movies & TV Playlists - Auto-Updated Every 8 Hours</p>
-    </header>
-
-    <!-- Stats Dashboard -->
-    <div class="stats-grid">
-        <div class="stat-card">
-            <div class="stat-number" id="channelCount">0</div>
-            <div class="stat-label">Total Channels</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number" id="regionCount">30+</div>
-            <div class="stat-label">Regions</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number" id="updateStatus">✓</div>
-            <div class="stat-label">Auto-Update</div>
-        </div>
-        <div class="stat-card">
-            <div class="stat-number" id="lastUpdate">Today</div>
-            <div class="stat-label">Last Update</div>
-        </div>
-    </div>
-
-    <!-- Download Formats Section -->
-    <section class="regions-section">
-        <label class="section-title">📍 Select Region</label>
-        <div class="regions-grid">
-            <button class="region-btn active" data-region="collection">All Regions</button>
-            <button class="region-btn" data-region="usa">USA</button>
-            <button class="region-btn" data-region="canada">Canada</button>
-            <button class="region-btn" data-region="mexico">Mexico</button>
-            <button class="region-btn" data-region="uk">UK</button>
-            <button class="region-btn" data-region="spain">Spain</button>
-            <button class="region-btn" data-region="france">France</button>
-            <button class="region-btn" data-region="germany">Germany</button>
-        </div>
-    </section>
-
-    <section class="formats-grid" id="formatsContainer">
-        <!-- M3U Format Card -->
-        <div class="format-card">
-            <div class="format-icon">📋</div>
-            <div class="format-title">M3U Playlist</div>
-            <div class="format-desc">Standard playlist format compatible with all media players</div>
-            <div class="format-specs">
-                <strong>Format:</strong> M3U (Extended)<br>
-                <strong>Support:</strong> VLC, Kodi, Plex, Roku, FireTV, Android<br>
-                <strong>Size:</strong> Dynamic (auto-updated)
+        <!-- Controls -->
+        <div class="controls">
+            <div class="control-row">
+                <div class="control-group">
+                    <label>🔍 Search Channels</label>
+                    <input type="text" id="searchInput" placeholder="Type channel name...">
+                </div>
+                <div class="control-group">
+                    <label>📂 Select Region</label>
+                    <select id="regionSelect">
+                        <option value="collection">All Regions (Collection)</option>
+                        <option value="usa">USA</option>
+                        <option value="canada">Canada</option>
+                        <option value="mexico">Mexico</option>
+                        <option value="uk">UK</option>
+                        <option value="spain">Spain</option>
+                        <option value="france">France</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>🏷️ Filter by Group</label>
+                    <select id="groupFilter">
+                        <option value="">All Groups</option>
+                    </select>
+                </div>
             </div>
+
+            <!-- Stats -->
+            <div class="stats">
+                <div class="stat">
+                    <div class="stat-number" id="totalChannels">0</div>
+                    <div class="stat-label">Total Channels</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number" id="filteredChannels">0</div>
+                    <div class="stat-label">Filtered</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number" id="selectedChannels">0</div>
+                    <div class="stat-label">Selected</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number" id="totalGroups">0</div>
+                    <div class="stat-label">Groups</div>
+                </div>
+            </div>
+
+            <!-- Action Buttons -->
             <div class="button-group">
-                <button class="btn btn-primary" onclick="downloadM3U()">📥 Download M3U</button>
-                <button class="btn btn-secondary" onclick="copyToClipboard(getM3UUrl())">📋 Copy URL</button>
+                <button class="btn btn-primary" onclick="selectAll()">✓ Select All</button>
+                <button class="btn btn-primary" onclick="deselectAll()">✗ Deselect All</button>
+                <button class="btn btn-success" onclick="downloadSelected()">📥 Download Selected M3U</button>
+                <button class="btn btn-secondary" onclick="copySelectedUrls()">📋 Copy URLs</button>
             </div>
         </div>
 
-        <!-- JSON Format Card -->
-        <div class="format-card">
-            <div class="format-icon">{ }</div>
-            <div class="format-title">JSON Data</div>
-            <div class="format-desc">Structured metadata for API integration and app development</div>
-            <div class="format-specs">
-                <strong>Format:</strong> JSON (Metadata)<br>
-                <strong>Includes:</strong> Channel names, logos, groups, URLs<br>
-                <strong>API-Ready:</strong> Yes
-            </div>
-            <div class="button-group">
-                <button class="btn btn-primary" onclick="downloadJSON()">📥 Download JSON</button>
-                <button class="btn btn-secondary" onclick="copyToClipboard(getJSONUrl())">📋 Copy URL</button>
-            </div>
-        </div>
-
-        <!-- TXT Format Card -->
-        <div class="format-card">
-            <div class="format-icon">📄</div>
-            <div class="format-title">Text List</div>
-            <div class="format-desc">Human-readable channel list with descriptions and URLs</div>
-            <div class="format-specs">
-                <strong>Format:</strong> Plain Text<br>
-                <strong>Content:</strong> Channel details, sources<br>
-                <strong>Readable:</strong> All devices
-            </div>
-            <div class="button-group">
-                <button class="btn btn-primary" onclick="downloadTXT()">📥 Download TXT</button>
-                <button class="btn btn-secondary" onclick="copyToClipboard(getTXTUrl())">📋 Copy URL</button>
-            </div>
-        </div>
-    </section>
-
-    <!-- Integration Section -->
-    <div class="integration-section">
-        <h3>🚀 Quick Integration</h3>
-        <p style="margin-bottom: 1rem;">Use these URLs in your apps:</p>
-        <ul class="integration-list">
-            <li><strong>AJN Liberty Play:</strong> Paste M3U URL in Media Source</li>
-            <li><strong>Maverick Player:</strong> Add as Playlist Source</li>
-            <li><strong>Nexus-TV-O:</strong> Import JSON for channel metadata</li>
-            <li><strong>IPTV Apps:</strong> Use M3U for standard IPTV format</li>
-            <li><strong>Custom Apps:</strong> Integrate via JSON API endpoint</li>
-        </ul>
-        <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
-            <button class="copy-btn" onclick="copyToClipboard(getM3UUrl()); showToast('M3U URL copied!')">Copy M3U URL</button>
-            <button class="copy-btn" onclick="copyToClipboard(getJSONUrl()); showToast('JSON URL copied!')">Copy JSON URL</button>
-        </div>
-    </div>
-
-    <!-- Tech Stack Section -->
-    <div class="tech-stack">
-        <div class="tech-title">⚙️ Technology Stack</div>
-        <div class="tech-grid">
-            <div class="tech-badge">
-                <strong>Python 3.10</strong>
-                Stream Ingestion
-            </div>
-            <div class="tech-badge">
-                <strong>30-Worker</strong>
-                ThreadPool
-            </div>
-            <div class="tech-badge">
-                <strong>HTTP Validation</strong>
-                200/206 Status
-            </div>
-            <div class="tech-badge">
-                <strong>URL Dedup</strong>
-                CDN Optimization
-            </div>
-            <div class="tech-badge">
-                <strong>GitHub Actions</strong>
-                8-Hour Schedule
-            </div>
-            <div class="tech-badge">
-                <strong>Multi-Format</strong>
-                M3U/JSON/TXT
+        <!-- Channel List -->
+        <div id="channelContainer">
+            <div class="loading">
+                <span class="spinner"></span>
+                Loading channels...
             </div>
         </div>
     </div>
-
-    <!-- Footer -->
-    <footer class="footer">
-        <p>AJN TV Hub - <span id="updateTime">Last updated: Loading...</span></p>
-        <p style="margin-top: 0.5rem; font-size: 0.85rem;">
-            Auto-updated every 8 hours |
-            <a href="https://github.com/banamine/AJN-Collection-" target="_blank">GitHub Repository</a> |
-            30+ regions worldwide
-        </p>
-    </footer>
 
     <script>
-        // Theme Management
-        const themeToggle = document.getElementById('themeToggle');
-        const htmlRoot = document.documentElement;
+        let allChannels = [];
+        let filteredChannels = [];
+        let selectedChannels = new Set();
+        let currentRegion = 'collection';
 
-        function initTheme() {
-            const savedTheme = localStorage.getItem('theme') || 'system';
-            if (savedTheme === 'dark') {
-                htmlRoot.setAttribute('data-theme', 'dark');
-                themeToggle.textContent = '☀️';
-            } else if (savedTheme === 'light') {
-                htmlRoot.setAttribute('data-theme', 'light');
-                themeToggle.textContent = '🌙';
+        // Load data
+        async function loadChannels() {
+            try {
+                const url = `https://raw.githubusercontent.com/banamine/AJN-Collection-/main/LiveTV/${currentRegion}/LiveTV.json`;
+                console.log('Fetching from:', url);
+
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+
+                const data = await response.json();
+                allChannels = [];
+
+                // Flatten channels from all regions
+                Object.values(data.regions || {}).forEach(region => {
+                    if (Array.isArray(region.channels)) {
+                        allChannels.push(...region.channels);
+                    } else if (region && typeof region === 'object') {
+                        Object.values(region).forEach(item => {
+                            if (Array.isArray(item)) {
+                                allChannels.push(...item);
+                            }
+                        });
+                    }
+                });
+
+                console.log('Loaded channels:', allChannels.length);
+                populateGroupFilter();
+                renderChannels();
+            } catch (error) {
+                console.error('Error loading channels:', error);
+                document.getElementById('channelContainer').innerHTML = `
+                    <div class="empty-state">
+                        <p>❌ Failed to load channels</p>
+                        <p style="font-size: 0.9rem; color: #888;">${error.message}</p>
+                        <p style="font-size: 0.85rem; margin-top: 1rem;">Trying fallback...</p>
+                    </div>
+                `;
+                // Fallback to collection
+                if (currentRegion !== 'collection') {
+                    currentRegion = 'collection';
+                    loadChannels();
+                }
             }
         }
 
-        themeToggle.addEventListener('click', () => {
-            const current = htmlRoot.getAttribute('data-theme');
-            let newTheme = 'system';
+        // Populate group filter
+        function populateGroupFilter() {
+            const groups = [...new Set(allChannels.map(ch => ch.group || 'Uncategorized'))];
+            const groupFilter = document.getElementById('groupFilter');
+            const currentValue = groupFilter.value;
 
-            if (!current) {
-                newTheme = 'dark';
-                htmlRoot.setAttribute('data-theme', 'dark');
-                themeToggle.textContent = '☀️';
-            } else if (current === 'dark') {
-                newTheme = 'light';
-                htmlRoot.setAttribute('data-theme', 'light');
-                themeToggle.textContent = '🌙';
+            groupFilter.innerHTML = '<option value="">All Groups</option>';
+            groups.sort().forEach(group => {
+                const option = document.createElement('option');
+                option.value = group;
+                option.textContent = group;
+                groupFilter.appendChild(option);
+            });
+
+            groupFilter.value = currentValue;
+            updateStats();
+        }
+
+        // Filter and render channels
+        function renderChannels() {
+            const search = document.getElementById('searchInput').value.toLowerCase();
+            const groupFilter = document.getElementById('groupFilter').value;
+
+            filteredChannels = allChannels.filter(channel => {
+                const matchesSearch = !search ||
+                    channel.name.toLowerCase().includes(search) ||
+                    (channel.group && channel.group.toLowerCase().includes(search));
+
+                const matchesGroup = !groupFilter || channel.group === groupFilter;
+
+                return matchesSearch && matchesGroup;
+            });
+
+            const container = document.getElementById('channelContainer');
+
+            if (filteredChannels.length === 0) {
+                container.innerHTML = '<div class="empty-state"><p>No channels found</p></div>';
+                updateStats();
+                return;
+            }
+
+            container.innerHTML = '<div class="channel-list">' +
+                filteredChannels.map((channel, index) => `
+                    <div class="channel-item">
+                        <input type="checkbox"
+                            data-index="${index}"
+                            ${selectedChannels.has(index) ? 'checked' : ''}
+                            onchange="toggleChannel(${index})">
+                        <div class="channel-info">
+                            <div class="channel-name">${escapeHtml(channel.name)}</div>
+                            <div class="channel-group">${escapeHtml(channel.group || 'Uncategorized')}</div>
+                        </div>
+                        <div class="channel-count">${filteredChannels.indexOf(channel) + 1}</div>
+                    </div>
+                `).join('') +
+            '</div>';
+
+            updateStats();
+        }
+
+        // Toggle channel selection
+        function toggleChannel(index) {
+            if (selectedChannels.has(index)) {
+                selectedChannels.delete(index);
             } else {
-                htmlRoot.removeAttribute('data-theme');
-                themeToggle.textContent = '🌙';
+                selectedChannels.add(index);
             }
-            localStorage.setItem('theme', newTheme);
-        });
-
-        // URL Configuration
-        const baseURL = 'https://raw.githubusercontent.com/banamine/AJN-Collection-/main/LiveTV';
-        let selectedRegion = 'collection';
-
-        function getM3UUrl() {
-            return `${baseURL}/${selectedRegion}/LiveTV`;
+            updateStats();
         }
 
-        function getJSONUrl() {
-            return `${baseURL}/${selectedRegion}/LiveTV.json`;
+        // Select/Deselect all
+        function selectAll() {
+            filteredChannels.forEach((_, index) => {
+                selectedChannels.add(index);
+            });
+            renderChannels();
         }
 
-        function getTXTUrl() {
-            return `${baseURL}/${selectedRegion}/LiveTV.txt`;
+        function deselectAll() {
+            selectedChannels.clear();
+            renderChannels();
         }
 
-        // Download Functions
-        function downloadM3U() {
-            const url = getM3UUrl();
+        // Download selected as M3U
+        function downloadSelected() {
+            if (selectedChannels.size === 0) {
+                showToast('Please select at least one channel');
+                return;
+            }
+
+            const selected = Array.from(selectedChannels).map(i => filteredChannels[i]);
+            const m3uContent = generateM3U(selected);
+
+            const blob = new Blob([m3uContent], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = `${selectedRegion}-LiveTV.m3u`;
+            a.download = `custom-playlist-${selected.length}ch.m3u`;
             document.body.appendChild(a);
             a.click();
             document.body.removeChild(a);
-            showToast('M3U file downloading...');
+            URL.revokeObjectURL(url);
+
+            showToast(`Downloaded ${selected.length} channels`);
         }
 
-        function downloadJSON() {
-            const url = getJSONUrl();
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = `${selectedRegion}-LiveTV.json`;
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-            showToast('JSON file downloading...');
-        }
+        // Copy selected URLs
+        function copySelectedUrls() {
+            if (selectedChannels.size === 0) {
+                showToast('Please select at least one channel');
+                return;
+            }
 
-        function downloadTXT() {
-            const url = getTXTUrl();
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = `${selectedRegion}-LiveTV.txt`;
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-            showToast('TXT file downloading...');
-        }
+            const selected = Array.from(selectedChannels).map(i => filteredChannels[i]);
+            const urls = selected.map(ch => ch.url).join('\n');
 
-        // Clipboard Functions
-        function copyToClipboard(text) {
-            navigator.clipboard.writeText(text).then(() => {
-                console.log('Copied to clipboard:', text);
-            }).catch(err => {
-                console.error('Failed to copy:', err);
-                // Fallback for older browsers
-                const textarea = document.createElement('textarea');
-                textarea.value = text;
-                document.body.appendChild(textarea);
-                textarea.select();
-                document.execCommand('copy');
-                document.body.removeChild(textarea);
+            navigator.clipboard.writeText(urls).then(() => {
+                showToast(`Copied ${selected.length} URLs to clipboard`);
             });
         }
 
-        // Toast Notification
+        // Generate M3U content
+        function generateM3U(channels) {
+            let m3u = '#EXTM3U\n';
+            channels.forEach(ch => {
+                m3u += `#EXTINF:-1 tvg-name="${escapeHtml(ch.name)}" group-title="${escapeHtml(ch.group || 'Uncategorized')}"`;
+                if (ch.logo) {
+                    m3u += ` tvg-logo="${ch.logo}"`;
+                }
+                m3u += `,${ch.name}\n`;
+                m3u += `${ch.url}\n`;
+            });
+            return m3u;
+        }
+
+        // Update stats
+        function updateStats() {
+            document.getElementById('totalChannels').textContent = allChannels.length;
+            document.getElementById('filteredChannels').textContent = filteredChannels.length;
+            document.getElementById('selectedChannels').textContent = selectedChannels.size;
+
+            const groups = [...new Set(allChannels.map(ch => ch.group || 'Uncategorized'))];
+            document.getElementById('totalGroups').textContent = groups.length;
+        }
+
+        // Toast notification
         function showToast(message) {
             const toast = document.createElement('div');
             toast.className = 'toast';
             toast.textContent = message;
             document.body.appendChild(toast);
-            setTimeout(() => {
-                toast.remove();
-            }, 3000);
+            setTimeout(() => toast.remove(), 3000);
         }
 
-        // Region Selection
-        document.querySelectorAll('.region-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                document.querySelectorAll('.region-btn').forEach(b => b.classList.remove('active'));
-                e.target.classList.add('active');
-                selectedRegion = e.target.getAttribute('data-region');
-                updateURLs();
-            });
+        // Escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', renderChannels);
+        document.getElementById('groupFilter').addEventListener('change', renderChannels);
+        document.getElementById('regionSelect').addEventListener('change', (e) => {
+            currentRegion = e.target.value;
+            selectedChannels.clear();
+            loadChannels();
         });
-
-        function updateURLs() {
-            const m3uBtn = document.querySelector('.btn-primary');
-            const jsonBtn = document.querySelectorAll('.btn-primary')[1];
-            const txtBtn = document.querySelectorAll('.btn-primary')[2];
-
-            console.log(`Region changed to: ${selectedRegion}`);
-            console.log(`M3U URL: ${getM3UUrl()}`);
-            console.log(`JSON URL: ${getJSONUrl()}`);
-            console.log(`TXT URL: ${getTXTUrl()}`);
-        }
-
-        // Load Statistics
-        async function loadStats() {
-            try {
-                const response = await fetch(`${baseURL}/collection/LiveTV.json`);
-                if (response.ok) {
-                    const data = await response.json();
-                    const totalChannels = data.total || Object.values(data.regions || {}).reduce((sum, r) => sum + (r.count || 0), 0);
-                    document.getElementById('channelCount').textContent = totalChannels.toLocaleString();
-
-                    if (data.generated) {
-                        const date = new Date(data.generated);
-                        document.getElementById('lastUpdate').textContent = date.toLocaleDateString();
-                        document.getElementById('updateTime').textContent = `Last updated: ${date.toLocaleString()}`;
-                    }
-                }
-            } catch (error) {
-                console.log('Stats loading note:', error.message);
-                document.getElementById('lastUpdate').textContent = 'Today';
-            }
-        }
 
         // Initialize
-        window.addEventListener('load', () => {
-            initTheme();
-            loadStats();
-        });
-
-        // Keyboard Shortcuts
-        document.addEventListener('keydown', (e) => {
-            if (e.ctrlKey || e.metaKey) {
-                if (e.key === 'm') {
-                    e.preventDefault();
-                    downloadM3U();
-                }
-            }
-        });
+        window.addEventListener('load', loadChannels);
     </script>
 </body>
 </html>
