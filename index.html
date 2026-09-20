@@ -1,600 +1,828 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>M3U Links Hub</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: 'Poppins', sans-serif;
-            background: #1a1a1a;
-            color: #fff;
-            line-height: 1.6;
-            transition: background 0.3s, color 0.3s;
-        }
-        body.light { background: #f4f4f4; color: #333; }
-        body.pool { background: #0a0f1a; color: #00ffcc; }
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        header {
-            text-align: center;
-            padding: 40px 0;
-            background: linear-gradient(45deg, #ff007a, #00ddeb);
-            color: white;
-            border-radius: 0 0 20px 20px;
-        }
-        header h1 {
-            font-size: 2.8em;
-            margin-bottom: 10px;
-            animation: fadeIn 1s ease-in;
-        }
-        header p { font-size: 1.3em; }
-        .theme-toggle {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            background: none;
-            border: none;
-            font-size: 1.5em;
-            cursor: pointer;
-            color: inherit;
-        }
-        .search-bar {
-            display: flex;
-            justify-content: center;
-            margin: 20px 0;
-        }
-        #search {
-            padding: 12px;
-            width: 100%;
-            max-width: 500px;
-            border: none;
-            border-radius: 25px;
-            font-size: 1em;
-            background: #333;
-            color: #fff;
-            transition: background 0.3s;
-        }
-        body.light #search { background: #ddd; color: #333; }
-        body.pool #search { background: #1a2a3a; border: 1px solid #ff007a; }
-        .dropdown-section { margin: 20px 0; }
-        select {
-            width: 100%;
-            max-width: 300px;
-            padding: 10px;
-            background: #2a2a2a;
-            color: #fff;
-            border: none;
-            border-radius: 10px;
-            font-size: 1em;
-            cursor: pointer;
-        }
-        body.light select { background: #fff; color: #333; }
-        body.pool select { background: #1a2a3a; border: 1px solid #00ddeb; }
-        .card {
-            display: none;
-            background: #2a2a2a;
-            border-radius: 15px;
-            padding: 15px;
-            margin-top: 10px;
-            transition: transform 0.3s, box-shadow 0.3s;
-        }
-        .card.active { display: block; }
-        body.light .card { background: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-        body.pool .card { background: #1a2a3a; box-shadow: 0 0 15px rgba(255, 0, 122, 0.5); }
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 6px 12px rgba(0,0,0,0.3);
-        }
-        .link-item {
-            padding: 10px;
-            border-bottom: 1px solid #444;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            position: relative;
-        }
-        body.light .link-item { border-bottom: 1px solid #ccc; }
-        body.pool .link-item { border-bottom: 1px solid #00ddeb; }
-        .link-item a { color: #00ddeb; text-decoration: none; }
-        .status-badge {
-            width: 10px;
-            height: 10px;
-            border-radius: 50%;
-            position: absolute;
-            left: 0;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-        .status-online { background: #00ff00; }
-        .status-offline { background: #ff0000; }
-        .copy-btn, .download-btn {
-            background: #ff007a;
-            border: none;
-            padding: 5px 10px;
-            border-radius: 5px;
-            color: white;
-            cursor: pointer;
-            transition: background 0.3s;
-            margin-left: 5px;
-        }
-        .copy-btn:hover, .download-btn:hover { background: #e6006b; }
-        .analytics {
-            margin: 40px 0;
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            background: #2a2a2a;
-            border-radius: 15px;
-            padding: 20px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-        }
-        body.light .analytics { background: #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
-        body.pool .analytics { background: #1a2a3a; box-shadow: 0 0 15px rgba(255, 0, 122, 0.3); }
-        .analytics-left, .analytics-right {
-            flex: 1;
-            min-width: 300px;
-            padding: 10px;
-        }
-        .analytics-left h2, .analytics-right h2 {
-            font-size: 1.8em;
-            margin-bottom: 15px;
-            color: #00ddeb;
-        }
-        .gauge {
-            width: 150px;
-            height: 150px;
-            margin: 20px auto;
-            position: relative;
-        }
-        .gauge-text {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            font-size: 1.2em;
-            font-weight: 600;
-        }
-        .line-chart { max-width: 100%; margin: 20px 0; }
-        .leaderboard { margin: 20px 0; }
-        .leaderboard-item { padding: 5px 0; display: flex; justify-content: space-between; }
-        .export-btn {
-            background: #00ddeb;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 25px;
-            color: #fff;
-            cursor: pointer;
-            transition: background 0.3s;
-            display: block;
-            margin: 20px auto;
-        }
-        .export-btn:hover { background: #00b8c9; }
-        .notification {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background: #00ddeb;
-            color: #fff;
-            padding: 10px 20px;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-            display: none;
-        }
-        footer {
-            text-align: center;
-            padding: 20px;
-            margin-top: 40px;
-            font-size: 0.9em;
-            color: #888;
-        }
-        @media (max-width: 600px) {
-            header h1 { font-size: 1.8em; }
-            header p { font-size: 1em; }
-            select { max-width: 100%; }
-            .link-item { flex-direction: column; align-items: flex-start; }
-            .copy-btn, .download-btn { margin-top: 5px; }
-            .analytics { flex-direction: column; }
-        }
-        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-    </style>
-</head>
-<body>
-    <header>
-        <button class="theme-toggle" onclick="toggleTheme()">☀️</button>
-        <h1>M3U Links Hub</h1>
-        <p>Global Live TV & Movies Playlists</p>
-    </header>
-    <div class="container">
-        <div class="search-bar">
-            <input type="text" id="search" placeholder="Search channels or movies..." onkeyup="searchContent()">
-        </div>
-        <div class="dropdown-section">
-            <h2>Live TV</h2>
-            <select id="live-tv-select" onchange="showLiveTV(this.value)">
-                <option value="">Select Country</option>
-            </select>
-            <div id="live-tv-content" class="card"></div>
-        </div>
-        <div class="dropdown-section">
-            <h2>Movies</h2>
-            <select id="movies-select" onchange="showMovies(this.value)">
-                <option value="">Select Category</option>
-            </select>
-            <div id="movies-content" class="card"></div>
-        </div>
-        <div class="analytics">
-            <div class="analytics-left">
-                <h2>Global Analytics</h2>
-                <div id="gauges-container"></div>
-                <div class="leaderboard" id="leaderboard"></div>
-            </div>
-            <div class="analytics-right">
-                <h2>Download Trends</h2>
-                <canvas id="downloadChart" class="line-chart"></canvas>
-                <button class="export-btn" onclick="exportStats()">Download Stats (CSV)</button>
-            </div>
-        </div>
+<title>AJN Live Stream Directory</title>
+<meta name="description" content="North America & English Priority TV Streams - Multiple formats, real-time validation, searchable catalog">
+
+<style>
+  :root {
+    --bg-primary: #0d1117;
+    --bg-secondary: #161b22;
+    --bg-tertiary: #21262d;
+    --border: #30363d;
+    --text-primary: #c9d1d9;
+    --text-secondary: #8b949e;
+    --accent-primary: #58a6ff;
+    --accent-hover: #79c0ff;
+    --success: #3fb950;
+    --warning: #d29922;
+    --danger: #d1242f;
+    --font-mono: 'Space Mono', 'Courier New', monospace;
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg-primary: #0d1117;
+      --bg-secondary: #161b22;
+      --bg-tertiary: #21262d;
+      --border: #30363d;
+      --text-primary: #c9d1d9;
+      --text-secondary: #8b949e;
+      --accent-primary: #58a6ff;
+      --accent-hover: #79c0ff;
+    }
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f6f8fa;
+      --bg-tertiary: #eaeef2;
+      --border: #d0d7de;
+      --text-primary: #24292f;
+      --text-secondary: #57606a;
+      --accent-primary: #0969da;
+      --accent-hover: #54aeff;
+      --success: #1a7f37;
+      --warning: #9e6a03;
+      --danger: #cf222e;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --bg-primary: #0d1117;
+    --bg-secondary: #161b22;
+    --bg-tertiary: #21262d;
+    --border: #30363d;
+    --text-primary: #c9d1d9;
+    --text-secondary: #8b949e;
+    --accent-primary: #58a6ff;
+    --accent-hover: #79c0ff;
+  }
+
+  :root[data-theme="light"] {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f6f8fa;
+    --bg-tertiary: #eaeef2;
+    --border: #d0d7de;
+    --text-primary: #24292f;
+    --text-secondary: #57606a;
+    --accent-primary: #0969da;
+    --accent-hover: #54aeff;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html, body {
+    height: 100%;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    font-size: 14px;
+    padding: 0 16px;
+    padding-top: env(safe-area-inset-top, 20px);
+    padding-bottom: env(safe-area-inset-bottom, 20px);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    text-wrap: balance;
+  }
+
+  h1 { font-size: 32px; line-height: 1.2; margin-bottom: 8px; }
+  h2 { font-size: 24px; line-height: 1.3; margin-bottom: 20px; margin-top: 32px; }
+  h3 { font-size: 18px; line-height: 1.3; margin-bottom: 16px; }
+  h4 { font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 12px; color: var(--text-secondary); }
+
+  a {
+    color: var(--accent-primary);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  a:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
+  }
+
+  button, .btn {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 16px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: all 0.2s;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+  }
+
+  button:hover, .btn:hover {
+    background: var(--bg-tertiary);
+    border-color: var(--accent-primary);
+  }
+
+  .btn-primary {
+    background: var(--accent-primary);
+    color: var(--bg-primary);
+    border-color: var(--accent-primary);
+  }
+
+  .btn-primary:hover {
+    background: var(--accent-hover);
+    border-color: var(--accent-hover);
+  }
+
+  .btn-success {
+    background: var(--success);
+    color: white;
+    border-color: var(--success);
+  }
+
+  .btn-success:hover {
+    background: #2ea043;
+    border-color: #2ea043;
+  }
+
+  .btn-sm {
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .header {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    margin-bottom: 32px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .logo {
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--accent-primary);
+  }
+
+  .status-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 12px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    font-size: 12px;
+    font-family: var(--font-mono);
+    color: var(--text-secondary);
+  }
+
+  .status-badge.active {
+    background: rgba(63, 185, 80, 0.1);
+    border-color: var(--success);
+    color: var(--success);
+  }
+
+  .hero-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-bottom: 40px;
+  }
+
+  .stat-card {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .stat-value {
+    font-size: 32px;
+    font-weight: 700;
+    font-family: var(--font-mono);
+    color: var(--accent-primary);
+  }
+
+  .stat-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+  }
+
+  .format-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 16px;
+    margin-bottom: 40px;
+  }
+
+  .format-card {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .format-card:hover {
+    border-color: var(--accent-primary);
+    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.1);
+  }
+
+  .format-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(to right, var(--accent-primary), transparent);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .format-card:hover::before {
+    opacity: 1;
+  }
+
+  .format-icon {
+    font-size: 24px;
+    opacity: 0.8;
+  }
+
+  .format-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+  }
+
+  .format-title {
+    flex: 1;
+  }
+
+  .format-title h3 {
+    margin-bottom: 4px;
+  }
+
+  .format-desc {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+  }
+
+  .format-specs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .spec-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 10px;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    font-size: 11px;
+    font-family: var(--font-mono);
+    color: var(--text-secondary);
+  }
+
+  .format-links {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .link-btn {
+    flex: 1;
+    min-width: 100px;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+  }
+
+  .link-btn.m3u {
+    background: rgba(88, 166, 255, 0.1);
+    border-color: var(--accent-primary);
+    color: var(--accent-primary);
+  }
+
+  .link-btn.m3u:hover {
+    background: rgba(88, 166, 255, 0.2);
+  }
+
+  .link-btn.json {
+    background: rgba(63, 185, 80, 0.1);
+    border-color: var(--success);
+    color: var(--success);
+  }
+
+  .link-btn.json:hover {
+    background: rgba(63, 185, 80, 0.2);
+  }
+
+  .link-btn.txt {
+    background: rgba(210, 153, 34, 0.1);
+    border-color: var(--warning);
+    color: var(--warning);
+  }
+
+  .link-btn.txt:hover {
+    background: rgba(210, 153, 34, 0.2);
+  }
+
+  .integration-section {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px;
+    margin-bottom: 40px;
+  }
+
+  .integration-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 16px;
+  }
+
+  .integration-card {
+    padding: 16px;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+  }
+
+  .integration-card h4 {
+    margin-bottom: 12px;
+    color: var(--accent-primary);
+  }
+
+  .integration-card code {
+    display: block;
+    background: var(--bg-primary);
+    padding: 12px;
+    border-radius: 4px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    overflow-x: auto;
+    color: var(--text-secondary);
+    border: 1px solid var(--border);
+    line-height: 1.4;
+    word-break: break-all;
+  }
+
+  .category-explorer {
+    margin-bottom: 40px;
+  }
+
+  .search-box {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+
+  .search-box input {
+    flex: 1;
+    padding: 10px 12px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    font-size: 14px;
+  }
+
+  .search-box input::placeholder {
+    color: var(--text-secondary);
+  }
+
+  .search-box input:focus {
+    outline: none;
+    border-color: var(--accent-primary);
+    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.1);
+  }
+
+  .category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 12px;
+  }
+
+  .category-chip {
+    padding: 12px 16px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 13px;
+    font-weight: 500;
+  }
+
+  .category-chip:hover {
+    background: var(--bg-tertiary);
+    border-color: var(--accent-primary);
+    color: var(--accent-primary);
+  }
+
+  .footer {
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+    margin-top: 40px;
+    text-align: center;
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+
+  .copy-btn {
+    cursor: pointer;
+    font-size: 11px;
+    padding: 4px 8px;
+    margin-left: 4px;
+  }
+
+  .copy-btn.copied {
+    color: var(--success);
+  }
+
+  .section-eyebrow {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+    display: block;
+  }
+
+  .feature-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+    margin: 20px 0;
+  }
+
+  .feature-item {
+    display: flex;
+    gap: 8px;
+    padding: 12px;
+    background: var(--bg-tertiary);
+    border-radius: 4px;
+    border-left: 2px solid var(--accent-primary);
+  }
+
+  .feature-item::before {
+    content: '✓';
+    color: var(--success);
+    font-weight: bold;
+    flex-shrink: 0;
+  }
+
+  .feature-item span {
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  .tech-stack {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin: 12px 0;
+  }
+
+  .tech-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 10px;
+    background: var(--bg-primary);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    font-size: 11px;
+    font-family: var(--font-mono);
+    color: var(--text-secondary);
+  }
+
+  @media (max-width: 640px) {
+    h1 { font-size: 24px; }
+    h2 { font-size: 18px; }
+    .header {
+      flex-direction: column;
+      gap: 8px;
+    }
+    .hero-stats {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .format-grid {
+      grid-template-columns: 1fr;
+    }
+    .integration-grid {
+      grid-template-columns: 1fr;
+    }
+    .category-grid {
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    }
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+
+  .loading {
+    animation: pulse 2s ease-in-out infinite;
+  }
+</style>
+
+<div class="container">
+  <!-- Header -->
+  <div class="header">
+    <div class="logo">📺 AJN Stream</div>
+    <div class="status-badge active">
+      <span>●</span> Live
     </div>
-    <div class="notification" id="notification"></div>
-    <footer>
-        Powered by <a href="https://github.com/bugsfreeweb/LiveTVCollector" target="_blank">M3U Collector</a> | Updated Daily
-    </footer>
+  </div>
 
-    <script>
-        const baseUrl = window.location.hostname.includes('netlify.app') ? 'https://tvm3u.netlify.app/' : 
-                       window.location.hostname.includes('github.io') ? 'https://bugsfreeweb.github.io/LiveTVCollector/' : 
-                       '/';
-        const rawBaseUrl = 'https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/';
-        let analytics = JSON.parse(localStorage.getItem('m3u_analytics')) || { 
-            liveTv: {}, 
-            movies: {}, 
-            totalChannels: 0, 
-            activeChannels: 0, 
-            lastSync: {} 
-        };
-        let contentMap = { liveTv: {}, movies: {} };
-        let downloadHistory = JSON.parse(localStorage.getItem('download_history')) || [];
-        let statusCache = JSON.parse(localStorage.getItem('m3u_status')) || {};
+  <!-- Hero Stats -->
+  <div class="hero-stats">
+    <div class="stat-card">
+      <div class="stat-value" id="total-channels">0</div>
+      <div class="stat-label">Active Channels</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value" id="total-sources">6</div>
+      <div class="stat-label">Source Feeds</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value" id="validation-rate">0%</div>
+      <div class="stat-label">Validation Rate</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label" style="font-size: 11px; margin-top: 8px;">Last Updated</div>
+      <div id="last-updated" style="font-size: 12px; font-family: var(--font-mono); color: var(--text-secondary);">Loading...</div>
+    </div>
+  </div>
 
-        async function fetchJson(url) {
-            try {
-                const response = await fetch(url);
-                if (!response.ok) throw new Error(`HTTP ${response.status}`);
-                return await response.json();
-            } catch (err) {
-                console.error(`Failed to fetch ${url}:`, err);
-                return null;
-            }
-        }
+  <!-- Format Cards -->
+  <h2>📦 Download Formats</h2>
+  <div class="format-grid">
+    <!-- M3U Format -->
+    <div class="format-card">
+      <div class="format-icon">🎬</div>
+      <div class="format-header">
+        <div class="format-title">
+          <h3>M3U Playlist</h3>
+          <div class="format-desc">Standard IPTV format for media players</div>
+        </div>
+      </div>
+      <div class="format-specs">
+        <div class="spec-badge">VLC Compatible</div>
+        <div class="spec-badge">Kodi Ready</div>
+        <div class="spec-badge">Metadata Tags</div>
+      </div>
+      <div class="feature-list">
+        <div class="feature-item"><span>Channel logos</span></div>
+        <div class="feature-item"><span>Group categorization</span></div>
+        <div class="feature-item"><span>Direct stream URLs</span></div>
+      </div>
+      <div class="format-links">
+        <a href="./LiveTV/NorthAmerica/LiveTV.m3u" class="link-btn m3u" download>
+          📥 Download M3U
+        </a>
+        <button class="link-btn m3u btn-sm copy-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/banamine/AJN-Collection-Repository/main/LiveTV/NorthAmerica/LiveTV.m3u')">
+          📋 Copy Link
+        </button>
+      </div>
+    </div>
 
-        async function checkStatus(url) {
-            try {
-                const response = await fetch(url, { method: 'HEAD', mode: 'no-cors', timeout: 5000 });
-                return response.ok || response.type === 'opaque';
-            } catch {
-                return false;
-            }
-        }
+    <!-- JSON Format -->
+    <div class="format-card">
+      <div class="format-icon">📊</div>
+      <div class="format-header">
+        <div class="format-title">
+          <h3>JSON Feed</h3>
+          <div class="format-desc">Structured data for APIs and integrations</div>
+        </div>
+      </div>
+      <div class="format-specs">
+        <div class="spec-badge">REST API Ready</div>
+        <div class="spec-badge">Typed Schema</div>
+        <div class="spec-badge">Metadata Included</div>
+      </div>
+      <div class="feature-list">
+        <div class="feature-item"><span>Channel objects</span></div>
+        <div class="feature-item"><span>Timestamp tracking</span></div>
+        <div class="feature-item"><span>Full URL structure</span></div>
+      </div>
+      <div class="format-links">
+        <a href="./LiveTV/NorthAmerica/LiveTV.json" class="link-btn json" download>
+          📥 Download JSON
+        </a>
+        <button class="link-btn json btn-sm copy-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/banamine/AJN-Collection-Repository/main/LiveTV/NorthAmerica/LiveTV.json')">
+          📋 Copy Link
+        </button>
+      </div>
+    </div>
 
-        async function populateDropdowns() {
-            const liveTvIndex = await fetchJson(`${rawBaseUrl}LiveTV/index.json`);
-            const moviesIndex = await fetchJson(`${rawBaseUrl}Movies/index.json`);
-            const liveTvSelect = document.getElementById('live-tv-select');
-            const moviesSelect = document.getElementById('movies-select');
+    <!-- TXT Format -->
+    <div class="format-card">
+      <div class="format-icon">📄</div>
+      <div class="format-header">
+        <div class="format-title">
+          <h3>Text Directory</h3>
+          <div class="format-desc">Human-readable channel listing</div>
+        </div>
+      </div>
+      <div class="format-specs">
+        <div class="spec-badge">Plain Text</div>
+        <div class="spec-badge">Searchable</div>
+        <div class="spec-badge">Reference</div>
+      </div>
+      <div class="feature-list">
+        <div class="feature-item"><span>Formatted channels</span></div>
+        <div class="feature-item"><span>Group headers</span></div>
+        <div class="feature-item"><span>Easy scanning</span></div>
+      </div>
+      <div class="format-links">
+        <a href="./LiveTV/NorthAmerica/LiveTV.txt" class="link-btn txt" download>
+          📥 Download TXT
+        </a>
+        <button class="link-btn txt btn-sm copy-btn" onclick="copyToClipboard('https://raw.githubusercontent.com/banamine/AJN-Collection-Repository/main/LiveTV/NorthAmerica/LiveTV.txt')">
+          📋 Copy Link
+        </button>
+      </div>
+    </div>
+  </div>
 
-            if (liveTvIndex) {
-                for (const country of liveTvIndex) {
-                    const option = document.createElement('option');
-                    option.value = country;
-                    option.textContent = country;
-                    liveTvSelect.appendChild(option);
-                    const json = await fetchJson(`${rawBaseUrl}LiveTV/${country}/LiveTV.json`);
-                    if (json) {
-                        contentMap.liveTv[country] = json;
-                        analytics.totalChannels += Object.values(json.channels).flat().length;
-                        analytics.activeChannels += Object.values(json.channels).flat().filter(ch => ch.url).length;
-                        analytics.lastSync[`LiveTV/${country}`] = json.date;
-                        if (!statusCache[`LiveTV/${country}`] || Date.now() - statusCache[`LiveTV/${country}`].timestamp > 3600000) {
-                            const sampleChannel = Object.values(json.channels).flat().find(ch => ch.url);
-                            statusCache[`LiveTV/${country}`] = {
-                                online: sampleChannel ? await checkStatus(sampleChannel.url) : false,
-                                timestamp: Date.now()
-                            };
-                        }
-                        checkForUpdates(`LiveTV/${country}`, json.date);
-                    }
-                }
-            }
-            if (moviesIndex) {
-                for (const category of moviesIndex) {
-                    const option = document.createElement('option');
-                    option.value = category;
-                    option.textContent = category;
-                    moviesSelect.appendChild(option);
-                    const json = await fetchJson(`${rawBaseUrl}Movies/${category}/Movies.json`);
-                    if (json) {
-                        contentMap.movies[category] = json;
-                        analytics.totalChannels += Object.values(json.channels).flat().length;
-                        analytics.activeChannels += Object.values(json.channels).flat().filter(ch => ch.url).length;
-                        analytics.lastSync[`Movies/${category}`] = json.date;
-                        if (!statusCache[`Movies/${category}`] || Date.now() - statusCache[`Movies/${category}`].timestamp > 3600000) {
-                            const sampleMovie = Object.values(json.channels).flat().find(ch => ch.url);
-                            statusCache[`Movies/${category}`] = {
-                                online: sampleMovie ? await checkStatus(sampleMovie.url) : false,
-                                timestamp: Date.now()
-                            };
-                        }
-                        checkForUpdates(`Movies/${category}`, json.date);
-                    }
-                }
-            }
-            localStorage.setItem('m3u_status', JSON.stringify(statusCache));
-            updateAnalytics();
-        }
+  <!-- Integration Guide -->
+  <div class="integration-section">
+    <h2>🔗 Quick Integration</h2>
+    <span class="section-eyebrow">Paste these URLs into your applications</span>
 
-        function createFileLinks(dir, subDir) {
-            const m3uFile = dir === 'LiveTV' ? 'LiveTV.m3u' : 'Movies.m3u';
-            const jsonFile = dir === 'LiveTV' ? 'LiveTV.json' : 'Movies.json';
-            const txtFile = dir === 'LiveTV' ? 'LiveTV.txt' : 'Movies.txt';
-            const prefix = dir === 'LiveTV' ? `${subDir}_LiveTV` : `${subDir}_Movies`;
-            const key = `${dir}/${subDir}`;
-            const status = statusCache[key]?.online ? 'online' : 'offline';
-            return `
-                <div class="link-item">
-                    <div class="status-badge status-${status}"></div>
-                    <a href="${dir}/${subDir}/${m3uFile}" target="_blank" onclick="trackLink('${dir}', '${subDir}', 'click')" style="margin-left: 15px;">M3U File</a>
-                    <button class="copy-btn" onclick="copyToClipboard('${baseUrl}${dir}/${subDir}/${m3uFile}', '${dir}', '${subDir}', 'm3u')">Copy</button>
-                    <button class="download-btn" onclick="downloadFile('${baseUrl}${dir}/${subDir}/${m3uFile}', '${prefix}.m3u', '${dir}', '${subDir}')">Download</button>
-                </div>
-                <div class="link-item">
-                    <div class="status-badge status-${status}"></div>
-                    <a href="${dir}/${subDir}/${jsonFile}" target="_blank" onclick="trackLink('${dir}', '${subDir}', 'click')" style="margin-left: 15px;">JSON File</a>
-                    <button class="copy-btn" onclick="copyToClipboard('${baseUrl}${dir}/${subDir}/${jsonFile}', '${dir}', '${subDir}', 'json')">Copy</button>
-                    <button class="download-btn" onclick="downloadFile('${baseUrl}${dir}/${subDir}/${jsonFile}', '${prefix}.json', '${dir}', '${subDir}')">Download</button>
-                </div>
-                <div class="link-item">
-                    <div class="status-badge status-${status}"></div>
-                    <a href="${dir}/${subDir}/${txtFile}" target="_blank" onclick="trackLink('${dir}', '${subDir}', 'click')" style="margin-left: 15px;">TXT File</a>
-                    <button class="copy-btn" onclick="copyToClipboard('${baseUrl}${dir}/${subDir}/${txtFile}', '${dir}', '${subDir}', 'txt')">Copy</button>
-                    <button class="download-btn" onclick="downloadFile('${baseUrl}${dir}/${subDir}/${txtFile}', '${prefix}.txt', '${dir}', '${subDir}')">Download</button>
-                </div>
-            `;
-        }
+    <div class="integration-grid">
+      <div class="integration-card">
+        <h4>AJN Liberty Play</h4>
+        <code id="url-m3u">https://raw.githubusercontent.com/banamine/AJN-Collection-Repository/main/LiveTV/NorthAmerica/LiveTV.m3u</code>
+        <button class="copy-btn" style="margin-top: 8px; width: 100%;" onclick="copyToClipboard(document.getElementById('url-m3u').textContent)">Copy M3U URL</button>
+      </div>
 
-        function showLiveTV(country) {
-            const content = document.getElementById('live-tv-content');
-            const moviesContent = document.getElementById('movies-content');
-            content.innerHTML = '';
-            moviesContent.classList.remove('active');
-            document.getElementById('movies-select').value = '';
-            if (country) {
-                content.innerHTML = createFileLinks('LiveTV', country);
-                content.classList.add('active');
-                document.getElementById('live-tv-select').value = country;
-            }
-        }
+      <div class="integration-card">
+        <h4>Maverick Multi-Format</h4>
+        <code id="url-json">https://raw.githubusercontent.com/banamine/AJN-Collection-Repository/main/LiveTV/NorthAmerica/LiveTV.json</code>
+        <button class="copy-btn" style="margin-top: 8px; width: 100%;" onclick="copyToClipboard(document.getElementById('url-json').textContent)">Copy JSON URL</button>
+      </div>
 
-        function showMovies(category) {
-            const content = document.getElementById('movies-content');
-            const liveTvContent = document.getElementById('live-tv-content');
-            content.innerHTML = '';
-            liveTvContent.classList.remove('active');
-            document.getElementById('live-tv-select').value = '';
-            if (category) {
-                content.innerHTML = createFileLinks('Movies', category);
-                content.classList.add('active');
-                document.getElementById('movies-select').value = category;
-            }
-        }
+      <div class="integration-card">
+        <h4>Nexus-TV-O Static</h4>
+        <code id="url-index">https://raw.githubusercontent.com/banamine/AJN-Collection-Repository/main/LiveTV/NorthAmerica/LiveTV.m3u</code>
+        <button class="copy-btn" style="margin-top: 8px; width: 100%;" onclick="copyToClipboard(document.getElementById('url-index').textContent)">Copy M3U URL</button>
+      </div>
+    </div>
+  </div>
 
-        function copyToClipboard(text, dir, subDir, type) {
-            navigator.clipboard.writeText(text).then(() => {
-                alert(`${type.toUpperCase()} link copied!`);
-                trackLink(dir, subDir, 'copy');
-            }).catch(err => console.error('Copy failed:', err));
-        }
+  <!-- Features & Tech Stack -->
+  <h2>⚙️ Technology & Features</h2>
+  <div class="feature-list">
+    <div class="feature-item"><span><strong>Strict NTD Filtering</strong> - Word-boundary regex matching</span></div>
+    <div class="feature-item"><span><strong>HTTP 200/206 Validation</strong> - Supports HLS partial content</span></div>
+    <div class="feature-item"><span><strong>URL Normalization</strong> - Eliminates duplicate CDN URLs</span></div>
+    <div class="feature-item"><span><strong>30-Worker Concurrency</strong> - Fast stream validation</span></div>
+    <div class="feature-item"><span><strong>Automated Updates</strong> - Every 8 hours via GitHub Actions</span></div>
+    <div class="feature-item"><span><strong>Multi-Format Export</strong> - M3U, JSON, TXT outputs</span></div>
+  </div>
 
-        function downloadFile(url, filename, dir, subDir) {
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = filename;
-            document.body.appendChild(a);
-            a.click();
-            document.body.removeChild(a);
-            trackLink(dir, subDir, 'download');
-        }
+  <div style="margin-top: 20px; padding: 16px; background: var(--bg-secondary); border-radius: 6px; border: 1px solid var(--border);">
+    <h4 style="margin-top: 0;">Tech Stack</h4>
+    <div class="tech-stack">
+      <div class="tech-tag">Python 3.10</div>
+      <div class="tech-tag">requests==2.31.0</div>
+      <div class="tech-tag">GitHub Actions</div>
+      <div class="tech-tag">ThreadPoolExecutor</div>
+      <div class="tech-tag">M3U/IPTV Standard</div>
+      <div class="tech-tag">HLS/HTTP Live Streaming</div>
+    </div>
+  </div>
 
-        function searchContent() {
-            const query = document.getElementById('search').value.toLowerCase().trim();
-            const liveTvContent = document.getElementById('live-tv-content');
-            const moviesContent = document.getElementById('movies-content');
-            liveTvContent.innerHTML = '';
-            moviesContent.innerHTML = '';
-            liveTvContent.classList.remove('active');
-            moviesContent.classList.remove('active');
-            if (!query) return;
-            for (const [country, json] of Object.entries(contentMap.liveTv)) {
-                const channels = Object.values(json.channels).flat();
-                if (channels.some(ch => ch.name.toLowerCase().includes(query))) {
-                    showLiveTV(country);
-                    return;
-                }
-            }
-            for (const [category, json] of Object.entries(contentMap.movies)) {
-                const movies = Object.values(json.channels).flat();
-                if (movies.some(m => m.name.toLowerCase().includes(query))) {
-                    showMovies(category);
-                    return;
-                }
-            }
-        }
+  <!-- Category Explorer -->
+  <div class="category-explorer">
+    <h2>📂 Category Explorer</h2>
+    <div class="search-box">
+      <input type="text" id="category-search" placeholder="Search categories (e.g., News, Samsung, Classic)...">
+      <button onclick="document.getElementById('category-search').value = ''; filterCategories()" class="btn btn-sm">Clear</button>
+    </div>
+    <div class="category-grid" id="category-grid">
+      <div class="category-chip">Loading categories...</div>
+    </div>
+  </div>
 
-        function toggleTheme() {
-            const body = document.body;
-            if (body.classList.contains('light')) {
-                body.classList.remove('light');
-                body.classList.add('pool');
-                document.querySelector('.theme-toggle').textContent = '🌙';
-            } else if (body.classList.contains('pool')) {
-                body.classList.remove('pool');
-                document.querySelector('.theme-toggle').textContent = '☀️';
-            } else {
-                body.classList.add('light');
-                document.querySelector('.theme-toggle').textContent = '🌀';
-            }
-        }
+  <!-- Info & Status -->
+  <div style="margin-top: 40px; padding: 20px; background: var(--bg-secondary); border-radius: 8px; border-left: 3px solid var(--accent-primary);">
+    <h3 style="margin-top: 0;">📊 Data Pipeline Status</h3>
+    <div class="feature-list">
+      <div class="feature-item"><span><strong>Sources:</strong> 6 upstream IPTV playlists (iptv-org, Free-TV, Samsung TV Plus)</span></div>
+      <div class="feature-item"><span><strong>Validation:</strong> Stream validation every 8 hours</span></div>
+      <div class="feature-item"><span><strong>Distribution:</strong> GitHub Pages + raw CDN URLs</span></div>
+      <div class="feature-item"><span><strong>Automation:</strong> GitHub Actions workflow (cron + manual triggers)</span></div>
+    </div>
+    <p style="font-size: 12px; color: var(--text-secondary); margin-top: 12px; margin-bottom: 0;">
+      All streams validated for active status. M3U playlists include metadata (logos, group titles). JSON feed provides structured access for custom integrations. Updates every 8 hours automatically.
+    </p>
+  </div>
 
-        function trackLink(dir, subDir, action) {
-            const key = `${dir}/${subDir}`;
-            analytics[dir.toLowerCase()][key] = analytics[dir.toLowerCase()][key] || { clicks: 0, copies: 0, downloads: 0 };
-            analytics[dir.toLowerCase()][key][action === 'click' ? 'clicks' : action === 'copy' ? 'copies' : 'downloads']++;
-            localStorage.setItem('m3u_analytics', JSON.stringify(analytics));
-            if (action === 'download') {
-                downloadHistory.push({ key, timestamp: new Date().toISOString() });
-                localStorage.setItem('download_history', JSON.stringify(downloadHistory));
-            }
-            updateAnalytics();
-        }
+  <!-- Footer -->
+  <div class="footer">
+    <p style="margin-bottom: 8px;">
+      🎬 AJN Live Stream Directory · North America & English Priority Channels
+    </p>
+    <p style="margin-bottom: 0; font-size: 11px;">
+      Part of the Liberty-Express Media Ecosystem ·
+      <a href="https://github.com/banamine/AJN-Collection-Repository" target="_blank">View on GitHub</a>
+    </p>
+  </div>
+</div>
 
-        function checkForUpdates(key, date) {
-            const lastVisit = new Date(localStorage.getItem('last_visit') || 0);
-            const syncDate = new Date(date);
-            if (syncDate > lastVisit) {
-                const notification = document.getElementById('notification');
-                notification.textContent = `${key} updated ${Math.round((Date.now() - syncDate) / 60000)} mins ago!`;
-                notification.style.display = 'block';
-                setTimeout(() => notification.style.display = 'none', 5000);
-            }
-            localStorage.setItem('last_visit', new Date().toISOString());
-        }
+<script>
+  // Copy to clipboard functionality
+  function copyToClipboard(text) {
+    navigator.clipboard.writeText(text).then(() => {
+      event.target.textContent = '✓ Copied!';
+      event.target.classList.add('copied');
+      setTimeout(() => {
+        event.target.textContent = '📋 Copy Link';
+        event.target.classList.remove('copied');
+      }, 2000);
+    });
+  }
 
-        function updateAnalytics() {
-            const gaugesContainer = document.getElementById('gauges-container');
-            gaugesContainer.innerHTML = `
-                <div class="gauge">
-                    <canvas id="totalChannelsGauge"></canvas>
-                    <div class="gauge-text">${analytics.totalChannels}<br>Total Channels</div>
-                </div>
-                <div class="gauge">
-                    <canvas id="activeChannelsGauge"></canvas>
-                    <div class="gauge-text">${analytics.activeChannels}<br>Active Channels</div>
-                </div>
-            `;
+  // Load data from JSON
+  async function loadData() {
+    try {
+      const response = await fetch('./LiveTV/NorthAmerica/LiveTV.json');
+      const data = await response.json();
 
-            const totalCtx = document.getElementById('totalChannelsGauge').getContext('2d');
-            new Chart(totalCtx, {
-                type: 'doughnut',
-                data: {
-                    datasets: [{
-                        data: [analytics.totalChannels, 10000 - analytics.totalChannels],
-                        backgroundColor: ['#ff007a', '#333'],
-                        borderWidth: 0
-                    }]
-                },
-                options: {
-                    cutout: '70%',
-                    responsive: true,
-                    maintainAspectRatio: false,
-                    plugins: { legend: { display: false }, tooltip: { enabled: false } }
-                }
-            });
+      // Update stats
+      document.getElementById('total-channels').textContent = data.total_active || 0;
+      document.getElementById('validation-rate').textContent = ((data.total_active / 81) * 100).toFixed(0) + '%';
+      document.getElementById('last-updated').textContent = data.updated_at || 'Unknown';
 
-            const activeCtx = document.getElementById('activeChannelsGauge').getContext('2d');
-            new Chart(activeCtx, {
-                type: 'doughnut',
-                data: {
-                    datasets: [{
-                        data: [analytics.activeChannels, analytics.totalChannels - analytics.activeChannels],
-                        backgroundColor: ['#00ddeb', '#333'],
-                        borderWidth: 0
-                    }]
-                },
-                options: {
-                    cutout: '70%',
-                    responsive: true,
-                    maintainAspectRatio: false,
-                    plugins: { legend: { display: false }, tooltip: { enabled: false } }
-                }
-            });
+      // Extract categories
+      const categories = [...new Set(data.channels.map(c => c.group))].sort();
+      displayCategories(categories);
+    } catch (e) {
+      console.log('Data loading:', e);
+      document.getElementById('category-grid').innerHTML = '<div class="category-chip">Unable to load categories</div>';
+    }
+  }
 
-            const downloadData = {};
-            ['liveTv', 'movies'].forEach(type => {
-                Object.entries(analytics[type]).forEach(([key, { downloads }]) => {
-                    downloadData[key] = downloads;
-                });
-            });
+  function displayCategories(categories) {
+    const grid = document.getElementById('category-grid');
+    grid.innerHTML = categories.map(cat =>
+      `<div class="category-chip" onclick="alert('Category: ${cat}')">${cat}</div>`
+    ).join('');
+  }
 
-            const leaderboard = document.getElementById('leaderboard');
-            leaderboard.innerHTML = Object.entries(downloadData)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 5)
-                .map(([key, downloads]) => `<div class="leaderboard-item">${key.split('/')[1]}: ${downloads}</div>`)
-                .join('');
+  function filterCategories() {
+    const query = document.getElementById('category-search').value.toLowerCase();
+    document.querySelectorAll('.category-chip').forEach(chip => {
+      chip.style.display = chip.textContent.toLowerCase().includes(query) ? 'block' : 'none';
+    });
+  }
 
-            const historyByDay = {};
-            downloadHistory.forEach(({ timestamp }) => {
-                const day = new Date(timestamp).toLocaleDateString();
-                historyByDay[day] = (historyByDay[day] || 0) + 1;
-            });
-            const labels = Object.keys(historyByDay).slice(-7);
-            const data = Object.values(historyByDay).slice(-7);
-            const chartCtx = document.getElementById('downloadChart').getContext('2d');
-            new Chart(chartCtx, {
-                type: 'line',
-                data: {
-                    labels,
-                    datasets: [{
-                        label: 'Downloads',
-                        data,
-                        borderColor: '#ff007a',
-                        backgroundColor: 'rgba(255, 0, 122, 0.2)',
-                        fill: true,
-                        tension: 0.4
-                    }]
-                },
-                options: {
-                    responsive: true,
-                    scales: {
-                        y: { beginAtZero: true, title: { display: true, text: 'Downloads', color: '#fff' } },
-                        x: { title: { display: true, text: 'Date', color: '#fff' } }
-                    },
-                    plugins: {
-                        legend: { labels: { color: '#fff' } },
-                        title: { display: false }
-                    }
-                }
-            });
-        }
+  // Initialize
+  loadData();
 
-        function exportStats() {
-            const csvRows = ['Key,Clicks,Copies,Downloads,Last Sync'];
-            ['liveTv', 'movies'].forEach(type => {
-                Object.entries(analytics[type]).forEach(([key, { clicks, copies, downloads }]) => {
-                    const lastSync = analytics.lastSync[key] || 'N/A';
-                    csvRows.push(`${key},${clicks},${copies},${downloads},${lastSync}`);
-                });
-            });
-            csvRows.push(`Total Channels,,${analytics.totalChannels},,`);
-            csvRows.push(`Active Channels,,${analytics.activeChannels},,`);
-            const csvContent = 'data:text/csv;charset=utf-8,' + csvRows.join('\n');
-            const encodedUri = encodeURI(csvContent);
-            const link = document.createElement('a');
-            link.setAttribute('href', encodedUri);
-            link.setAttribute('download', `m3u_stats_${new Date().toISOString().split('T')[0]}.csv`);
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
-        }
-
-        // Initialize
-        populateDropdowns();
-    </script>
-</body>
-</html>
+  document.getElementById('category-search').addEventListener('input', filterCategories);
+</script>
