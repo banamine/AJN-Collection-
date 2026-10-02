@@ -1536,6 +1536,12 @@
     "img": "https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg"
   },
   {
+    "name": "Moviesphere Free",
+    "type": "Movies",
+    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+    "img": "https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png"
+  },
+  {
     "name": "Douyu TV Movies",
     "type": "Movies",
     "url": "https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=",
@@ -7522,30 +7528,6 @@
     "type": "RELIGI",
     "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
     "img": "https://iptv.urfan.web.id/logo/wesaltv.png"
-  },
-  {
-    "name": "TVMU",
-    "type": "RELIGI",
-    "url": "https://e.siar.us/live/tvmu.m3u8",
-    "img": "https://i.imgur.com/yA25GaB.jpeg"
-  },
-  {
-    "name": "SUNNA TV (DNS)",
-    "type": "RELIGI",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV",
-    "img": "https://mimipipi22.github.io/logo/religion/sunnatv.jpg"
-  },
-  {
-    "name": "AL QURAN KAREEM (DNS)",
-    "type": "RELIGI",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=Quran_TV",
-    "img": "https://mimipipi22.github.io/logo/religion/alqurankareem.jpg"
-  },
-  {
-    "name": "Alquran AlKarem",
-    "type": "RELIGI",
-    "url": "https://ogietv.biz.id:443/Livetv/234/1479.m3u8",
-    "img": "https://www.visionplus.id/images/repository/677/677-LOGO-m.png"
   },
   {
     "name": "B Kids",
@@ -16038,558 +16020,6 @@
     "img": "https://i.imgur.com/I7VEJ9V.jpeg"
   },
   {
-    "name": "SINDONEWS (MAX)",
-    "type": "INDONESIA TV",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/sindonews.jpg"
-  },
-  {
-    "name": "07. SCTV 1",
-    "type": "INDONESIA TV",
-    "url": "http://tvratu.my.id/nissa/index.mpd?id=204&type=dash",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png"
-  },
-  {
-    "name": "03. INDOSIAR 1",
-    "type": "INDONESIA TV",
-    "url": "http://tvratu.my.id/vid/index.mpd?id=205&type=dash",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png"
-  },
-  {
-    "name": "20. MENTARI TV 2",
-    "type": "INDONESIA TV",
-    "url": "http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png"
-  },
-  {
-    "name": "20. MENTARI TV 1",
-    "type": "INDONESIA TV",
-    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/mentari.png"
-  },
-  {
-    "name": "04. TRANS TV 1",
-    "type": "INDONESIA TV",
-    "url": "https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png"
-  },
-  {
-    "name": "04. TRANS TV 2",
-    "type": "INDONESIA TV",
-    "url": "http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312.m3u8",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/transtv.png"
-  },
-  {
-    "name": "10. TRANS 7 1",
-    "type": "INDONESIA TV",
-    "url": "https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg"
-  },
-  {
-    "name": "10. TRANS 7 2",
-    "type": "INDONESIA TV",
-    "url": "http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/trans7.jpg"
-  },
-  {
-    "name": "02. ANTV 2",
-    "type": "INDONESIA TV",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302206.ts",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/antv.png"
-  },
-  {
-    "name": "12. RTV 1",
-    "type": "INDONESIA TV",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/rtv.png"
-  },
-  {
-    "name": "09. TVONE 1",
-    "type": "INDONESIA TV",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvone.png"
-  },
-  {
-    "name": "12. METRO TV 2",
-    "type": "INDONESIA TV",
-    "url": "https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w25391797_b1492000_sleng.m3u8",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png"
-  },
-  {
-    "name": "12. METRO TV 1",
-    "type": "INDONESIA TV",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/metrotv.png"
-  },
-  {
-    "name": "19. VTV",
-    "type": "INDONESIA TV",
-    "url": "https://flv.intechmedia.net/live/ch107.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/vtv.jpeg"
-  },
-  {
-    "name": "30. BTV (V+)",
-    "type": "INDONESIA TV",
-    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/btv.jpg"
-  },
-  {
-    "name": "31. BERITASATU (MAX)",
-    "type": "INDONESIA TV",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8",
-    "img": "https://mimipipi22.github.io/logo/nasional/beritasatu.jpg"
-  },
-  {
-    "name": "01. TVRI NASIONAL 2",
-    "type": "INDONESIA TV",
-    "url": "https://tencent-css-live.byteplaycdn.com/vos/DASH/tvrijateng/manifest.mpd",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/tvri.png"
-  },
-  {
-    "name": "33. TVRI JATENG",
-    "type": "INDONESIA TV",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_500000=10007-mp4a_64000=20002.m3u8",
-    "img": "https://mimipipi22.github.io/logo/nasional/tvriworld.jpg"
-  },
-  {
-    "name": "34. DAAI TV (XL1)",
-    "type": "INDONESIA TV",
-    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/daaitv.jpg"
-  },
-  {
-    "name": "34. DAAI TV (FEED)",
-    "type": "INDONESIA TV",
-    "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
-    "img": "https://mimipipi22.github.io/logo/nasional/daaitv.jpg"
-  },
-  {
-    "name": "13. MDTV 2",
-    "type": "INDONESIA TV",
-    "url": "http://202.150.161.212:5000/live/channel31/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/net.png"
-  },
-  {
-    "name": "50. BN TV (INTECH)",
-    "type": "INDONESIA TV",
-    "url": "https://flv.intechmedia.net/live/ch112.m3u8?|user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3",
-    "img": "https://mimipipi22.github.io/logo/nasional/bntv.jpg"
-  },
-  {
-    "name": "50. BN TV (UDP)",
-    "type": "INDONESIA TV",
-    "url": "http://202.169.224.202:8800/udp/239.1.3.2:1234",
-    "img": "https://mimipipi22.github.io/logo/nasional/bntv.jpg"
-  },
-  {
-    "name": "18. MAGNA (DNS)",
-    "type": "INDONESIA TV",
-    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/magna.jpg"
-  },
-  {
-    "name": "35. JAKTV (XL1)",
-    "type": "INDONESIA TV",
-    "url": "https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/jaktv.jpg"
-  },
-  {
-    "name": "37. JTV (FEED)",
-    "type": "INDONESIA TV",
-    "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
-    "img": "https://mimipipi22.github.io/logo/nasional/jtv.jpg"
-  },
-  {
-    "name": "40. BALI TV (MAX)",
-    "type": "INDONESIA TV",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/balitv.jpg"
-  },
-  {
-    "name": "41. ANTARA TV (MAX)",
-    "type": "INDONESIA TV",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-3277707030000000.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/antaratv.jpg"
-  },
-  {
-    "name": "42. SIN PO TV (MAX)",
-    "type": "INDONESIA TV",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd",
-    "img": "https://mimipipi22.github.io/logo/nasional/sinpotv.jpg"
-  },
-  {
-    "name": "44. THE INDONESIA CHANNEL (FEED)",
-    "type": "INDONESIA TV",
-    "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw",
-    "img": "https://www.theindonesiachannel.world/logotic.png"
-  },
-  {
-    "name": "38.JOWO TV (DNS)",
-    "type": "INDONESIA TV",
-    "url": "https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo",
-    "img": "https://mimipipi22.github.io/logo/nasional/jowotv.jpg"
-  },
-  {
-    "name": "ETV Bioskop HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302240.ts",
-    "img": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png"
-  },
-  {
-    "name": "ETV Bioskop 02 HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302241.ts",
-    "img": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png"
-  },
-  {
-    "name": "ETV Bioskop 03 HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302242.ts",
-    "img": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png"
-  },
-  {
-    "name": "ETV Bioskop 04 HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302243.ts",
-    "img": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png"
-  },
-  {
-    "name": "FLIK HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302244.ts",
-    "img": "http://s3.i3ns.net:2052/cs/etc/blank-icon.png"
-  },
-  {
-    "name": "Galaxy Premium HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302245.ts",
-    "img": "http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png"
-  },
-  {
-    "name": "GEM HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302246.ts",
-    "img": "http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png"
-  },
-  {
-    "name": "HBO HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302248.ts",
-    "img": "http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png"
-  },
-  {
-    "name": "HBO Family HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302249.ts",
-    "img": "http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png"
-  },
-  {
-    "name": "HBO HITS HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302250.ts",
-    "img": "http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png"
-  },
-  {
-    "name": "HBO Signature HD",
-    "type": "📂 HIBURAN",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/302251.ts",
-    "img": "http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png"
-  },
-  {
-    "name": "4ever Cinema (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/258/index.m3u8",
-    "img": "https://i.imgur.com/vFOgVbG.png"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"📂 HIBURAN\",AXN Movies (720p)",
-    "type": "📂 HIBURAN",
-    "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
-    "img": "https://i.imgur.com/tJQckal.png"
-  },
-  {
-    "name": "Boreal (720p) [Not 24/7]",
-    "type": "📂 HIBURAN",
-    "url": "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/KSquHTG.png"
-  },
-  {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"📂 HIBURAN\",Cine+ Hit",
-    "type": "📂 HIBURAN",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539",
-    "img": "https://i.imgur.com/b3FcLU1.png"
-  },
-  {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"📂 HIBURAN\",Cine+ Legend",
-    "type": "📂 HIBURAN",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568",
-    "img": "https://i.imgur.com/QtOfzSH.png"
-  },
-  {
-    "name": "Dom kino (576p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/236/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png"
-  },
-  {
-    "name": "Dom kino International (576p)",
-    "type": "📂 HIBURAN",
-    "url": "https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png"
-  },
-  {
-    "name": "Dom kino Premium HD (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/108/index.m3u8",
-    "img": "https://i.imgur.com/rJpQtvK.png"
-  },
-  {
-    "name": "Dorama (576p)",
-    "type": "📂 HIBURAN",
-    "url": "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv",
-    "img": "https://i.imgur.com/ZH5LuXU.png"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"📂 HIBURAN\",Dorama HD (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/412/index.m3u8",
-    "img": "https://i.imgur.com/ZH5LuXU.png"
-  },
-  {
-    "name": "EBS Cinema (720p)",
-    "type": "📂 HIBURAN",
-    "url": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8",
-    "img": "https://i.imgur.com/fewPTFE.png"
-  },
-  {
-    "name": "Epic Bhojpuri Digital (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540"
-  },
-  {
-    "name": "ETV Cinema HD (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "Hallmark Movies & More (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709",
-    "img": "https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png"
-  },
-  {
-    "name": "IFC (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8",
-    "img": "https://i.imgur.com/bQdkyF9.png"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"📂 HIBURAN\",Kino 1 (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/395/index.m3u8",
-    "img": "https://i.imgur.com/FWVxBWI.png"
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"📂 HIBURAN\",Kino 2 (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/465/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/uk/3/35/KINO_2_UA.png"
-  },
-  {
-    "name": "MBC+ Drama (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8",
-    "img": "https://i.imgur.com/lxWdjXG.png"
-  },
-  {
-    "name": "Mei Ah Movie Channel (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
-    "img": "https://i.imgur.com/laGiFM1.png"
-  },
-  {
-    "name": "MNX (576p)",
-    "type": "📂 HIBURAN",
-    "url": "http://59.103.38.46:8000/play/a052/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"📂 HIBURAN\",MovieBox (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd",
-    "img": "https://www.mongolsat.mn/assets/img/channel/909.png"
-  },
-  {
-    "name": "Movies Action (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
-    "img": "https://i.imgur.com/NIVhISa.png"
-  },
-  {
-    "name": "MovieSphere (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/h1ejU90.png"
-  },
-  {
-    "name": "MovieSphere UK (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/h1ejU90.png"
-  },
-  {
-    "name": "Persiana Cinema",
-    "type": "📂 HIBURAN",
-    "url": "https://cinehls.persiana.live/hls/stream.m3u8",
-    "img": "https://i.imgur.com/hgIro9r.png"
-  },
-  {
-    "name": "Persiana Family",
-    "type": "📂 HIBURAN",
-    "url": "https://familyhls.persiana.live/hls/stream.m3u8",
-    "img": "https://i.imgur.com/lMZsuWi.png"
-  },
-  {
-    "name": "Persiana Iranian",
-    "type": "📂 HIBURAN",
-    "url": "https://irhls.persiana.live/hls/stream.m3u8",
-    "img": "https://i.imgur.com/vqrrpBi.png"
-  },
-  {
-    "name": "Persiana Korea",
-    "type": "📂 HIBURAN",
-    "url": "https://korhls.persiana.live/hls/stream.m3u8",
-    "img": "https://i.imgur.com/si2ZnIA.png"
-  },
-  {
-    "name": "Persiana Latino",
-    "type": "📂 HIBURAN",
-    "url": "https://latinohls.persiana.live/hls/stream.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Persiana Plus",
-    "type": "📂 HIBURAN",
-    "url": "https://euhls.persiana.live/hls/stream.m3u8",
-    "img": "https://i.imgur.com/0xttibX.png"
-  },
-  {
-    "name": "Shokiruyushchee HD (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/75/index.m3u8",
-    "img": "https://i.imgur.com/UG63hZ0.png"
-  },
-  {
-    "name": "Star Cinema",
-    "type": "📂 HIBURAN",
-    "url": "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
-    "img": "https://i.imgur.com/5sis895.png"
-  },
-  {
-    "name": "Star Family (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
-    "img": "https://i.imgur.com/eGuGHnZ.png"
-  },
-  {
-    "name": "Starz Cinema (720p)",
-    "type": "📂 HIBURAN",
-    "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
-    "img": "https://i.imgur.com/ghzzKoT.png"
-  },
-  {
-    "name": "TV 21 International (576p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/152/index.m3u8",
-    "img": "https://ibb.co/BH6CZx3K"
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"📂 HIBURAN\",Viasat Kino Romania",
-    "type": "📂 HIBURAN",
-    "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
-    "img": "https://i.imgur.com/io0WAkA.png"
-  },
-  {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"📂 HIBURAN\",Viasat Kino World",
-    "type": "📂 HIBURAN",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102",
-    "img": "https://i.imgur.com/GPiE2Rb.png"
-  },
-  {
-    "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"📂 HIBURAN\",Viasat Serial",
-    "type": "📂 HIBURAN",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg"
-  },
-  {
-    "name": "viju TV1000 (576p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/110/index.m3u8",
-    "img": "https://i.imgur.com/ZMsyjSr.png"
-  },
-  {
-    "name": "viju TV1000 action (576p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/100/index.m3u8",
-    "img": "https://i.imgur.com/TMmyuzh.png"
-  },
-  {
-    "name": "viju TV1000 russkoe (576p)",
-    "type": "📂 HIBURAN",
-    "url": "https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv",
-    "img": "https://i.imgur.com/Meak2y4.png"
-  },
-  {
-    "name": "viju+ Megahit HD (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/200/index.m3u8",
-    "img": "https://i.imgur.com/oIQNddV.png"
-  },
-  {
-    "name": "viju+ Premiere HD (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/202/index.m3u8",
-    "img": "https://i.imgur.com/klRvhR5.png"
-  },
-  {
-    "name": "Xtrema Accion",
-    "type": "📂 HIBURAN",
-    "url": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
-    "img": "https://i.imgur.com/z5NwizH.png"
-  },
-  {
-    "name": "Xtrema Cine Clasico",
-    "type": "📂 HIBURAN",
-    "url": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
-    "img": "https://i.imgur.com/j91M4Yf.png"
-  },
-  {
-    "name": "Xtrema Terror",
-    "type": "📂 HIBURAN",
-    "url": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8",
-    "img": "https://i.imgur.com/FcaTUym.png"
-  },
-  {
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"📂 HIBURAN\",Yes Movies Action (1080p)",
-    "type": "📂 HIBURAN",
-    "url": "http://stream.mcquack.net/380/index.m3u8",
-    "img": "https://i.imgur.com/Bgz7p5F.png"
-  },
-  {
-    "name": "BEIN Sports 1 HD",
-    "type": "SPORTS",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/501229.ts",
-    "img": "http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png"
-  },
-  {
-    "name": "BEIN Sports 3 HD",
-    "type": "SPORTS",
-    "url": "http://filex.me:8080/live/3114654477/5787654467/501230.ts",
-    "img": "http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png"
-  },
-  {
     "name": "Attention !!!",
     "type": "📌 iNFo ( っ'-')っ",
     "url": "https://www.dropbox.com/scl/fi/kviuj54we85hxuqagdgo7/KiTV_intro.ts?rlkey=yobyzsitc0inqiha9afgekunl&dl=1",
@@ -18720,6 +18150,12 @@
     "img": "https://i.imgur.com/h1q2r4l.png"
   },
   {
+    "name": "DAAI tv",
+    "type": "Nasional 🇮🇩",
+    "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/330px-DAAI_TV.svg.png"
+  },
+  {
     "name": "GTV",
     "type": "Nasional 🇮🇩",
     "url": "http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv",
@@ -18838,6 +18274,12 @@
     "type": "Daerah",
     "url": "https://v2.siar.us/dutatv/live/playlist.m3u8",
     "img": "https://i.imgur.com/WHeb9Yt.png"
+  },
+  {
+    "name": "DAAI TV ᵛ⁺",
+    "type": "Daerah",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd",
+    "img": "https://i.imgur.com/c1VTy2h.png"
   },
   {
     "name": "JAK TV ᵛ⁺",
@@ -19731,6 +19173,12 @@
     "name": "TVMU HD",
     "type": "Religi 🕋",
     "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/TVMuhammadiyahnow/sa_dash/TVMuhammadiyahnow.mpd",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWqJ5ZmHf1L7oKJMOH9i9genCaXTrUaBdaVxLN0Rhz6V6QNu0vD8x0Z-ZrBNT4aOt6JfmBedYpXVNjbUa0ns8ttRw7RCCcGUcIu_A0gOWHgicw933apM_hUrSxJ4fqeU2Ip2uPD-gHRsEJsPEmEBa41nMwWfjGpmUavTJeME-wrbbOucmypISytMCfAZ06/s700/TVMU.png"
+  },
+  {
+    "name": "TVMU HD #1",
+    "type": "Religi 🕋",
+    "url": "https://e.siar.us/live/tvmu.m3u8",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWqJ5ZmHf1L7oKJMOH9i9genCaXTrUaBdaVxLN0Rhz6V6QNu0vD8x0Z-ZrBNT4aOt6JfmBedYpXVNjbUa0ns8ttRw7RCCcGUcIu_A0gOWHgicw933apM_hUrSxJ4fqeU2Ip2uPD-gHRsEJsPEmEBa41nMwWfjGpmUavTJeME-wrbbOucmypISytMCfAZ06/s700/TVMU.png"
   },
   {
@@ -21388,6 +20836,12 @@
     "type": "Dens TV",
     "url": "http://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwkUWeDK_ePgIPSNJvHTjIuhj5cl41oI-3CkPpcs0Oj3h6wnuCoZzYWB_gSeJ4OYNExDaNDHeiIepNZJl6De9RzxT0mKe9EvcpnGCn1WwZY4JTX_7WS3zi-HlHacDuK1i5im8j_X23iiD9V_rZSRXB9YoYpBHG-SIwTAIZ4eqKAbxnrFdtKdVhkrJ8BWbv/s700/NET.png"
+  },
+  {
+    "name": "MAGNA CHANNEL",
+    "type": "Dens TV",
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipIiq33Yv0DpwFBtJj5CThGkSEqlKPUTw7IcOCkNXiydWpy_ApUbepJUc4173qDKCR9Z7iYzgodpA4eITvcI_YkugsZ7MbrOchIad9M6rLHn0vOirpxmpaUFM3i6_WfpE8-TKcQQS2Z_RmZi-iAdjgR43b9z8inKFo3YkbMsB7z9HWoYmtaOFPFJouoyWP/s700/MAGNA%20CHANNEL.png"
   },
   {
     "name": "DAAI TV",
@@ -30636,6 +30090,12 @@
     "img": "https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png"
   },
   {
+    "name": "tvOne - FHD",
+    "type": "TV BackUP",
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8",
+    "img": "https://github.com/eepunx/canlog/raw/refs/heads/main/tvone.png"
+  },
+  {
     "name": "tvOne",
     "type": "TV BackUP",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8",
@@ -30730,6 +30190,12 @@
     "type": "TV BackUP",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_1000000=500-3277707030000000.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Antara_%28news_agency%29_logo.svg/1280px-Antara_%28news_agency%29_logo.svg.png"
+  },
+  {
+    "name": "BTV (V+)",
+    "type": "TV BackUP",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd",
+    "img": "https://thumbor.prod.vidiocdn.com/DoRk_b8tcmbwDHroNxP2-o6QRKU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/8c950f.png"
   },
   {
     "name": "MAGNA Channel",
@@ -31269,6 +30735,12 @@
     "name": "MENTARI TV VD",
     "type": "TV BackUP",
     "url": "https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06UwMiLyI74sEEDwf0-rwndLGrLvQi7tp1QHv82q1wkKhIARAAOwOkKOmvQgBdjKnA4wd8Sl2QEPkY4VJA2MlneSwgdaa1tEVPQtOBhkT-kssOTkcJFcEgRTpq3i8QhyphenhyphenKuzPey326K70RzIjhHBc3O3OAeMqHavxuSq6LwqEgsC4SJWy7L-MINH38Vbt4/s700/MENTARI%20TV.png"
+  },
+  {
+    "name": "MENTARI TV V+",
+    "type": "TV BackUP",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06UwMiLyI74sEEDwf0-rwndLGrLvQi7tp1QHv82q1wkKhIARAAOwOkKOmvQgBdjKnA4wd8Sl2QEPkY4VJA2MlneSwgdaa1tEVPQtOBhkT-kssOTkcJFcEgRTpq3i8QhyphenhyphenKuzPey326K70RzIjhHBc3O3OAeMqHavxuSq6LwqEgsC4SJWy7L-MINH38Vbt4/s700/MENTARI%20TV.png"
   },
   {
@@ -32064,6 +31536,12 @@
     "img": "https://mimipipi22.github.io/logo/nasional/inews.jpg"
   },
   {
+    "name": "SINDONEWS (MAX)",
+    "type": "TV BackUP",
+    "url": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd",
+    "img": "https://mimipipi22.github.io/logo/nasional/sindonews.jpg"
+  },
+  {
     "name": "SCTV (MAX)",
     "type": "TV BackUP",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
@@ -32109,6 +31587,12 @@
     "name": "RTV (MAX)",
     "type": "TV BackUP",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd",
+    "img": "https://mimipipi22.github.io/logo/nasional/rtv.jpg"
+  },
+  {
+    "name": "RTV (DENS)",
+    "type": "TV BackUP",
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV",
     "img": "https://mimipipi22.github.io/logo/nasional/rtv.jpg"
   },
   {
@@ -32190,10 +31674,22 @@
     "img": "https://mimipipi22.github.io/logo/nasional/bntv.jpg"
   },
   {
+    "name": "BN TV (UDP)",
+    "type": "TV BackUP",
+    "url": "http://202.169.224.202:8800/udp/239.1.3.2:1234",
+    "img": "https://mimipipi22.github.io/logo/nasional/bntv.jpg"
+  },
+  {
     "name": "MAGNA (DNS)",
     "type": "TV BackUP",
     "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=Magna_Channel",
     "img": "https://mimipipi22.github.io/logo/nasional/magna.jpg"
+  },
+  {
+    "name": "JAKTV (XL1)",
+    "type": "TV BackUP",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd",
+    "img": "https://mimipipi22.github.io/logo/nasional/jaktv.jpg"
   },
   {
     "name": "JAKTV (MAX)",
@@ -32226,6 +31722,12 @@
     "img": "https://mimipipi22.github.io/logo/nasional/jtv.jpg"
   },
   {
+    "name": "JTV (FEED)",
+    "type": "TV BackUP",
+    "url": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+    "img": "https://mimipipi22.github.io/logo/nasional/jtv.jpg"
+  },
+  {
     "name": "JTV (MAX)",
     "type": "TV BackUP",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000000.mpd",
@@ -32250,6 +31752,12 @@
     "img": "https://mimipipi22.github.io/logo/nasional/garudatv.jpg"
   },
   {
+    "name": "BALI TV (MAX)",
+    "type": "TV BackUP",
+    "url": "https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd",
+    "img": "https://mimipipi22.github.io/logo/nasional/balitv.jpg"
+  },
+  {
     "name": "BALAIKOTA BANDUNG (XL1)",
     "type": "TV BackUP",
     "url": "https://atemeshield1-voe.sysln.id/live/eds/BalaikotaBandung/mediampd/BalaikotaBandung.mpd",
@@ -32262,10 +31770,28 @@
     "img": "https://mimipipi22.github.io/logo/nasional/elshintatv.jpg"
   },
   {
+    "name": "ANTARA TV (MAX)",
+    "type": "TV BackUP",
+    "url": "https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-3277707030000000.mpd",
+    "img": "https://mimipipi22.github.io/logo/nasional/antaratv.jpg"
+  },
+  {
     "name": "KTV",
     "type": "TV BackUP",
     "url": "https://flv.intechmedia.net/live/ch118.m3u8|user-agent=Mozilla/5.0",
     "img": "https://mimipipi22.github.io/logo/nasional/ktv.jpg"
+  },
+  {
+    "name": "SIN PO TV (MAX)",
+    "type": "TV BackUP",
+    "url": "https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd",
+    "img": "https://mimipipi22.github.io/logo/nasional/sinpotv.jpg"
+  },
+  {
+    "name": "THE INDONESIA CHANNEL (FEED)",
+    "type": "TV BackUP",
+    "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_0.m3u8?session=nbyNcn6zyXaUxFnXPYkdhw",
+    "img": "https://www.theindonesiachannel.world/logotic.png"
   },
   {
     "name": "JOWO TV (DNS)",
