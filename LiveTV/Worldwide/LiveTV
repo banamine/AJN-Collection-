@@ -98,7 +98,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxMTo4OjM1IFBNJmhhc2hfdmFsdWU9QXFEcFBodFRnTkIwczhlYjFnNGVUdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQzMTVjOGZiLTg3MDAtNDY4My04MDZjLWRiOGM1MTE5OGQ1Yw==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxOjM0OjExIFBNJmhhc2hfdmFsdWU9ZGRyZldTaXQ0MDhpcXFOdGV3ZWJrQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg4OWYzZjljLWJiNTAtNDUxZC04MDU3LWJkMDkxM2I4NzZlMw==/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -110,7 +110,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxMTo4OjMzIFBNJmhhc2hfdmFsdWU9UzRiR0pYZWsvOU1Ca0xJQ1B1eFpWdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgzYWE0MWUyLTQyMjgtNGIzYS05ZGMyLTI3YzdjNzM1YjgzNQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxOjM0OjEwIFBNJmhhc2hfdmFsdWU9YTdMdnFRZWVDTGRRT082OXZyOWFQZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTljMWMwNmRmLWUxZjMtNDY4ZC05MDEwLTlkNjBlNGE1N2ZmYg==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -254,7 +254,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxMTo4OjM0IFBNJmhhc2hfdmFsdWU9NHFicTJpclBqVGs0ckZRenRlcXZUQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQyYTkyZTg4LWE3NDItNDFlMS05MmUwLTljZjFkYWRhNWZiYw==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyNiAxOjM0OjExIFBNJmhhc2hfdmFsdWU9UjN4SmV3Lys1cFNhZkgveHA0TEpTdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE1MWExYWQ1LWFjM2QtNDY4Mi05NDkwLTNkY2MyNDY2OTNjZg==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -820,6 +820,72 @@
     "type": "Entertainment 🌎",
     "url": "https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd",
     "img": "https://logo.m3uassets.com/axnblack.png"
+  },
+  {
+    "name": "Universal Premiere 🇺🇾 (🔉💬🇪🇸🇬🇧)",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd",
+    "img": "https://logo.m3uassets.com/universalpremiere.png"
+  },
+  {
+    "name": "Universal Cinema 🇺🇾(🔉💬🇪🇸🇬🇧)",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd",
+    "img": "https://github.com/masterentertainment/listas/raw/main/logos/UNICI.png"
+  },
+  {
+    "name": "Universal Comedy 🇺🇾(🔉💬🇪🇸🇬🇧)",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfpdcsvoyd/out/v1/1bb43614ccd348fd8b9cc4d4fc5be059/cenc.mpd",
+    "img": "https://github.com/masterentertainment/listas/raw/main/logos/UNICO.png"
+  },
+  {
+    "name": "Universal Crime 🇺🇾(🔉💬🇪🇸🇬🇧)",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd",
+    "img": "https://github.com/masterentertainment/listas/raw/main/logos/UNICR.png"
+  },
+  {
+    "name": "Universal Reality 🇺🇾(🔉💬🇪🇸🇬🇧)",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd",
+    "img": "https://github.com/masterentertainment/listas/raw/main/logos/UNIRE.png"
+  },
+  {
+    "name": "Unimas 🇺🇸🇲🇽⚽️",
+    "type": "Entertainment 🌎",
+    "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n",
+    "img": "https://logo.m3uassets.com/unimas.png"
+  },
+  {
+    "name": "Univision 🇺🇸🇲🇽⚽️",
+    "type": "Entertainment 🌎",
+    "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n",
+    "img": "https://logo.m3uassets.com/univision.png"
+  },
+  {
+    "name": "Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️",
+    "type": "Entertainment 🌎",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+    "img": "https://logo.m3uassets.com/canal5.png"
+  },
+  {
+    "name": "Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️",
+    "type": "Entertainment 🌎",
+    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+    "img": "https://logo.m3uassets.com/canal5.png"
+  },
+  {
+    "name": "UNIVERSO West 🇺🇸🇲🇽⚽️",
+    "type": "Entertainment 🌎",
+    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd",
+    "img": "https://i.ibb.co/99KrFvMC/UNIVERSO.png"
+  },
+  {
+    "name": "UNIVERSO East 🇺🇸🇲🇽⚽️",
+    "type": "Entertainment 🌎",
+    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
+    "img": "https://i.ibb.co/99KrFvMC/UNIVERSO.png"
   },
   {
     "name": "BBC Entertainment 🇬🇧",
@@ -1944,42 +2010,6 @@
     "img": "https://imgur.com/qHZ23Ue.png"
   },
   {
-    "name": "Unimas 🇺🇸🇲🇽⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n",
-    "img": "https://logo.m3uassets.com/unimas.png"
-  },
-  {
-    "name": "Univision 🇺🇸🇲🇽⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n",
-    "img": "https://logo.m3uassets.com/univision.png"
-  },
-  {
-    "name": "Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-    "img": "https://logo.m3uassets.com/canal5.png"
-  },
-  {
-    "name": "Canal 5 (🔉💬🇪🇸🇬🇧)🇲🇽⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-    "img": "https://logo.m3uassets.com/canal5.png"
-  },
-  {
-    "name": "UNIVERSO West 🇺🇸🇲🇽⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd",
-    "img": "https://i.ibb.co/99KrFvMC/UNIVERSO.png"
-  },
-  {
-    "name": "UNIVERSO East 🇺🇸🇲🇽⚽️",
-    "type": "All Sports 🌎",
-    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(universo-east)/master.mpd",
-    "img": "https://i.ibb.co/99KrFvMC/UNIVERSO.png"
-  },
-  {
     "name": "Telemundo Chicago 🇲🇽",
     "type": "All Sports 🌎",
     "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd",
@@ -2016,6 +2046,12 @@
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp"
   },
   {
+    "name": "Eurosport 1 🇦🇹 🎱⛷🚴",
+    "type": "All Sports 🌎",
+    "url": "https://ac-003.live.p7s1video.net/7db15d2f/t_009/eurosport1-de/cenc-default.mpd",
+    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png"
+  },
+  {
     "name": "Eurosport 1 (🔊🇬🇧🇨🇿)🎱⛷🚴",
     "type": "All Sports 🌎",
     "url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?wowzasessionid=@iprtlk",
@@ -2046,13 +2082,43 @@
     "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png"
   },
   {
+    "name": "ESPN 🇦🇷",
+    "type": "All Sports 🌎",
+    "url": "https://ciades.providers.com.ar/ESPN/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
+    "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/ESPNwhite.png"
+  },
+  {
+    "name": "ESPN Premium 🇦🇷",
+    "type": "All Sports 🌎",
+    "url": "https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
+    "img": "https://logo.m3uassets.com/espnpremium.png"
+  },
+  {
+    "name": "FOX Sports 🇦🇷",
+    "type": "All Sports 🌎",
+    "url": "https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
+    "img": "https://github.com/iprtl/p1/raw/master/logo/FoxSportsARYel.webp"
+  },
+  {
+    "name": "FOX Sports 2 🇦🇷",
+    "type": "All Sports 🌎",
+    "url": "https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
+    "img": "https://github.com/iprtl/p1/raw/master/logo/FoxSport2AR.webp"
+  },
+  {
+    "name": "FOX Sports 3 🇦🇷",
+    "type": "All Sports 🌎",
+    "url": "https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=eYDBYv2P6E0MKxqEilWGwuYWGsbUpcb4",
+    "img": "https://logo.m3uassets.com/foxsports3.png"
+  },
+  {
     "name": "Fox Sports 4k",
     "type": "All Sports 🌎",
     "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
     "img": "https://logo.m3uassets.com/foxsports.png"
   },
   {
-    "name": "Fox +",
+    "name": "Fox + 🇲🇽",
     "type": "All Sports 🌎",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
     "img": "https://logo.m3uassets.com/fox+.png"
@@ -3366,6 +3432,12 @@
     "img": "https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg"
   },
   {
+    "name": "Boas Novas",
+    "type": "Variedades",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+    "img": "https://i.imgur.com/ZqhizdP.png"
+  },
+  {
     "name": "Canal 25 Jundiai",
     "type": "Variedades",
     "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
@@ -3614,7 +3686,7 @@
   {
     "name": "Rede Familia",
     "type": "Variedades",
-    "url": "http://168.197.104.22/REDE_FAMILIA/index.m3u8",
+    "url": "http://186.219.52.187/rede_familia/index.m3u8",
     "img": "https://i.imgur.com/7KVFCrQ.png"
   },
   {
@@ -3676,12 +3748,6 @@
     "type": "Variedades",
     "url": "http://45.162.64.114/SESC_TV/index.m3u8",
     "img": "https://i.imgur.com/Mu8O6CV.png"
-  },
-  {
-    "name": "SIC TV",
-    "type": "Variedades",
-    "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
-    "img": "https://i.imgur.com/mHxQyB2.png"
   },
   {
     "name": "Sonata TV",
@@ -3846,6 +3912,12 @@
     "img": "https://i.imgur.com/rOQKiMO.png"
   },
   {
+    "name": "TV Litoral RN",
+    "type": "Variedades",
+    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg"
+  },
+  {
     "name": "TV Mais Marica",
     "type": "Variedades",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
@@ -3874,6 +3946,12 @@
     "type": "Variedades",
     "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
     "img": "https://i.imgur.com/0FOmktl.png"
+  },
+  {
+    "name": "TV Paraense",
+    "type": "Variedades",
+    "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",
+    "img": "https://duckduckgo.com/i/e408ea02.png"
   },
   {
     "name": "TV Passo Fundo",
@@ -4406,7 +4484,7 @@
   {
     "name": "Rede Vida",
     "type": "Religião",
-    "url": "http://168.197.104.22/REDE_VIDA/index.m3u8",
+    "url": "http://186.219.52.187/rede_vida/index.m3u8",
     "img": "https://i.imgur.com/mP1qfp2.png"
   },
   {
@@ -4466,7 +4544,7 @@
   {
     "name": "Futura",
     "type": "Educação",
-    "url": "http://168.197.104.22/FUTURA/index.m3u8",
+    "url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png"
   },
   {
@@ -4514,7 +4592,7 @@
   {
     "name": "Music Box Brazil",
     "type": "Música",
-    "url": "http://168.197.104.22/MUSIC/index.m3u8",
+    "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8",
     "img": "https://i.imgur.com/CDPCF2X.png"
   },
   {
@@ -4584,6 +4662,12 @@
     "img": "https://i.postimg.cc/yNznWkNF/my_times_network.jpg"
   },
   {
+    "name": "On FM",
+    "type": "Internacional",
+    "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+    "img": "https://i.postimg.cc/BnwqQwzm/on_fm.jpg"
+  },
+  {
     "name": "TV Maná 1",
     "type": "Internacional",
     "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8",
@@ -4642,12 +4726,6 @@
     "type": "Clássico",
     "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w417588321.m3u8",
     "img": "https://tvsonata.com.br/storage/690/config/YIpr9GvubiZ14KntfgXqTob4kMpue1cFo2R5h91h.png"
-  },
-  {
-    "name": "Chef TV",
-    "type": "Cozinha",
-    "url": "http://168.197.104.22/CHEF_TV/index.m3u8",
-    "img": "https://i.imgur.com/UYksTee.png"
   },
   {
     "name": "Canal Infantil",
@@ -4782,6 +4860,18 @@
     "img": "https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png"
   },
   {
+    "name": "Canaã News TV",
+    "type": "Religiosos",
+    "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8",
+    "img": "https://i.postimg.cc/9fKggKJZ/cana-news.png"
+  },
+  {
+    "name": "Rede Super TV",
+    "type": "Religiosos",
+    "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
+    "img": "https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg"
+  },
+  {
     "name": "Rede Vida",
     "type": "Religiosos",
     "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
@@ -4790,7 +4880,7 @@
   {
     "name": "Travel Box Brazil",
     "type": "Viagem",
-    "url": "http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8",
+    "url": "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8",
     "img": "https://i.imgur.com/3tBJERH.png"
   },
   {
@@ -4802,23 +4892,17 @@
   {
     "name": "AgroCanal Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/AGRO_CANAL/index.m3u8",
+    "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8",
     "img": "https://i.imgur.com/5XyopHf.png"
   },
   {
     "name": "AgroCanal Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8",
-    "img": "https://i.imgur.com/5XyopHf.png"
-  },
-  {
-    "name": "AgroCanal Alternativo 3",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/agro_canal/index.m3u8",
     "img": "https://i.imgur.com/5XyopHf.png"
   },
   {
-    "name": "AgroCanal Alternativo 4",
+    "name": "AgroCanal Alternativo 3",
     "type": "Alternativos",
     "url": "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8",
     "img": "https://i.imgur.com/5XyopHf.png"
@@ -4838,12 +4922,6 @@
   {
     "name": "AgroMais Alternativo 3",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/AGROMAIS/index.m3u8",
-    "img": "https://i.imgur.com/sFcOZeo.png"
-  },
-  {
-    "name": "AgroMais Alternativo 4",
-    "type": "Alternativos",
     "url": "http://170.83.16.50/AGRO_MAIS/index.m3u8",
     "img": "https://i.imgur.com/sFcOZeo.png"
   },
@@ -4855,12 +4933,6 @@
   },
   {
     "name": "Arte 1 Alternativo 2",
-    "type": "Alternativos",
-    "url": "http://168.197.104.22/ARTE1/index.m3u8",
-    "img": "https://i.imgur.com/Ivnk7A6.png"
-  },
-  {
-    "name": "Arte 1 Alternativo 3",
     "type": "Alternativos",
     "url": "http://170.83.16.50/ARTE_1/index.m3u8",
     "img": "https://i.imgur.com/Ivnk7A6.png"
@@ -4892,17 +4964,11 @@
   {
     "name": "BandNews Alternativo 2",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/BAND_NEWS/index.m3u8",
-    "img": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
-  },
-  {
-    "name": "BandNews Alternativo 3",
-    "type": "Alternativos",
     "url": "http://170.83.16.50/BAND_NEWS/index.m3u8",
     "img": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
   },
   {
-    "name": "BandNews Alternativo 4",
+    "name": "BandNews Alternativo 3",
     "type": "Alternativos",
     "url": "http://170.83.49.66:8083/BANDNEWSHD/index.m3u8",
     "img": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
@@ -4910,23 +4976,17 @@
   {
     "name": "Canal do Boi Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/CANAL_DO_BOI/index.m3u8",
+    "url": "http://170.83.16.50/CANAL_DO_BOI/index.m3u8",
     "img": "https://i.imgur.com/pVM5MhS.png"
   },
   {
     "name": "Canal do Boi Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.16.50/CANAL_DO_BOI/index.m3u8",
-    "img": "https://i.imgur.com/pVM5MhS.png"
-  },
-  {
-    "name": "Canal do Boi Alternativo 3",
-    "type": "Alternativos",
     "url": "http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8",
     "img": "https://i.imgur.com/pVM5MhS.png"
   },
   {
-    "name": "Canal do Boi Alternativo 4",
+    "name": "Canal do Boi Alternativo 3",
     "type": "Alternativos",
     "url": "http://186.219.52.187/canal_do_boi/index.m3u8",
     "img": "https://i.imgur.com/pVM5MhS.png"
@@ -4935,12 +4995,6 @@
     "name": "Canal Educacao Alternativo 1",
     "type": "Alternativos",
     "url": "http://45.177.114.115/CANAL_EDUCACAO/index.m3u8",
-    "img": "https://i.imgur.com/OOB7nrS.png"
-  },
-  {
-    "name": "Canal Educacao Alternativo 2",
-    "type": "Alternativos",
-    "url": "http://168.197.104.22/CANAL_EDUCACAO/index.m3u8",
     "img": "https://i.imgur.com/OOB7nrS.png"
   },
   {
@@ -4957,12 +5011,6 @@
   },
   {
     "name": "Canal Gov Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://168.197.104.22/TV_BRASIL_2/index.m3u8",
-    "img": "https://i.imgur.com/rHPY0Yv.png"
-  },
-  {
-    "name": "Canal Gov Alternativo 2",
     "type": "Alternativos",
     "url": "https://canalgov-stream.ebc.com.br/index.m3u8",
     "img": "https://i.imgur.com/rHPY0Yv.png"
@@ -4982,23 +5030,11 @@
   {
     "name": "DumDum Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/ZOOMOO/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg"
-  },
-  {
-    "name": "DumDum Alternativo 2",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/zoomoo/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg"
   },
   {
     "name": "Fish TV Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://168.197.104.22/FISH_TV/index.m3u8",
-    "img": "https://www.fishtv.com/public/site/images/logos/fishtv.svg"
-  },
-  {
-    "name": "Fish TV Alternativo 2",
     "type": "Alternativos",
     "url": "http://170.83.16.50/FISH_TV/index.m3u8",
     "img": "https://www.fishtv.com/public/site/images/logos/fishtv.svg"
@@ -5008,12 +5044,6 @@
     "type": "Alternativos",
     "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8",
     "img": "https://i.imgur.com/7q2BmNc.png"
-  },
-  {
-    "name": "Futura Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png"
   },
   {
     "name": "History Alternativo 1",
@@ -5040,19 +5070,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png"
   },
   {
-    "name": "Music Box Brazil Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8",
-    "img": "https://i.imgur.com/CDPCF2X.png"
-  },
-  {
     "name": "Novo Tempo Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://168.197.104.22/NOVO_TEMPO/index.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Novo Tempo Alternativo 2",
     "type": "Alternativos",
     "url": "http://186.219.52.187/novo_tempo/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
@@ -5066,12 +5084,6 @@
   {
     "name": "Play TV Alternativo 2",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/PLAY_TV/index.m3u8",
-    "img": "https://i.imgur.com/Ikrj3lk.png"
-  },
-  {
-    "name": "Play TV Alternativo 3",
-    "type": "Alternativos",
     "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8",
     "img": "https://i.imgur.com/Ikrj3lk.png"
   },
@@ -5084,29 +5096,23 @@
   {
     "name": "Record News Alternativo 2",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/RECORD_NEWS/index.m3u8",
+    "url": "http://170.83.16.50/RECORD_NEWS/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
     "name": "Record News Alternativo 3",
     "type": "Alternativos",
-    "url": "http://170.83.16.50/RECORD_NEWS/index.m3u8",
+    "url": "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
     "name": "Record News Alternativo 4",
     "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8",
-    "img": "https://i.imgur.com/HZDRG0K.png"
-  },
-  {
-    "name": "Record News Alternativo 5",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/record_news/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
-    "name": "Record News Alternativo 6",
+    "name": "Record News Alternativo 5",
     "type": "Alternativos",
     "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
@@ -5114,26 +5120,14 @@
   {
     "name": "Rede CNT Rio de Janeiro Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/CNT/index.m3u8",
+    "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8",
     "img": "https://i.imgur.com/jcasAmw.png"
   },
   {
     "name": "Rede CNT Rio de Janeiro Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8",
-    "img": "https://i.imgur.com/jcasAmw.png"
-  },
-  {
-    "name": "Rede CNT Rio de Janeiro Alternativo 3",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/cnt/index.m3u8",
     "img": "https://i.imgur.com/jcasAmw.png"
-  },
-  {
-    "name": "Rede Familia Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://186.219.52.187/rede_familia/index.m3u8",
-    "img": "https://i.imgur.com/7KVFCrQ.png"
   },
   {
     "name": "Rede Gospel Alternativo 1",
@@ -5162,35 +5156,23 @@
   {
     "name": "Rede TV! SD Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/REDE_TV/index.m3u8",
+    "url": "http://170.83.16.50/REDE_TV/index.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
   },
   {
     "name": "Rede TV! SD Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.16.50/REDE_TV/index.m3u8",
-    "img": "https://i.imgur.com/ZJgD38F.png"
-  },
-  {
-    "name": "Rede TV! SD Alternativo 3",
-    "type": "Alternativos",
     "url": "http://170.83.49.66:8083/REDETVHD/index.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
   },
   {
-    "name": "Rede TV! SD Alternativo 4",
+    "name": "Rede TV! SD Alternativo 3",
     "type": "Alternativos",
     "url": "http://186.219.52.187/rede_tv/index.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
   },
   {
     "name": "Rede Vida Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://186.219.52.187/rede_vida/index.m3u8",
-    "img": "https://i.imgur.com/mP1qfp2.png"
-  },
-  {
-    "name": "Rede Vida Alternativo 2",
     "type": "Alternativos",
     "url": "http://46.151.196.223:14244",
     "img": "https://i.imgur.com/mP1qfp2.png"
@@ -5246,12 +5228,6 @@
   {
     "name": "Sony Movies Alternativo 2",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/SONY_MOVIES/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png"
-  },
-  {
-    "name": "Sony Movies Alternativo 3",
-    "type": "Alternativos",
     "url": "http://170.83.16.50/SONY_MOVIES/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png"
   },
@@ -5270,17 +5246,11 @@
   {
     "name": "Terra Viva Alternativo 3",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/TERRAVIVA/index.m3u8",
-    "img": "https://i.imgur.com/wnYsE3O.png"
-  },
-  {
-    "name": "Terra Viva Alternativo 4",
-    "type": "Alternativos",
     "url": "http://170.83.16.50/TERRA_VIVA/index.m3u8",
     "img": "https://i.imgur.com/wnYsE3O.png"
   },
   {
-    "name": "Terra Viva Alternativo 5",
+    "name": "Terra Viva Alternativo 4",
     "type": "Alternativos",
     "url": "http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8",
     "img": "https://i.imgur.com/wnYsE3O.png"
@@ -5290,12 +5260,6 @@
     "type": "Alternativos",
     "url": "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg"
-  },
-  {
-    "name": "Travel Box Brazil Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8",
-    "img": "https://i.imgur.com/3tBJERH.png"
   },
   {
     "name": "TV Aparecida Alternativo 1",
@@ -5312,17 +5276,11 @@
   {
     "name": "TV Brasil Alternativo 2",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/TV_BRASIL/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png"
-  },
-  {
-    "name": "TV Brasil Alternativo 3",
-    "type": "Alternativos",
     "url": "http://170.83.49.66:8083/TVBRASILHD/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png"
   },
   {
-    "name": "TV Brasil Alternativo 4",
+    "name": "TV Brasil Alternativo 3",
     "type": "Alternativos",
     "url": "http://186.219.52.187/tv_brasil/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png"
@@ -5330,23 +5288,17 @@
   {
     "name": "TV Camara Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/TV_CAMARA/index.m3u8",
+    "url": "http://170.83.49.66:8083/TVCAMARAHD/index.m3u8",
     "img": "https://i.imgur.com/Sdou1Ab.png"
   },
   {
     "name": "TV Camara Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/TVCAMARAHD/index.m3u8",
-    "img": "https://i.imgur.com/Sdou1Ab.png"
-  },
-  {
-    "name": "TV Camara Alternativo 3",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/tv_camara/index.m3u8",
     "img": "https://i.imgur.com/Sdou1Ab.png"
   },
   {
-    "name": "TV Camara Alternativo 4",
+    "name": "TV Camara Alternativo 3",
     "type": "Alternativos",
     "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
     "img": "https://i.imgur.com/Sdou1Ab.png"
@@ -5354,17 +5306,11 @@
   {
     "name": "TV Cancao Nova Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/CANCAO_NOVA/index.m3u8",
-    "img": "https://i.imgur.com/OaM9hkH.png"
-  },
-  {
-    "name": "TV Cancao Nova Alternativo 2",
-    "type": "Alternativos",
     "url": "http://170.83.16.50/CANCAO_NOVA/index.m3u8",
     "img": "https://i.imgur.com/OaM9hkH.png"
   },
   {
-    "name": "TV Cancao Nova Alternativo 3",
+    "name": "TV Cancao Nova Alternativo 2",
     "type": "Alternativos",
     "url": "http://186.219.52.187/cancao_nova/index.m3u8",
     "img": "https://i.imgur.com/OaM9hkH.png"
@@ -5384,23 +5330,17 @@
   {
     "name": "TV Cultura Alternativo 3",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/TV_CULTURA/index.m3u8",
+    "url": "http://170.83.16.50/CULTURA/index.m3u8",
     "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
   },
   {
     "name": "TV Cultura Alternativo 4",
     "type": "Alternativos",
-    "url": "http://170.83.16.50/CULTURA/index.m3u8",
-    "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
-  },
-  {
-    "name": "TV Cultura Alternativo 5",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/cultura/index.m3u8",
     "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
   },
   {
-    "name": "TV Cultura Alternativo 6",
+    "name": "TV Cultura Alternativo 5",
     "type": "Alternativos",
     "url": "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
     "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
@@ -5408,23 +5348,17 @@
   {
     "name": "TV Evangelizar Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/EVANGELIZAR/index.m3u8",
+    "url": "http://170.83.16.50/TV_EVANGELIZAR/index.m3u8",
     "img": "https://i.imgur.com/IrYR7Kp.png"
   },
   {
     "name": "TV Evangelizar Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.16.50/TV_EVANGELIZAR/index.m3u8",
-    "img": "https://i.imgur.com/IrYR7Kp.png"
-  },
-  {
-    "name": "TV Evangelizar Alternativo 3",
-    "type": "Alternativos",
     "url": "http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8",
     "img": "https://i.imgur.com/IrYR7Kp.png"
   },
   {
-    "name": "TV Evangelizar Alternativo 4",
+    "name": "TV Evangelizar Alternativo 3",
     "type": "Alternativos",
     "url": "http://186.219.52.187/tv_evangelizar/index.m3u8",
     "img": "https://i.imgur.com/IrYR7Kp.png"
@@ -5438,35 +5372,23 @@
   {
     "name": "TV Gazeta Alternativo 2",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/GAZETA/index.m3u8",
-    "img": "https://i.imgur.com/0sksWse.png"
-  },
-  {
-    "name": "TV Gazeta Alternativo 3",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/gazeta/index.m3u8",
     "img": "https://i.imgur.com/0sksWse.png"
   },
   {
     "name": "TV Justica Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/TV_JUSTICA/index.m3u8",
+    "url": "http://170.83.16.50/TV_JUSTICA/index.m3u8",
     "img": "https://i.imgur.com/rOQKiMO.png"
   },
   {
     "name": "TV Justica Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.16.50/TV_JUSTICA/index.m3u8",
-    "img": "https://i.imgur.com/rOQKiMO.png"
-  },
-  {
-    "name": "TV Justica Alternativo 3",
-    "type": "Alternativos",
     "url": "http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8",
     "img": "https://i.imgur.com/rOQKiMO.png"
   },
   {
-    "name": "TV Justica Alternativo 4",
+    "name": "TV Justica Alternativo 3",
     "type": "Alternativos",
     "url": "http://186.219.52.187/tv_justica/index.m3u8",
     "img": "https://i.imgur.com/rOQKiMO.png"
@@ -5480,35 +5402,23 @@
   {
     "name": "TV Pai Eterno Alternativo 2",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/TV_PAI_ETERNO/index.m3u8",
-    "img": "https://i.imgur.com/iuoXchN.png"
-  },
-  {
-    "name": "TV Pai Eterno Alternativo 3",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/pai_eterno/index.m3u8",
     "img": "https://i.imgur.com/iuoXchN.png"
   },
   {
     "name": "TV Ra Tim Bum Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/RA_TIM_BUM/index.m3u8",
+    "url": "http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8",
     "img": "https://i.imgur.com/JIQwz0w.png"
   },
   {
     "name": "TV Ra Tim Bum Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8",
-    "img": "https://i.imgur.com/JIQwz0w.png"
-  },
-  {
-    "name": "TV Ra Tim Bum Alternativo 3",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/ratimbum/index.m3u8",
     "img": "https://i.imgur.com/JIQwz0w.png"
   },
   {
-    "name": "TV Ra Tim Bum Alternativo 4",
+    "name": "TV Ra Tim Bum Alternativo 3",
     "type": "Alternativos",
     "url": "http://45.162.64.114/RA_TIM_BUM/index.m3u8",
     "img": "https://i.imgur.com/JIQwz0w.png"
@@ -5516,23 +5426,17 @@
   {
     "name": "TV Senado Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/TV_SENADO/index.m3u8",
+    "url": "http://170.83.16.50/TV_SENADO/index.m3u8",
     "img": "https://i.imgur.com/duy6waL.png"
   },
   {
     "name": "TV Senado Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.16.50/TV_SENADO/index.m3u8",
-    "img": "https://i.imgur.com/duy6waL.png"
-  },
-  {
-    "name": "TV Senado Alternativo 3",
-    "type": "Alternativos",
     "url": "http://170.83.49.66:8083/TVSENADOHD/index.m3u8",
     "img": "https://i.imgur.com/duy6waL.png"
   },
   {
-    "name": "TV Senado Alternativo 4",
+    "name": "TV Senado Alternativo 3",
     "type": "Alternativos",
     "url": "http://186.219.52.187/tv_senado/index.m3u8",
     "img": "https://i.imgur.com/duy6waL.png"
@@ -5546,17 +5450,11 @@
   {
     "name": "WooHoo Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/WOOHOO/index.m3u8",
-    "img": "https://i.imgur.com/me622pa.png"
-  },
-  {
-    "name": "WooHoo Alternativo 2",
-    "type": "Alternativos",
     "url": "http://170.83.16.50/WOOHOO/index.m3u8",
     "img": "https://i.imgur.com/me622pa.png"
   },
   {
-    "name": "WooHoo Alternativo 3",
+    "name": "WooHoo Alternativo 2",
     "type": "Alternativos",
     "url": "http://186.219.52.187/woohoo/index.m3u8",
     "img": "https://i.imgur.com/me622pa.png"
