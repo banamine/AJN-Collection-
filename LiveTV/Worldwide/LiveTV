@@ -98,7 +98,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAzOjQ2OjUwIFBNJmhhc2hfdmFsdWU9WUxsS0xPbks1dDJUbUxORG51bDVMQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY4YjEzYzFkLTU1YzEtNGEyZS1hMDBkLWEzNzJmMDAzODdlOQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxMDoyOToxNSBQTSZoYXNoX3ZhbHVlPU5lVDAxTFRFb1dvOSsrK214R3QxNmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03NDkwNDBjYS0wNjAwLTQ0YzEtOTlhOC05MjE3NWQzODA0NWI=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -110,7 +110,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAzOjQ2OjQ5IFBNJmhhc2hfdmFsdWU9Wkc0ZSsyZ2ZGSE1QSE50TlFwODI2QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThlNTJkMmM5LWQ0YTYtNDM3Yy1hYjU0LWNhNDEzZTVlMDNmNw==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxMDoyOToxNCBQTSZoYXNoX3ZhbHVlPThLY0Y1d1poeWtIRXdmVFFXUHNZR0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNDFjOWMyYy01YzQzLTQzZTUtOGNkMS0yMmQ5OGJkZmRjN2Y=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -254,7 +254,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAzOjQ2OjUwIFBNJmhhc2hfdmFsdWU9RGJIeW9iKzFTZW9nc0JndU51U3lHUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJiN2Q5ZGFmLTYwMGQtNGE5Zi04NTEwLTkwZDFmNDJmOWQzZA==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxMDoyOToxNCBQTSZoYXNoX3ZhbHVlPW5ITTBZNU5WbXNEMWo2ZzRMLzFuWkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05Njk4M2I4Yi03MjQ2LTQ1MjYtOTYwZC0xOTBmZTAyYTVhMTU=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -1062,6 +1062,12 @@
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/TLC.webp"
   },
   {
+    "name": "Rock Entertainment (🔉💬🇬🇧)🇮🇩",
+    "type": "Entertainment 🌎",
+    "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/111/111.mpd",
+    "img": "https://www.visionplus.id/images/repository/644/644-LOGO-m.png"
+  },
+  {
     "name": "MN+ (🔉💬🇬🇧)🇮🇳",
     "type": "Entertainment 🌎",
     "url": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
@@ -1824,7 +1830,7 @@
     "img": "https://logo.m3uassets.com/italia1.png"
   },
   {
-    "name": "Mediaset Italia 2 🇮🇹 ⚽️",
+    "name": "Mediaset Italia 2 🇮🇹 ⚽️ (vpn European)",
     "type": "Channels 🇮🇹",
     "url": "https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia2)/manifest.mpd",
     "img": "https://logo.m3uassets.com/italia2.png"
@@ -2512,6 +2518,12 @@
     "type": "All Sports 🌎",
     "url": "https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports5/playlist.m3u8",
     "img": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png"
+  },
+  {
+    "name": "Setanta Sports 1 🇺🇦",
+    "type": "All Sports 🌎",
+    "url": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD/DASH_5_CPIX/Setanta_Sports_HD.mpd",
+    "img": "https://logo.m3uassets.com/setantasports.png"
   },
   {
     "name": "Setanta Sports 1 🇺🇦",
@@ -3414,6 +3426,12 @@
     "img": "https://rokuimagens.logicahost.com.br/logos/52tvbc.png"
   },
   {
+    "name": "Ultra TV",
+    "type": "Recomendados",
+    "url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8",
+    "img": "https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg"
+  },
+  {
     "name": "Viva a Vida TV",
     "type": "Recomendados",
     "url": "https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8",
@@ -3508,12 +3526,6 @@
     "type": "Variedades",
     "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "img": "https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg"
-  },
-  {
-    "name": "Boas Novas",
-    "type": "Variedades",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-    "img": "https://i.imgur.com/ZqhizdP.png"
   },
   {
     "name": "Canal 25 Jundiai",
@@ -3646,12 +3658,6 @@
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "img": "https://i.imgur.com/8PxpamC.png"
-  },
-  {
-    "name": "Fala Litoral",
-    "type": "Variedades",
-    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
-    "img": "https://i.imgur.com/NF6PL8O.png"
   },
   {
     "name": "Globoplay Novelas",
@@ -4098,12 +4104,6 @@
     "img": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png"
   },
   {
-    "name": "TV Sul Bahia",
-    "type": "Variedades",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/qM6nMWm.png"
-  },
-  {
     "name": "TV São Gabriel",
     "type": "Variedades",
     "url": "https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8",
@@ -4404,6 +4404,12 @@
     "img": "https://i.imgur.com/aMuMVvB.png"
   },
   {
+    "name": "TV A Folha",
+    "type": "Notícia",
+    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "img": "https://i.imgur.com/I7XGMhj.png"
+  },
+  {
     "name": "TV Brusque",
     "type": "Notícia",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
@@ -4504,12 +4510,6 @@
     "type": "Entretenimento",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
     "img": "https://i.imgur.com/MTuErdw.png"
-  },
-  {
-    "name": "TV Vicosa",
-    "type": "Entretenimento",
-    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/TZF55f9.png"
   },
   {
     "name": "TV Zoom",
@@ -4978,6 +4978,12 @@
     "type": "Religiosos",
     "url": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8",
     "img": "https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png"
+  },
+  {
+    "name": "Canaã News TV",
+    "type": "Religiosos",
+    "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8",
+    "img": "https://i.postimg.cc/9fKggKJZ/cana-news.png"
   },
   {
     "name": "Rede Super TV",
