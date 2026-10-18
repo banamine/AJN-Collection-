@@ -98,7 +98,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiA0OjUxOjQ3IEFNJmhhc2hfdmFsdWU9OEVQN3l1cXNjMmQ0QTJMb2VzWHZxdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgyMzNmNjk0LTY0ZmEtNDRhZi1hYTg4LTY0Y2RlYTcxZGFiYw==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAxMjo0MTo2IFBNJmhhc2hfdmFsdWU9UkxDV2Z4Z1E0amUxbEk1bDNlRjdDZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEyZGI0NDZlLTJkNGMtNGI0MC1hYTNmLTNiZTY1NzQ5MDVmYg==/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -110,7 +110,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiA0OjUxOjQ2IEFNJmhhc2hfdmFsdWU9ZHlGMUk0TG1zZlYzNGFndW5qTHRJUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ5YmUxMmE0LTQ4NmYtNDc3Ny05ZTc3LWFjYmFmMDI5Y2Y5Mw==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAxMjo0MTo1IFBNJmhhc2hfdmFsdWU9b2lKLzYvcDExdzRRRmdwOXJiOUNyZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY4MDEzNDBjLWZlZTEtNGI0Ni1hYTNlLTMxYjg3ODRlYTMyMQ==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -254,7 +254,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiA0OjUxOjQ3IEFNJmhhc2hfdmFsdWU9bmQwb0t5eWJFUklnamZKbDhBUXpmdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUyYjBkMTdkLTRmZmItNDg3NC1iNTZmLWIwNGJjMDAxNmFmYw==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAxMjo0MTo2IFBNJmhhc2hfdmFsdWU9Y2tmUXgzRjRTM1F2bDZLQkFoNGl1QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTUwYjFmNDQ1LWM4YjUtNDM0MC1hNzM4LTg5ZjM2Y2JjNzM4OA==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -1060,12 +1060,6 @@
     "type": "Entertainment 🌎",
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd?wowzasessionid=@iprtlk",
     "img": "https://raw.githubusercontent.com/iprtl/p1/master/logo/TLC.webp"
-  },
-  {
-    "name": "Rock Entertainment (🔉💬🇬🇧)🇮🇩",
-    "type": "Entertainment 🌎",
-    "url": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/111/111.mpd",
-    "img": "https://www.visionplus.id/images/repository/644/644-LOGO-m.png"
   },
   {
     "name": "MN+ (🔉💬🇬🇧)🇮🇳",
@@ -2396,7 +2390,7 @@
   {
     "name": "Fubo Sports 🇺🇸",
     "type": "All Sports 🌎",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+    "url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
     "img": "https://logo.m3uassets.com/fubosportsnetwork.png"
   },
   {
@@ -3228,12 +3222,6 @@
     "img": "https://i.postimg.cc/kMKq946F/ijuiplaytv.jpg"
   },
   {
-    "name": "K Pop TV Play",
-    "type": "Recomendados",
-    "url": "https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
-    "img": "https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png"
-  },
-  {
     "name": "Lamore Rock Show",
     "type": "Recomendados",
     "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
@@ -3658,12 +3646,6 @@
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "img": "https://i.imgur.com/8PxpamC.png"
-  },
-  {
-    "name": "Fala Litoral",
-    "type": "Variedades",
-    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
-    "img": "https://i.imgur.com/NF6PL8O.png"
   },
   {
     "name": "Globoplay Novelas",
@@ -4128,12 +4110,6 @@
     "img": "https://i.imgur.com/Z1uWe7g.png"
   },
   {
-    "name": "TVC-Rio",
-    "type": "Variedades",
-    "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8",
-    "img": "https://i.imgur.com/WDiikWv.png"
-  },
-  {
     "name": "TVCOM Maceio",
     "type": "Variedades",
     "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8",
@@ -4410,12 +4386,6 @@
     "img": "https://i.imgur.com/aMuMVvB.png"
   },
   {
-    "name": "TV A Folha",
-    "type": "Notícia",
-    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
-    "img": "https://i.imgur.com/I7XGMhj.png"
-  },
-  {
     "name": "TV Brusque",
     "type": "Notícia",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
@@ -4552,12 +4522,6 @@
     "type": "Religião",
     "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8",
     "img": "https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png"
-  },
-  {
-    "name": "Fonte TV",
-    "type": "Religião",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
-    "img": "https://i.imgur.com/7q2BmNc.png"
   },
   {
     "name": "Gospel Cartoon",
@@ -4702,12 +4666,6 @@
     "type": "Esportes",
     "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
     "img": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png"
-  },
-  {
-    "name": "KpopTV Play",
-    "type": "Música",
-    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
-    "img": "https://i.imgur.com/Tf0vweF.png"
   },
   {
     "name": "Music Box Brazil",
@@ -4986,12 +4944,6 @@
     "img": "https://i.postimg.cc/9fKggKJZ/cana-news.png"
   },
   {
-    "name": "Rede Super TV",
-    "type": "Religiosos",
-    "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
-    "img": "https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg"
-  },
-  {
     "name": "Rede Vida",
     "type": "Religiosos",
     "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
@@ -5164,12 +5116,6 @@
     "type": "Alternativos",
     "url": "http://170.83.16.50/FISH_TV/index.m3u8",
     "img": "https://www.fishtv.com/public/site/images/logos/fishtv.svg"
-  },
-  {
-    "name": "Fonte TV Alternativo 1",
-    "type": "Alternativos",
-    "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8",
-    "img": "https://i.imgur.com/7q2BmNc.png"
   },
   {
     "name": "History Alternativo 1",
