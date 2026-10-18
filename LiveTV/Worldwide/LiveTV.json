@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18 08:28:52",
+  "date": "2026-10-18 17:56:01",
   "channels": {
     "Buy me a Coffee": [
       {
@@ -121,7 +121,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxMDoyOToxNSBQTSZoYXNoX3ZhbHVlPU5lVDAxTFRFb1dvOSsrK214R3QxNmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03NDkwNDBjYS0wNjAwLTQ0YzEtOTlhOC05MjE3NWQzODA0NWI=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiA0OjUxOjQ3IEFNJmhhc2hfdmFsdWU9OEVQN3l1cXNjMmQ0QTJMb2VzWHZxdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgyMzNmNjk0LTY0ZmEtNDRhZi1hYTg4LTY0Y2RlYTcxZGFiYw==/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -135,7 +135,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxMDoyOToxNCBQTSZoYXNoX3ZhbHVlPThLY0Y1d1poeWtIRXdmVFFXUHNZR0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wNDFjOWMyYy01YzQzLTQzZTUtOGNkMS0yMmQ5OGJkZmRjN2Y=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiA0OjUxOjQ2IEFNJmhhc2hfdmFsdWU9ZHlGMUk0TG1zZlYzNGFndW5qTHRJUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ5YmUxMmE0LTQ4NmYtNDc3Ny05ZTc3LWFjYmFmMDI5Y2Y5Mw==/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -305,7 +305,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxMDoyOToxNCBQTSZoYXNoX3ZhbHVlPW5ITTBZNU5WbXNEMWo2ZzRMLzFuWkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05Njk4M2I4Yi03MjQ2LTQ1MjYtOTYwZC0xOTBmZTAyYTVhMTU=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiA0OjUxOjQ3IEFNJmhhc2hfdmFsdWU9bmQwb0t5eWJFUklnamZKbDhBUXpmdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUyYjBkMTdkLTRmZmItNDg3NC1iNTZmLWIwNGJjMDAxNmFmYw==/"
       },
       {
         "name": "Euronews 🇵🇹",
@@ -3936,13 +3936,6 @@
         "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8"
       },
       {
-        "name": "TV Conecta",
-        "logo": "https://i.postimg.cc/bYWc1jjz/tv-conecta.png",
-        "group": "Recomendados",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://srv1954587.hstgr.cloud:8888/video01/index.m3u8"
-      },
-      {
         "name": "TV da Cidade Joinville",
         "logo": "https://i.postimg.cc/q7j5bqbB/tv-cidade-joinville.jpg",
         "group": "Recomendados",
@@ -4290,6 +4283,13 @@
         "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
       },
       {
+        "name": "Cultura Para",
+        "logo": "https://i.imgur.com/5jPEI5c.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8"
+      },
+      {
         "name": "Demais TV",
         "logo": "https://i.imgur.com/Md3xibE.png",
         "group": "Variedades",
@@ -4309,6 +4309,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+      },
+      {
+        "name": "Fala Litoral",
+        "logo": "https://i.imgur.com/NF6PL8O.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
       },
       {
         "name": "Globoplay Novelas",
@@ -4563,6 +4570,13 @@
         "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8"
       },
       {
+        "name": "SOU TV",
+        "logo": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+      },
+      {
         "name": "TV 100% Caipira",
         "logo": "https://i.postimg.cc/c1wbFHtp/tv-caipira.jpg",
         "group": "Variedades",
@@ -4714,7 +4728,7 @@
         "logo": "https://i.imgur.com/0sksWse.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://45.162.64.114/GAZETA/index.m3u8"
+        "url": "http://45.162.64.114/TV_GAZETA/index.m3u8"
       },
       {
         "name": "TV Guarapari",
@@ -5080,13 +5094,6 @@
         "group": "Animação",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
-      },
-      {
-        "name": "NickOnline Bob Esponja",
-        "logo": "https://x1colegal.com/nickonlinebobesponja.png",
-        "group": "Animação",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://bob.x1colegal.com/hls/stream.m3u8"
       }
     ],
     "Notícia": [
@@ -5338,15 +5345,6 @@
         "group": "Entretenimento",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
-      }
-    ],
-    "Negócios": [
-      {
-        "name": "Laboral TV",
-        "logo": "https://tv.laboralsst.com.br/logo.png",
-        "group": "Negócios",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://tv.laboralsst.com.br/hls/stream.m3u8"
       }
     ],
     "Comédia": [
@@ -6495,13 +6493,6 @@
       },
       {
         "name": "TV Gazeta Alternativo 1",
-        "logo": "https://i.imgur.com/0sksWse.png",
-        "group": "Alternativos",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://45.162.64.114/TV_GAZETA/index.m3u8"
-      },
-      {
-        "name": "TV Gazeta Alternativo 2",
         "logo": "https://i.imgur.com/0sksWse.png",
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
