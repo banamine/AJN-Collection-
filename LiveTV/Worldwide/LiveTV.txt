@@ -3186,6 +3186,11 @@ Source: https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/internat
 --------------------------------------------------
 
 Group: Música
+Name: KpopTV Play
+URL: https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+Logo: https://i.imgur.com/Tf0vweF.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Music Box Brazil
 URL: http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 Logo: https://i.imgur.com/CDPCF2X.png
@@ -3321,7 +3326,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAxMDoyOTo0MCBQTSZoYXNoX3ZhbHVlPVN3K09SKzdNYkNZTXpXOHAwS3VoU3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mZjBkMWVmMS1kMjg1LTQ0MDEtYmU3ZC1hOTM2YWU3NzIzZGY=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiA1OjA6MjYgQU0maGFzaF92YWx1ZT1zSUcyTFZDblF3U3lERnE2UHE1UDN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODBlN2VhZjItMmRiYS00YTMyLWFkNDAtMDVlNzdiZmY1ZjJl/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3454,11 +3459,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 --------------------------------------------------
 Name: TV Sim Cachoeiro
 URL: https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-Logo: https://i.imgur.com/t5oUK3C.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Sim Sao Mateus
-URL: https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 Logo: https://i.imgur.com/t5oUK3C.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3599,7 +3599,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAxMDoyOTo0MSBQTSZoYXNoX3ZhbHVlPWN6OEg5ZzczcnVISkRvZy9keVZQNFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hY2Y2YjcyMC1iNTk5LTQ2NmUtOGNkMS01OTM2YjE4Y2MwNGE=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiA1OjA6MjcgQU0maGFzaF92YWx1ZT1hb1JVV1RuREZacjNoaWJPMzlzWk9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2UyODgyZmYtZTZmZS00ZDZmLTk4M2YtMjI5MTc4YTZjNWJh/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3609,7 +3609,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyNiAxMDoyOTo0MCBQTSZoYXNoX3ZhbHVlPUlPZW5CSmJYaTFJK0VqSXA1RVRIU3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hNzM1MTllYi1mNWRlLTQ1MzItYmNjNi00NjQ1MWNhMDI4NzU=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiA1OjA6MjYgQU0maGFzaF92YWx1ZT10bW94ZG5UQ2YrSEJ0Uis0VEp2R3dRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjkxNjk1MjctMmY2Ni00ZjhkLTlhZjEtOGRmYjg4M2UwOTE5/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3942,11 +3942,6 @@ URL: https://stream.ichibansys.com:3764/hybrid/play.m3u8
 Logo: https://i.postimg.cc/T1xygSJ5/geekdot.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: GLN TV
-URL: https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
-Logo: https://i.postimg.cc/dtQJdVfY/glntv.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Gramado TV
 URL: https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8
 Logo: https://i.postimg.cc/DzWCPpS6/gramado-tv.png
@@ -3955,6 +3950,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: IJUÍ PLAY
 URL: https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
 Logo: https://i.postimg.cc/kMKq946F/ijuiplaytv.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: K Pop TV Play
+URL: https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+Logo: https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Lamore Rock Show
@@ -4047,11 +4047,6 @@ URL: https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 Logo: https://i.postimg.cc/vZDMM775/tvcom.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Conecta
-URL: https://srv1954587.hstgr.cloud:8888/video01/index.m3u8
-Logo: https://i.postimg.cc/bYWc1jjz/tv-conecta.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: TV da Cidade Joinville
 URL: https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
 Logo: https://i.postimg.cc/q7j5bqbB/tv-cidade-joinville.jpg
@@ -4100,11 +4095,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Notícias Agrícolas
 URL: https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 Logo: https://i.postimg.cc/6pbjRxpj/tv-noticias-agricolas.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV OLHO D’ÁGUA
-URL: https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8
-Logo: https://i.postimg.cc/d3x0zNSc/tvolhodagua.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV+ News
@@ -4312,11 +4302,6 @@ URL: https://awtv.nuvemplay.live/hls/stream.m3u8
 Logo: https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Boas Novas
-URL: https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-Logo: https://i.imgur.com/ZqhizdP.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Canal 25 Jundiai
 URL: https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 Logo: https://i.imgur.com/7igGMwH.png
@@ -4420,6 +4405,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Demais TV
 URL: https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 Logo: https://i.imgur.com/Md3xibE.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: ESTV
+URL: https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+Logo: https://i.postimg.cc/nhPBDrTF/estv-logo.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: EUTV
@@ -4542,6 +4532,11 @@ URL: http://186.219.52.187/rede_familia/index.m3u8
 Logo: https://i.imgur.com/7KVFCrQ.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Rede Maischeti
+URL: https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
+Logo: https://i.postimg.cc/Bv6KcQPV/rede-maischeti.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Rede Meio Norte
 URL: https://maystreaming.cloudecast.com/redemeio/index.m3u8
 Logo: https://i.imgur.com/KVdTi0M.png
@@ -4605,11 +4600,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: SOU TV
 URL: https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 Logo: https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TES TV
-URL: https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
-Logo: https://i.postimg.cc/fWjYNFsd/rede-tes-tv.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV 100% Caipira
@@ -4712,6 +4702,11 @@ URL: https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 Logo: https://i.imgur.com/NtcoW6G.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV GALINHA CHOCA
+URL: https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
+Logo: https://i.postimg.cc/sXh4B0VX/tv-galinha-choca.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Gazeta
 URL: http://45.162.64.114/TV_GAZETA/index.m3u8
 Logo: https://i.imgur.com/0sksWse.png
@@ -4805,6 +4800,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Vila Real
 URL: https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 Logo: https://i.imgur.com/Z1uWe7g.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TVC-Rio
+URL: https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+Logo: https://i.imgur.com/WDiikWv.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TVCOM Maceio
