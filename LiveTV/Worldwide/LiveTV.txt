@@ -3291,7 +3291,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiA5OjEwOjUgUE0maGFzaF92YWx1ZT1ucjNNbFJNQUtVYlVKcURYQmlta05nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTFkNTQ3MTQtNjIwMC00ZjY0LWEyZmItNWNlYTA5ZmVlOTY0/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiA1OjM6NTQgQU0maGFzaF92YWx1ZT1JZVdneFFFWVNLNkhLd2JDTlB2dG93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmViYzMxYjEtMWJhOS00YmZmLTlmODMtOWVhZTM5ZWMzNzNj/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3569,7 +3569,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiA5OjEwOjUgUE0maGFzaF92YWx1ZT1hUEMxNExHL3VPRXNrVWFraUkxSjVRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzkzNzhlNzMtZmM1Yy00MjQ5LTg4MDUtNWIwMThkMThjNjkx/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiA1OjM6NTUgQU0maGFzaF92YWx1ZT0zYUl5UklSN3RnckVkeENzbHA1Q0VnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2I4YmVlMzAtNGU5Zi00Y2I3LWE3NWMtZjAxODEyMmYyM2M5/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3579,7 +3579,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiA5OjEwOjQgUE0maGFzaF92YWx1ZT12T2FoTXRES3k1dzhmS0laQ3E1SGdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODVhNDY1ZjctNjlhNi00NjU0LWEyNTktMmIzYTJhMDE0MGM4/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiA1OjM6NTQgQU0maGFzaF92YWx1ZT1vdWtmRHpjZlV2ZGZuL1ZoVFBrbE13PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGFlOWVhNWEtYzc4Ni00NjVlLTgzMWItM2MyYmY1NWUyNzUw/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -4077,6 +4077,16 @@ URL: https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/p
 Logo: https://i.postimg.cc/6pbjRxpj/tv-noticias-agricolas.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV OLHO D’ÁGUA
+URL: https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8
+Logo: https://i.postimg.cc/d3x0zNSc/tvolhodagua.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TV Tudo
+URL: https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
+Logo: https://i.postimg.cc/bJ8ZhTGZ/tv-tudo.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV+ News
 URL: https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 Logo: https://i.postimg.cc/t47nvJ2j/tvmais_news.jpg
@@ -4407,6 +4417,11 @@ URL: https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 Logo: https://i.imgur.com/Md3xibE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: ESTV
+URL: https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+Logo: https://i.postimg.cc/nhPBDrTF/estv-logo.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: EUTV
 URL: https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 Logo: https://i.imgur.com/8PxpamC.png
@@ -4595,11 +4610,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: SOU TV
 URL: https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 Logo: https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TES TV
-URL: https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
-Logo: https://i.postimg.cc/fWjYNFsd/rede-tes-tv.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV 100% Caipira
@@ -4795,11 +4805,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV São Gabriel
 URL: https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8
 Logo: https://i.postimg.cc/s2wN6x62/tv-sao-gabriel.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Vila Real
-URL: https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-Logo: https://i.imgur.com/Z1uWe7g.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TVC-Rio
