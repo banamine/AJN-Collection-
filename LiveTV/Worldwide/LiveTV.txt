@@ -2243,6 +2243,11 @@ URL: https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd?wowz
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/TLC.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
+Name: Rock Action (🔉💬🇬🇧)🇮🇩
+URL: https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
+Logo: https://www.visionplus.id/images/repository/645/645-LOGO-m.png
+Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
+--------------------------------------------------
 Name: MN+ (🔉💬🇬🇧)🇮🇳
 URL: https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 Logo: https://logo.m3uassets.com/mnplus.png
@@ -3291,7 +3296,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiA1OjM6NTQgQU0maGFzaF92YWx1ZT1JZVdneFFFWVNLNkhLd2JDTlB2dG93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmViYzMxYjEtMWJhOS00YmZmLTlmODMtOWVhZTM5ZWMzNzNj/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiAxOjQzOjcgUE0maGFzaF92YWx1ZT1PcnJTaVd3T1pkY1JuWnEya1VhaS9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDhjYTgzOWQtNjBhMy00ZDEyLTk2NDQtODE5ZjU5Mjc4Y2Rj/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3569,7 +3574,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiA1OjM6NTUgQU0maGFzaF92YWx1ZT0zYUl5UklSN3RnckVkeENzbHA1Q0VnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2I4YmVlMzAtNGU5Zi00Y2I3LWE3NWMtZjAxODEyMmYyM2M5/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiAxOjQzOjggUE0maGFzaF92YWx1ZT1sdVRCY0dzTk1vTTQ1bUp6MlpObkRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjUwYWRmMDUtYzBiMy00NDBmLTkzZDMtNGNkZTFjNWRiZGRk/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3579,7 +3584,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiA1OjM6NTQgQU0maGFzaF92YWx1ZT1vdWtmRHpjZlV2ZGZuL1ZoVFBrbE13PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGFlOWVhNWEtYzc4Ni00NjVlLTgzMWItM2MyYmY1NWUyNzUw/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiAxOjQzOjcgUE0maGFzaF92YWx1ZT1SbEFobytRUWhvMWoraTNWZEl4ZUd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmJkNzkyMWQtZDI3Yi00Yjk0LTkxZDUtYzBlNjUyNGRlNjA5/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3907,6 +3912,11 @@ URL: https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 Logo: https://i.postimg.cc/7Pgs1zSX/bstv-novalogo-03.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Coletiva TV
+URL: https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
+Logo: https://i.postimg.cc/VkLNrGYr/coletiva-tv.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Gazeta Brasil
 URL: https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8
 Logo: https://i.postimg.cc/kGYKdhz1/canal-de-testes.jpg
@@ -4082,6 +4092,11 @@ URL: https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8
 Logo: https://i.postimg.cc/d3x0zNSc/tvolhodagua.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Singular
+URL: https://stmv3.srvsh.com.br/danielsantos1659/danielsantos1659/chunklist_w1674411964.m3u8
+Logo: https://i.postimg.cc/d1wFkDws/novalogo-logo-tv-singular.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Tudo
 URL: https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
 Logo: https://i.postimg.cc/bJ8ZhTGZ/tv-tudo.jpg
@@ -4132,11 +4147,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Canaã News TV
 URL: https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 Logo: https://i.postimg.cc/9fKggKJZ/cana-news.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Rede Super TV
-URL: https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
-Logo: https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Rede Vida
@@ -4312,6 +4322,11 @@ URL: https://awtv.nuvemplay.live/hls/stream.m3u8
 Logo: https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Boas Novas
+URL: https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+Logo: https://i.imgur.com/ZqhizdP.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Canal 25 Jundiai
 URL: https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 Logo: https://i.imgur.com/7igGMwH.png
@@ -4480,6 +4495,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Nova Era TV
 URL: http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 Logo: https://i.imgur.com/IK3F9Uq.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Nova TVI Petrópolis
+URL: https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8
+Logo: https://pa-str.srvsite.com/arquivos/7140/cabecalho-7140-20240911033310.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: NTV
@@ -4802,9 +4822,19 @@ URL: https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmol
 Logo: https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Sul Bahia
+URL: https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+Logo: https://i.imgur.com/qM6nMWm.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV São Gabriel
 URL: https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8
 Logo: https://i.postimg.cc/s2wN6x62/tv-sao-gabriel.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TV Vila Real
+URL: https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+Logo: https://i.imgur.com/Z1uWe7g.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TVC-Rio
