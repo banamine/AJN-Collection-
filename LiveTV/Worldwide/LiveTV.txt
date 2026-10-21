@@ -2275,11 +2275,6 @@ Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 
 Group: Entretenimento
-Name: Blitstv
-URL: https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
-Logo: https://i.imgur.com/FO4QTRf.jpeg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Chroma TV
 URL: https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 Logo: https://i.imgur.com/SnaIMgj.png
@@ -2597,11 +2592,6 @@ URL: https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m
 Logo: https://i.postimg.cc/pXFrrsjk/retrocartoon.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Kids Mais
-URL: https://Stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
-Logo: https://i.postimg.cc/Qxh10Z7j/tv-kids-mais.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 
 Group: Internacional
 Name: Euro News
@@ -2642,11 +2632,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Kurikos Music
 URL: https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
 Logo: https://i.postimg.cc/vmdXDcmx/kuriokus_music.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Melodie TV
-URL: https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8
-Logo: https://i.postimg.cc/g20BQHxg/melody_tv.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: MyTime Movie Network
@@ -3151,11 +3136,6 @@ Source: https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/internat
 --------------------------------------------------
 
 Group: Música
-Name: KpopTV Play
-URL: https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-Logo: https://i.imgur.com/Tf0vweF.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Music Box Brazil
 URL: http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 Logo: https://i.imgur.com/CDPCF2X.png
@@ -3291,7 +3271,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiAxMToxNTozOSBQTSZoYXNoX3ZhbHVlPUVVTXZSUWE3dXpsdjhjVjNsZW10dHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02NWFhYjUzNi01NzU4LTQ4YWQtODJhOC0xMTYxZGE5MDFiZjc=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNiA1OjQ6NTYgQU0maGFzaF92YWx1ZT1jOUROQVdGSW1NN0pNSEUyMjkvaHB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzRkZmUzZDAtOTBhYy00MDRjLTk2MDAtYTQ4YmFhODY3NTIz/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3569,7 +3549,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiAxMToxNTo0MCBQTSZoYXNoX3ZhbHVlPThqcG92aWxHV1hrci9WRDFzN0hCT0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMDAxNTY0ZC0zMGZiLTRiYmUtYWI3Yi01M2E5MDJiZWQyZDI=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNiA1OjQ6NTYgQU0maGFzaF92YWx1ZT0zMXhLeCtJenBaQWpKTlcrdnBRam1RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTQ3YTVmMmYtMWYyMC00MWVkLWFhNWQtNGYyYzZmODM5OThi/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3579,7 +3559,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiAxMToxNTozOCBQTSZoYXNoX3ZhbHVlPWZ1OHZtTTNBMGJTemhScjVOMGxXT1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xZmUxN2YyMy04N2QxLTQzNWUtYTY0YS1hYWI1YWQ4MmE2ZmE=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNiA1OjQ6NTUgQU0maGFzaF92YWx1ZT1ONTJOS3RCUU42RDFuK1lkOTdJRWdRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmY2OTJmY2UtMDY1NS00NzZkLWJjYzEtM2Q1ODZkYjg2ODFk/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -4144,11 +4124,6 @@ URL: https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 Logo: https://i.postimg.cc/9fKggKJZ/cana-news.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Rede Super TV
-URL: https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
-Logo: https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Rede Vida
 URL: https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 Logo: https://i.postimg.cc/C5n51dFq/rede-vidatv.png
@@ -4432,6 +4407,11 @@ URL: https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 Logo: https://i.imgur.com/Md3xibE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: ESTV
+URL: https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+Logo: https://i.postimg.cc/nhPBDrTF/estv-logo.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: EUTV
 URL: https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 Logo: https://i.imgur.com/8PxpamC.png
@@ -4587,11 +4567,6 @@ URL: https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 Logo: https://i.postimg.cc/MGcsm3ng/vivax-tv.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: RedeTV! Parana
-URL: https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-Logo: https://i.imgur.com/D8R0Af4.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: SBT Nacional
 URL: https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 Logo: https://i.imgur.com/tc1ALuu.png
@@ -4625,11 +4600,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: SOU TV
 URL: https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 Logo: https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TES TV
-URL: https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
-Logo: https://i.postimg.cc/fWjYNFsd/rede-tes-tv.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV 100% Caipira

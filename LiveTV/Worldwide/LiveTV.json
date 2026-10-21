@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21 08:46:29",
+  "date": "2026-10-21 18:54:55",
   "channels": {
     "Buy me a Coffee": [
       {
@@ -121,7 +121,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiAxMToxNTo0MCBQTSZoYXNoX3ZhbHVlPThqcG92aWxHV1hrci9WRDFzN0hCT0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMDAxNTY0ZC0zMGZiLTRiYmUtYWI3Yi01M2E5MDJiZWQyZDI=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNiA1OjQ6NTYgQU0maGFzaF92YWx1ZT0zMXhLeCtJenBaQWpKTlcrdnBRam1RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTQ3YTVmMmYtMWYyMC00MWVkLWFhNWQtNGYyYzZmODM5OThi/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -135,7 +135,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiAxMToxNTozOCBQTSZoYXNoX3ZhbHVlPWZ1OHZtTTNBMGJTemhScjVOMGxXT1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xZmUxN2YyMy04N2QxLTQzNWUtYTY0YS1hYWI1YWQ4MmE2ZmE=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNiA1OjQ6NTUgQU0maGFzaF92YWx1ZT1ONTJOS3RCUU42RDFuK1lkOTdJRWdRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmY2OTJmY2UtMDY1NS00NzZkLWJjYzEtM2Q1ODZkYjg2ODFk/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -305,7 +305,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNiAxMToxNTozOSBQTSZoYXNoX3ZhbHVlPUVVTXZSUWE3dXpsdjhjVjNsZW10dHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02NWFhYjUzNi01NzU4LTQ4YWQtODJhOC0xMTYxZGE5MDFiZjc=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyNiA1OjQ6NTYgQU0maGFzaF92YWx1ZT1jOUROQVdGSW1NN0pNSEUyMjkvaHB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzRkZmUzZDAtOTBhYy00MDRjLTk2MDAtYTQ4YmFhODY3NTIz/"
       },
       {
         "name": "Euronews 🇵🇹",
@@ -4276,6 +4276,13 @@
         "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8"
       },
       {
+        "name": "ESTV",
+        "logo": "https://i.postimg.cc/nhPBDrTF/estv-logo.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8"
+      },
+      {
         "name": "EUTV",
         "logo": "https://i.imgur.com/8PxpamC.png",
         "group": "Variedades",
@@ -4493,13 +4500,6 @@
         "url": "https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8"
       },
       {
-        "name": "RedeTV! Parana",
-        "logo": "https://i.imgur.com/D8R0Af4.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
-      },
-      {
         "name": "SBT Nacional",
         "logo": "https://i.imgur.com/tc1ALuu.png",
         "group": "Variedades",
@@ -4547,13 +4547,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-      },
-      {
-        "name": "TES TV",
-        "logo": "https://i.postimg.cc/fWjYNFsd/rede-tes-tv.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8"
       },
       {
         "name": "TV 100% Caipira",
@@ -5235,13 +5228,6 @@
     ],
     "Entretenimento": [
       {
-        "name": "Blitstv",
-        "logo": "https://i.imgur.com/FO4QTRf.jpeg",
-        "group": "Entretenimento",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
-      },
-      {
         "name": "Chroma TV",
         "logo": "https://i.imgur.com/SnaIMgj.png",
         "group": "Entretenimento",
@@ -5527,13 +5513,6 @@
     ],
     "Música": [
       {
-        "name": "KpopTV Play",
-        "logo": "https://i.imgur.com/Tf0vweF.png",
-        "group": "Música",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-      },
-      {
         "name": "Music Box Brazil",
         "logo": "https://i.imgur.com/CDPCF2X.png",
         "group": "Música",
@@ -5604,13 +5583,6 @@
         "group": "Internacional",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8"
-      },
-      {
-        "name": "Melodie TV",
-        "logo": "https://i.postimg.cc/g20BQHxg/melody_tv.jpg",
-        "group": "Internacional",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8"
       },
       {
         "name": "MyTime Movie Network",
@@ -5748,13 +5720,6 @@
         "group": "Infantis",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8"
-      },
-      {
-        "name": "TV Kids Mais",
-        "logo": "https://i.postimg.cc/Qxh10Z7j/tv-kids-mais.jpg",
-        "group": "Infantis",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://Stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8"
       }
     ],
     "Legislativo": [
@@ -5870,13 +5835,6 @@
         "group": "Religiosos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8"
-      },
-      {
-        "name": "Rede Super TV",
-        "logo": "https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg",
-        "group": "Religiosos",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8"
       },
       {
         "name": "Rede Vida",
