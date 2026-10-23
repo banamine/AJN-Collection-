@@ -15942,6 +15942,12 @@
     "img": "https://media.giphy.com/media/rWVW147NWM7gltXlpZ/giphy.gif"
   },
   {
+    "name": "FanCode",
+    "type": "No SignaL 📺",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+    "img": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/250px-FanCode_logo.svg.png"
+  },
+  {
     "name": "SKY Sport MotoGP",
     "type": "No SignaL 📺",
     "url": "http://lisabontv.pro:8080/live/tjPYdQpZ/kYXxX5x8yKgd/826568.m3u8",
@@ -29980,6 +29986,678 @@
     "type": "World CUP",
     "url": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_1_TV/index.m3u8",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif"
+  },
+  {
+    "name": "RCTI",
+    "type": "TV BackUP",
+    "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "MNCTV",
+    "type": "TV BackUP",
+    "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "GTV",
+    "type": "TV BackUP",
+    "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "INEWS",
+    "type": "TV BackUP",
+    "url": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "SCTV",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=204",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "INDOSIAR",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/205/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "INDOSIAR",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ANTV",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/782/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ANTV",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=782",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TRANS 7",
+    "type": "TV BackUP",
+    "url": "https://trans.diorx.my.id/trans7.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TRANS TV",
+    "type": "TV BackUP",
+    "url": "https://trans.diorx.my.id/transtv.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TVONE",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/783/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TVONE",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=783",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "METRO TV",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/777/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "METRO TV",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=777",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TVRI",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/6441/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TVRI",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=6441",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "KOMPAS TV",
+    "type": "TV BackUP",
+    "url": "https://op-group1-densxvisionhd-1.dens.tv/s/s104/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "MOJI",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/206/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "MDTV",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/875/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "MDTV",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=875",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "JTV",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/9713/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "JTV",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=9713",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "JAKTV",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/5415/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "JAKTV",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=5415",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "RTV",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/1561/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "RTV",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=1561",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "NTV",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/7432/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "NTV",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7432",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "DAAI",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/6482/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "DAAI",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=6482",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "BERITASATU",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/18280/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "BERITASATU",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=18280",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "BTV",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/6165/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "BTV",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=6165",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "CNBC INDONESIA",
+    "type": "TV BackUP",
+    "url": "https://live.cnnindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "CNN INDONESIA",
+    "type": "TV BackUP",
+    "url": "https://video.detik.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "GARUDA",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/18162/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "GARUDA",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=18162",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "SINPO",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/19046/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "MENTARI",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/8237/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "MENTARI",
+    "type": "TV BackUP",
+    "url": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "MUSICA",
+    "type": "TV BackUP",
+    "url": "https://vidio123.mikrofast.web.id/vidio/7619/index.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "BIOSKOP INDONESIA",
+    "type": "TV BackUP",
+    "url": "http://202.150.161.212:5000/live/channel35/playlist.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TVN MOVIES",
+    "type": "TV BackUP",
+    "url": "http://202.150.161.212:5000/live/channel30/playlist.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "WARNER TV",
+    "type": "TV BackUP",
+    "url": "http://202.150.161.212:5000/live/channel29/playlist.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "CARTOON NETWORK",
+    "type": "TV BackUP",
+    "url": "http://202.150.161.212:5000/live/channel27/playlist.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "NICKELODEON",
+    "type": "TV BackUP",
+    "url": "https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "CINEMAX",
+    "type": "TV BackUP",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "CINEMAX",
+    "type": "TV BackUP",
+    "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO",
+    "type": "TV BackUP",
+    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO 2",
+    "type": "TV BackUP",
+    "url": "http://88.212.15.47/live/test_hbo2_hd_hevc/playlist.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO 3",
+    "type": "TV BackUP",
+    "url": "http://88.212.15.47/live/test_hbo3_hd_hevc/playlist.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO FAMILY",
+    "type": "TV BackUP",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO FAMILY",
+    "type": "TV BackUP",
+    "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO MUNDI",
+    "type": "TV BackUP",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO PLUS",
+    "type": "TV BackUP",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO SIGNATURE",
+    "type": "TV BackUP",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO XTREME",
+    "type": "TV BackUP",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO MOVIES",
+    "type": "TV BackUP",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO WEST",
+    "type": "TV BackUP",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO COMEDY",
+    "type": "TV BackUP",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ZEE CINEMA",
+    "type": "TV BackUP",
+    "url": "https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ZEE BOLLYWOOD",
+    "type": "TV BackUP",
+    "url": "https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ZEE BANGLA CINEMA",
+    "type": "TV BackUP",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ZEE TV",
+    "type": "TV BackUP",
+    "url": "https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ZEE ONE",
+    "type": "TV BackUP",
+    "url": "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HUM TV",
+    "type": "TV BackUP",
+    "url": "https://stream.ottplus.live/live/hum_tv_abr/index.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "STAR JALSHA",
+    "type": "TV BackUP",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8|user-agent=Mozilla/5.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "BEIN SPORTS 2",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "BEIN SPORTS 3",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "PREMIER SPORTS 1",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "PREMIER SPORTS 2",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "DAZN 1",
+    "type": "TV BackUP",
+    "url": "https://liveua.cdnfly.click/pt_elevensport1/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "DAZN 2",
+    "type": "TV BackUP",
+    "url": "https://liveua.cdnfly.click/pt_elevensport2/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "DAZN 3",
+    "type": "TV BackUP",
+    "url": "https://liveua.cdnfly.click/pt_elevensport3/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "DAZN 4",
+    "type": "TV BackUP",
+    "url": "https://liveua.cdnfly.click/pt_elevensport4/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "CBS SPORTS",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ONE CHAMPIONSHIP",
+    "type": "TV BackUP",
+    "url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TVN SPORTS",
+    "type": "TV BackUP",
+    "url": "https://jmp2.uk/stvp-KRBC800015MH",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "CCTV 5 PLUS",
+    "type": "TV BackUP",
+    "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "CCTV FOOTBALL",
+    "type": "TV BackUP",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "HBO BOXING",
+    "type": "TV BackUP",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "UFC",
+    "type": "TV BackUP",
+    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "FS1",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "FS1",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "FS2",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "FUBO 1",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "FUBO 2",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "FANCODE 2",
+    "type": "TV BackUP",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "GO3 SPORT 1",
+    "type": "TV BackUP",
+    "url": "https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/212_HTTP/__op/dash-widevine/__f/manifest.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "GO3 SPORT 2",
+    "type": "TV BackUP",
+    "url": "https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/153_HTTP/__op/dash-widevine/__f/manifest.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "GO3 SPORT 3",
+    "type": "TV BackUP",
+    "url": "https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/166_HTTP/__op/dash-widevine/__f/manifest.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "GO3 SPORT OPEN",
+    "type": "TV BackUP",
+    "url": "https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/229_HTTP/__op/dash-widevine/__f/manifest.mpd",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 1",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640601&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 1",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640600&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 2",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640599&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 2",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640598&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 3",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640597&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 3",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640596&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 4",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640595&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 4",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640594&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 5",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640593&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 5",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640592&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 6",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640591&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 6",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640590&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 7",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640589&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 7",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640588&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 8",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640587&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 8",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640586&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 9",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640585&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "ARENA SPORT 10",
+    "type": "TV BackUP",
+    "url": "http://45.159.94.49:8080/play/live.php?mac=00:1A:79:56:A2:BB&stream=640584&extension=ts",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "GTV - FHD",
