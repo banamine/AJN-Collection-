@@ -293,7 +293,7 @@ Logo: https://amarbanglatv.in/wp-content/uploads/2026/07/Amar-Bangla-TV-logo-300
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Amar Digital TV
-URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8
+URL: http://115.187.41.216:8080/hls/amardigital/index.m3u8
 Logo: https://th.bing.com/th/id/OIP.ZSBINjQw_TEmElNoECErVQHaDL?rs=1&pid=ImgDetMain
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -303,7 +303,7 @@ Logo: https://yt3.googleusercontent.com/AKdtkYcJ5cbC1NNkbELbIarJgjbCxsyQ08rW-LAb
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: ATN BANGLA
-URL: https://tvsen5.aynaott.com/atnbangla/index.m3u8
+URL: http://tvsen5.aynascope.net/atnbangla/index.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/b/bd/Logo_of_ATN_Bangla.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -353,13 +353,18 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/6/65/Ruposhi_Bangla_new
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Enter10 Bangla HD
-URL: https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+URL: https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: G-Serise
 URL: https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: GAZI TV HD
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+Logo: https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: GLOBAL TV HD
@@ -380,11 +385,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: Khushboo Bangla
 URL: https://cdn.pishow.tv/ott/live/1473/master.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: MAASRANGA HD
-URL: https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
-Logo: https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Mohona TV
@@ -417,6 +417,11 @@ URL: https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 Logo: https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: MY TV HD
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+Logo: https://static.wikia.nocookie.net/logopedia/images/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: NK TV Bangla
 URL: https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 Logo: https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg
@@ -425,11 +430,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: NRB HD TV
 URL: https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeX0fMKpc_lRfrT6qTXG0iK7ltwilygRaZ61fPX_7T7RHkjdwTIaYDHWSMRVFez2eBnGGnAM3logWZ9f7r7uJGEZQQZfjb3hydOkm9Q2FEULaQHhxJkJqUrOA8xCxdnHEYTNhNoUSXONX48zDINAFHI80edoaKzFHO2TQg4N9ojnbp-Ae3eCX_XuQ-ZOE/s1600/NRBLogoDesignwithColorAccents_copy_900x900.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: NTV HD
-URL: https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8
-Logo: https://static.wikia.nocookie.net/logopedia/images/c/c7/NTV_logo_with_slogan_%28Bangladesh%29.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: NTV TV UK
@@ -447,11 +447,6 @@ URL: https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: RTV
-URL: https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
-Logo: https://static.wikia.nocookie.net/logopedia/images/4/4e/Rtv_bangladesh.svg
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Ruposhi Bangla
 URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/6/65/Ruposhi_Bangla_new.jpeg
@@ -465,6 +460,11 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: STAR JALSHA HD (Ads Only)
 URL: https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 Logo: http://openboxv8s.com/india/star_jalsha.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: TIKANA TV
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
+Logo: https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Time Televis HD
@@ -490,7 +490,7 @@ Logo: https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9f/DBC_News_log
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: BD | Jago News 24
-URL: https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
+URL: https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 Logo: https://cdn.jagonews24.com/media/common/logo.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -515,7 +515,7 @@ Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: IN | ABP Ananda
-URL: https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+URL: https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/a/a2/Abp-ananda.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -588,8 +588,8 @@ URL: https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Boishakhi TV
-URL: https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+Name: Channel I
+URL: https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -598,18 +598,23 @@ URL: https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Channel I
-URL: https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Ekhon TV
-URL: https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+Name: Boishakhi TV
+URL: https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Ekattor TV
 URL: https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: RTV
+URL: http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Ekhon TV
+URL: https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -623,18 +628,13 @@ URL: https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Global TV
-URL: https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: RTV
-URL: http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: NTV
 URL: https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Global TV
+URL: https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -657,13 +657,13 @@ Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 
 Group: Cartoons | 24/7
-Name: Motu Patlu
-URL: https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+Name: Gopal Bhar
+URL: https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Gopal Bhar
-URL: https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+Name: Motu Patlu
+URL: https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -889,7 +889,7 @@ Logo: https://www.powernationtv.com/images/brands/pn_icon_sm.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: REAL WILD
-URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+URL: https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/playlist/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 Logo: https://i.ibb.co/sRhcqHT/realwild.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -1233,11 +1233,6 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 
 Group: General
-Name: ATN Bangla (720p)
-URL: http://tvsen5.aynascope.net/atnbangla/index.m3u8
-Logo: https://i.imgur.com/K1HmMRz.png
-Source: https://iptv-org.github.io/iptv/countries/bd.m3u
---------------------------------------------------
 Name: Gazi TV (1080p)
 URL: http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 Logo: https://i.imgur.com/2Lzhiq6.png
@@ -1327,13 +1322,13 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 
 Group: Hindi | 24/7
-Name: South Movies
-URL: https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+Name: Hindi Movies
+URL: https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Hindi Movies
-URL: https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+Name: South Movies
+URL: https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -3694,13 +3689,13 @@ URL: http://premimum.online:80/live/jen12345/jen54321/98854.ts
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Bhojpuri Cinema
-URL: https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+Name: Shemaroo Bollywood
+URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Shemaroo Bollywood
-URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+Name: Bhojpuri Cinema
+URL: https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -3777,6 +3772,11 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="India",ENT | Sony Entertainment
 URL: http://38.96.178.205/SONYHD/index.m3u8
 Logo: https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: ENT | ZEE TV HD
+URL: http://41.205.93.154/ZEE-TV/index.m3u8
+Logo: https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo-768x432.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: History TV18 HD Hindi
@@ -3865,7 +3865,7 @@ Logo: https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan__mob___3
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: MU | 9XM
-URL: https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
+URL: https://wiselp.wiseplayout.com/9XM/master.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/2/29/9x_media.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -3917,11 +3917,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: MU | Only Music
 URL: https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: MU | Pitaara TV
-URL: https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-Logo: https://a.jsrdn.com/hls/23049/pitaara-tv/logo_20231219_220959_63.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: MU | PTC Music
@@ -3977,6 +3972,11 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: NEWS | Aaj Tak HD
 URL: https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: NEWS | Aap Ki Adalat
+URL: https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
+Logo: https://yt3.googleusercontent.com/-LKDkXmG8y-gkKDzES5aUI8SYFtDXR8F7351cCACb8OP0ap9MkI5moxwFLoAWNRjVEXKJmH3pQ=s72-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: NEWS | ABP News
@@ -4092,6 +4092,11 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: NEWS | ZEE BUSINESS
 URL: https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: NEWS | Zee Hindustan
+URL: https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+Logo: https://static.wikia.nocookie.net/logopedia/images/0/04/Z_Bharat_English.jpg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: NEWS | ZEE News
@@ -4254,7 +4259,7 @@ Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cine
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: EN | COURT TV
-URL: https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+URL: https://d2fm99ft1zcnjm.cloudfront.net/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 Logo: https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4356,7 +4361,7 @@ Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Bloomberg TV
-URL: https://bloomberg.com/media-manifest/streams/us.m3u8
+URL: https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 Logo: https://cordcutting.com/wp-content/uploads/2018/01/bloomberg-television-logo-300x150.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4371,7 +4376,7 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-s
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: CGTN
-URL: https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master540p.m3u8
+URL: https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 Logo: https://yt3.googleusercontent.com/ZswtbrleL4K7ameGvmiWb-FTsBCPpWf9Awwt6rUTQtbKe-sf1MbdvxtCGAqcdp7rksGs0oi1=s120-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4426,7 +4431,7 @@ Logo: https://assets.rbl.ms/61228189/origin.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Global News (US)
-URL: https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/6/6b/Global_News_2022_Block_inside.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4441,7 +4446,7 @@ Logo: https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Newsmax TV
-URL: http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+URL: https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/7/72/Newsmax_2021.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4575,7 +4580,7 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/3/3c/Baby_TV_2026.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: 0. Baby Shark TV
-URL: https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+URL: https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4595,7 +4600,7 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/5/51/Discovery_Family.s
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: 0. Disney Channel Latin America
-URL: http://15.204.246.24:8080/DisneyHD/index.m3u8
+URL: http://45.166.93.156:9999/play/a0f3/index.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4635,7 +4640,7 @@ Logo: https://yt3.googleusercontent.com/3fWnBPeggOeAwIiDTKowTUF-Va2gqE8j0yn0dTOb
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: 0. Mr Bean Animated
-URL: https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+URL: https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/7/78/Mr._Bean_%28animated_series%2C_stacked%29.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4919,6 +4924,11 @@ URL: https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/e/e5/Pinoyextremechannel.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: ZB Cartoon
+URL: https://server.zillarbarta.com/zbcatun/video.m3u8
+Logo: https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: Солнце
 URL: http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/4/49/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5.svg
@@ -4963,29 +4973,29 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 
 Group: Live Event
-Name: 2nd T20I - 24 Oct 2026 [ENG] - India Tour of New Zealand 2026
-URL: https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792877698~acl=/*~id=45341769512400260184029120348843~hmac=5008169f3683682bf6ed82b079562b759a56a13307d5d77bf20b370afc9eb12b
-Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg
+Name: UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG] - UFC 333 - Volkanovski vs Evloev
+URL: https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792905654~acl=/*~id=85084084612754593942883790571792~hmac=535d17872b8977135f7d43342bd1c3f63bf478f66dec1f3578843cdf48ce9e6e
+Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: 2nd T20I - 24 Oct 2026 [HIN] - India Tour of New Zealand 2026
-URL: https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792877698~acl=/*~id=45341769512400260184029120348843~hmac=5008169f3683682bf6ed82b079562b759a56a13307d5d77bf20b370afc9eb12b
-Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg
+Name: UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN] - UFC 333 - Volkanovski vs Evloev
+URL: https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792905654~acl=/*~id=85084084612754593942883790571792~hmac=535d17872b8977135f7d43342bd1c3f63bf478f66dec1f3578843cdf48ce9e6e
+Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: 2nd T20I - 24 Oct 2026 [TAM] - India Tour of New Zealand 2026
-URL: https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792877698~acl=/*~id=45341769512400260184029120348843~hmac=5008169f3683682bf6ed82b079562b759a56a13307d5d77bf20b370afc9eb12b
-Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg
+Name: UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM] - UFC 333 - Volkanovski vs Evloev
+URL: https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792905654~acl=/*~id=85084084612754593942883790571792~hmac=535d17872b8977135f7d43342bd1c3f63bf478f66dec1f3578843cdf48ce9e6e
+Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: 2nd T20I - 24 Oct 2026 [TEL] - India Tour of New Zealand 2026
-URL: https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792877698~acl=/*~id=45341769512400260184029120348843~hmac=5008169f3683682bf6ed82b079562b759a56a13307d5d77bf20b370afc9eb12b
-Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg
+Name: UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL] - UFC 333 - Volkanovski vs Evloev
+URL: https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792905654~acl=/*~id=85084084612754593942883790571792~hmac=535d17872b8977135f7d43342bd1c3f63bf478f66dec1f3578843cdf48ce9e6e
+Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: 2nd T20I - 24 Oct 2026 [KAN] - India Tour of New Zealand 2026
-URL: https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792877698~acl=/*~id=45341769512400260184029120348843~hmac=5008169f3683682bf6ed82b079562b759a56a13307d5d77bf20b370afc9eb12b
-Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg
+Name: UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN] - UFC 333 - Volkanovski vs Evloev
+URL: https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792905654~acl=/*~id=85084084612754593942883790571792~hmac=535d17872b8977135f7d43342bd1c3f63bf478f66dec1f3578843cdf48ce9e6e
+Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 
@@ -5248,7 +5258,7 @@ Logo: ahttps://static.wikia.nocookie.net/logopedia/images/b/b9/NOW_70s_2022.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: EN | NOW 80's
-URL: https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+URL: https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5283,7 +5293,7 @@ Logo: https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: EN | Trace Urban
-URL: https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+URL: https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/3/3e/Trace_Urban.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5338,7 +5348,7 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/9/9b/Xite_2017.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: EN | XITE Hits
-URL: https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+URL: https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/02/Xite_2013.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5639,6 +5649,11 @@ URL: http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 Logo: https://i.imgur.com/Qbt6q4z.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
+Name: Ekushey TV (480p)
+URL: https://ekusheyserver.com/etvlivesn.m3u8
+Logo: https://i.imgur.com/lRpkGHj.png
+Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
 Name: NAN TV
 URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
 Logo: https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png
@@ -5672,7 +5687,7 @@ Logo: https://arynews.tv/assets/images/logo.webp
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: NEWS | Dunya News
-URL: https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1668837618_b950272.m3u8
+URL: http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/2/29/Dunya_News.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -6294,6 +6309,11 @@ URL: https://tvsen3.aynaott.com/Sports1/mono.m3u8
 Logo: https://static.epg.best/cn/StarSports1.cn.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: --Live(beIN SPORTS XTRA)--
+URL: https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+Logo: https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: --Live(FOOTBALL)--
 URL: https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -6459,11 +6479,6 @@ URL: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 Logo: https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: MIXER | Sports Fishing
-URL: https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
-Logo: https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: MIXER | SportsGrid
 URL: https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/b/bd/SPORTSGRID_LOGO_BLACK_RED_LOGO.svg
@@ -6477,11 +6492,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: MIXER | Unbeaten Sports Channel
 URL: https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 Logo: https://i.imgur.com/LmkNt3v.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: MIXER | WOF 1
-URL: https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
-Logo: https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: MIXER | World of Freesports
@@ -7349,16 +7359,6 @@ URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: My TV
-URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Gazi TV
-URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Channel S
 URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -7366,6 +7366,21 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 Name: Boishakhi TV
 URL: https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Maasranga TV (720p)
+URL: http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: RTV (720p)
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: RTV (720p)
+URL: http://tvsen5.aynascope.net/RtvHD/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -7384,16 +7399,6 @@ URL: https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Nexus TV (576p)
-URL: https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Maasranga TV (720p)
-URL: http://tvsen5.aynascope.net/maasrangatv/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: NTV (720p)
 URL: https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -7404,13 +7409,8 @@ URL: https://tvsen5.aynaott.com/RtvHD/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: RTV (720p)
-URL: http://tvsen5.aynascope.net/RtvHD/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Ekushey TV (480p)
-URL: https://ekusheyserver.com/etvlivesn.m3u8
+Name: Nexus TV (576p)
+URL: https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
