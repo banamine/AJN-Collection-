@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26 09:40:16",
+  "date": "2026-10-27 02:26:59",
   "channels": {
     "TV": [
       {
@@ -6943,14 +6943,14 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNiAxMDo0MjoxOCBQTSZoYXNoX3ZhbHVlPXlJUXFiRU96MEQrMkJydU9CRzhNd0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00YWU2MzQ1Zi0xNzZmLTRhZGMtYTQwYi1lOWE2MzMxNzIwMGQ=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAzOjE5OjU5IFBNJmhhc2hfdmFsdWU9YjFnQlVpNTFOVHFvemtzYU5RRGZZQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ3ZGZlMDY5LWNlNjgtNGU2OS1iZGViLTk1Mzg0ZmUwNjc5Yg==/"
       },
       {
         "name": "TVI 🇵🇹",
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNiAxMDo0MjoxNyBQTSZoYXNoX3ZhbHVlPTBSR2hKMzE1dXVhV2tKRzAvYmxIWXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMjBmYjc3MS0zNDMyLTQzODEtODM0OS1iY2QwYzlkOWYyNWM=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAzOjE5OjU4IFBNJmhhc2hfdmFsdWU9VGllaTczRGV4ek0zcmdpdmtCV3FTQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE3YjY0ZmYxLTQ0ZmYtNGYyNS05Mjk5LTljMzJjMTQ0ZGYzNw==/"
       },
       {
         "name": "Porto Canal ⚽️ 🇵🇹",
@@ -7036,7 +7036,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNiAxMDo0MjoxOCBQTSZoYXNoX3ZhbHVlPVN6ejNPRjBuaWlndGVyVWdLelJQNEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lODdkOTVkNi05OTNkLTRhNjAtOGIxNC0yMTdjZDNiMDI3ZTg=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAzOjE5OjU4IFBNJmhhc2hfdmFsdWU9VlovcjJ0QXpONkhnVnZXcGpvSW1MQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNjYTU4NDViLWY2YmEtNDU5Ni04ZGFkLTczY2NlOTcxODZkNw==/"
       },
       {
         "name": "Euronews 🇵🇹",
