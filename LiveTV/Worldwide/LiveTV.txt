@@ -3358,7 +3358,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiA5OjY6MTUgUE0maGFzaF92YWx1ZT1XaS81ZHowL25kejcrNVljS0tqQm5RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjkxMzEwMDktZDQ4Mi00MWFkLWFmYmMtZmJiMTZkODEwNTQ0/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA1OjIwOjIgQU0maGFzaF92YWx1ZT1vT01QWmh5QVkzNzY5b0RCVEVVY2dnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmU4MGQ4YjItY2MwMi00OTNiLWFmNzktMjc5YWU3NjhlMjY2/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3631,7 +3631,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiA5OjY6MTYgUE0maGFzaF92YWx1ZT1nSjZ3a2JEU1VRc3grL0cwRkdPM0t3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzI5ZmNjYzMtZTIxOS00ZWRiLTg2YzktYTJhYzE0MWM1ZTE1/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA1OjIwOjIgQU0maGFzaF92YWx1ZT1KS3FYZEF1aDZUVW44YWNxOVVNc1h3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Zjc5ZjZjYzMtNTVkMC00NzRlLTkzNjMtMDQ5MGZlM2MyODZh/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3641,7 +3641,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiA5OjY6MTUgUE0maGFzaF92YWx1ZT1CWDFvSkNCT2NielU0SUlRSndMd1RBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTQzMjQ5YTQtNGQ2YS00YzY1LWI1ZDUtZWVkYjhjZjk5MDZk/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA1OjIwOjEgQU0maGFzaF92YWx1ZT1SSnRtNFVRUiszVGRaMWdkSDdyeHN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Nzc2ZWYzZTYtMDUyNy00ZDc4LWI4MzUtNzNjMjJjMzI4NzUz/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -4201,11 +4201,6 @@ URL: https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlis
 Logo: https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Canaã News TV
-URL: https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
-Logo: https://i.postimg.cc/9fKggKJZ/cana-news.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Rede Super TV
 URL: https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
 Logo: https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg
@@ -4714,6 +4709,11 @@ URL: https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 Logo: https://i.imgur.com/rsfnv4Z.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Alianca Catarinense
+URL: https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+Logo: https://i.imgur.com/eqmOhtP.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Alternativa
 URL: https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 Logo: https://i.imgur.com/wM9xXhc.png
@@ -4764,11 +4764,6 @@ URL: https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 Logo: https://i.imgur.com/CpXjcyE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Comunitaria
-URL: https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-Logo: https://i.imgur.com/uxefHY3.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: TV Cruzeiro do Brasil
 URL: https://cdn.live.br1.jmvstream.com/webtv/tvcruzeiro/playlist/chunklist.m3u8
 Logo: https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png
@@ -4802,6 +4797,16 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Gazeta
 URL: http://45.162.64.114/TV_GAZETA/index.m3u8
 Logo: https://i.imgur.com/0sksWse.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TV Globo Brasilia
+URL: http://79.127.238.228:14173/
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TV Guara
+URL: https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+Logo: https://i.imgur.com/8PErNBT.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Guarapari
