@@ -1282,33 +1282,6 @@ Logo: https://jerrymoz.files.wordpress.com/2024/03/qr_paypal.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 
-Group: Canais de TV
-Name: Beyblade [HD]
-URL: https://frostviewr1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vZnZoMjEuY29tL2xpdmUvYnJ1Njc1bmI4L2JmVDc5LzE0MDU0My5tM3U4Iiwicm9vdCI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNTQzLm0zdTgiLCJyZW5ldyI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNTQzLm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpiZXlibGFkZSJ9.m3u8
-Logo: http://24horas.cc:80/images/b4e132cba0f017040678e1bd1b4efb70.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Beyblade V Force [HD]
-URL: https://frostviewr1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vZnZoMjEuY29tL2xpdmUvYnJ1Njc1bmI4L2JmVDc5LzE0MDU0NC5tM3U4Iiwicm9vdCI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNTQ0Lm0zdTgiLCJyZW5ldyI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNTQ0Lm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpiZXlibGFkZS12LWZvcmNlIn0.m3u8
-Logo: http://24horas.cc:80/images/9728f7becc817edde0c4878636bbfa80.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Kick Buttowski [HD]
-URL: https://frostviewr1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vZnZoMjEuY29tL2xpdmUvYnJ1Njc1bmI4L2JmVDc5LzE0MDUzMy5tM3U4Iiwicm9vdCI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNTMzLm0zdTgiLCJyZW5ldyI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNTMzLm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpraWNrLWJ1dHRvd3NraSJ9.m3u8
-Logo: http://24horas.cc:80/images/b8edcc64db588084b5e21ca04c891e3d.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: NBA League Pass 1 [FHD]
-URL: https://frostviewr1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vZnZoMjEuY29tL2xpdmUvYnJ1Njc1bmI4L2JmVDc5LzE0MDUxNi5tM3U4Iiwicm9vdCI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNTE2Lm0zdTgiLCJyZW5ldyI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNTE2Lm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDpuYmEtbGVhZ3VlLXBhc3MtMSJ9.m3u8
-Logo: https://i.imgur.com/ynW8fZF.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Top 100 Sertanejo 2021 [HD]
-URL: https://frostviewr1.squareweb.app/relay/m/eyJ2IjoyLCJraW5kIjoibWFuaWZlc3QiLCJ1cmwiOiJodHRwOi8vZnZoMjEuY29tL2xpdmUvYnJ1Njc1bmI4L2JmVDc5LzE0MDQ5NS5tM3U4Iiwicm9vdCI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNDk1Lm0zdTgiLCJyZW5ldyI6Imh0dHA6Ly9mdmgyMS5jb20vbGl2ZS9icnU2NzVuYjgvYmZUNzkvMTQwNDk1Lm0zdTgiLCJjaGFubmVsX2lkIjoiY3M6Y2hhbm5lbDp0b3AtMTAwLXNlcnRhbmVqby0yMDIxIn0.m3u8
-Logo: http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-
 Group: Channels 🇧🇷
 Name: Globo sᴘ ⚽️ 🇧🇷
 URL: http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -3358,7 +3331,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA1OjIwOjIgQU0maGFzaF92YWx1ZT1vT01QWmh5QVkzNzY5b0RCVEVVY2dnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmU4MGQ4YjItY2MwMi00OTNiLWFmNzktMjc5YWU3NjhlMjY2/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjQ1OjI4IFBNJmhhc2hfdmFsdWU9Q0hVK09tUW9nLzJDemsxWnFEOVF6dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTIyZmY5ODkzLWRhZjMtNDkyZS1hOGRhLTUwYTc1NjVmOTk4Yg==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3457,6 +3430,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Jovem Pan News
 URL: http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Plena TV
+URL: https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+Logo: https://i.imgur.com/lH4RT7b.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Record News
@@ -3631,7 +3609,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA1OjIwOjIgQU0maGFzaF92YWx1ZT1KS3FYZEF1aDZUVW44YWNxOVVNc1h3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Zjc5ZjZjYzMtNTVkMC00NzRlLTkzNjMtMDQ5MGZlM2MyODZh/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjQ1OjI5IFBNJmhhc2hfdmFsdWU9TEhuS0VaUVVPbjVBVGtRZXFKMDcwdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVmYWI5Njc4LTBkYmItNGQyZi1iOTIyLWI4YTRhOTFmZmJlMw==/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3641,7 +3619,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiA1OjIwOjEgQU0maGFzaF92YWx1ZT1SSnRtNFVRUiszVGRaMWdkSDdyeHN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Nzc2ZWYzZTYtMDUyNy00ZDc4LWI4MzUtNzNjMjJjMzI4NzUz/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjQ1OjI4IFBNJmhhc2hfdmFsdWU9VVVPb21nRUd1RHZEYXpMNzZrbFkzUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE5YTJkYmJjLWU0NGQtNGU1MS1iZWI2LWVjMTI3YzViN2ZkNw==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -4201,9 +4179,9 @@ URL: https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlis
 Logo: https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Rede Super TV
-URL: https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
-Logo: https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg
+Name: Canaã News TV
+URL: https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
+Logo: https://i.postimg.cc/9fKggKJZ/cana-news.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Rede Vida
@@ -4374,6 +4352,11 @@ URL: https://awtv.nuvemplay.live/hls/stream.m3u8
 Logo: https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Boas Novas
+URL: https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+Logo: https://i.imgur.com/ZqhizdP.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Canal 25 Jundiai
 URL: https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 Logo: https://i.imgur.com/7igGMwH.png
@@ -4397,11 +4380,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Canal FDR
 URL: https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 Logo: https://i.imgur.com/7SE4CkE.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Canal Sete
-URL: http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
-Logo: https://i.imgur.com/0cq0BPp.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Canal UOL
@@ -4462,6 +4440,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: ConecTV Brasil
 URL: https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 Logo: https://i.imgur.com/XN6jjMR.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Conexao TV
+URL: https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+Logo: https://i.imgur.com/CJ9SPsZ.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Cultura Fast
@@ -4764,6 +4747,11 @@ URL: https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 Logo: https://i.imgur.com/CpXjcyE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Comunitaria
+URL: https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+Logo: https://i.imgur.com/uxefHY3.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Cruzeiro do Brasil
 URL: https://cdn.live.br1.jmvstream.com/webtv/tvcruzeiro/playlist/chunklist.m3u8
 Logo: https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png
@@ -4884,6 +4872,11 @@ URL: https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmol
 Logo: https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Sul Bahia
+URL: https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+Logo: https://i.imgur.com/qM6nMWm.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Vila Real
 URL: https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 Logo: https://i.imgur.com/Z1uWe7g.png
@@ -4907,11 +4900,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TVitape
 URL: https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 Logo: https://i.imgur.com/XeqcwKe.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TVNBN
-URL: https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-Logo: https://i.imgur.com/zoHBxn1.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: VRT Channel
