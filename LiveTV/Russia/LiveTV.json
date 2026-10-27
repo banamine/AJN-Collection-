@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27 02:23:51",
+  "date": "2026-10-27 09:20:17",
   "channels": {
     "Кино": [
       {
@@ -16142,6 +16142,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://91.224.16.9:7779/Oplot_2/index.m3u8"
+      },
+      {
+        "name": "Cartoon Classics",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "http://88.218.242.237:8001/Cartoon_Classics"
       }
     ],
     "Music": [
