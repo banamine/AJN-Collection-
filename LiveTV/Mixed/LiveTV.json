@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28 20:19:07",
+  "date": "2026-10-29 02:14:38",
   "channels": {
     "Uncategorized": [
       {
@@ -356,14 +356,7 @@
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%201.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41ZDzJRUqojMaX30h306ORXc9gJr8DdNccnUKne4wp8qo=0G80/dash-wv/jitp-linearwm/5099/default_ott.mpd"
-      },
-      {
-        "name": "ASTRO ARENA BOLA 2",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%202.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd"
+        "url": "https://mvts.live/zes-arenabola"
       },
       {
         "name": "ASTRO FOOTBALL",
@@ -499,6 +492,20 @@
         "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8"
       },
       {
+        "name": "SPOTV",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd"
+      },
+      {
+        "name": "SPOTV2",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV2.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd"
+      },
+      {
         "name": "q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/621_144.png\" group-title=\"SPORTS\",SUKAN+",
         "logo": "https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/621_144.png",
         "group": "SPORTS",
@@ -511,6 +518,13 @@
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
+      },
+      {
+        "name": "UNIFI SPORTS",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Unifi%20Sports.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=unifi1&kid=90c7eb5d-66b4-42a9-a591-775cc1154bc9|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36"
       },
       {
         "name": "W-SPORT",
@@ -579,13 +593,6 @@
       }
     ],
     "MALAYSIA🇲🇾": [
-      {
-        "name": "RTM ASEAN",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/RTM%20ASEAN.png",
-        "group": "MALAYSIA🇲🇾",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
-      },
       {
         "name": "TV1",
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TV1.png",
@@ -664,6 +671,20 @@
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7"
       },
       {
+        "name": "DUNIA SINEMA HD",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Dunia%20Sinema.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f"
+      },
+      {
+        "name": "INSPIRASI",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Inspirasi%20HD.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Inspirasi&kid=94bfaa51-ce3c-4acf-b8a8-d5a7229316b6"
+      },
+      {
         "name": "MEDIA SELANGOR",
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Media%20Selangor.png",
         "group": "MALAYSIA🇲🇾",
@@ -676,6 +697,27 @@
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist b3128000_slmsa.m3u8"
+      },
+      {
+        "name": "PESONA",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Pesona%20HD.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Pesona&kid=d6a2211c-ff95-4597-9f6f-1a09851fa495|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36"
+      },
+      {
+        "name": "SENSASI",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Sensasi.webp",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac"
+      },
+      {
+        "name": "SIAR",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/SIAR.webp",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36"
       },
       {
         "name": "TV IKIM",
@@ -710,14 +752,14 @@
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Aura.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/414FWZBvzKhdgADI9TaBv6KmRoSzSQgxJoWsuXgWSSNw8=_B01/dash-wv/jitp-linearwm/609/default_ott.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/414FWZBvzKhdgADI9TaBv6KtBBEmb6VhTZ9S_I9rcCJF8=2SU6/dash-wv/jitp-linearwm/609/default_ott.mpd"
       },
       {
         "name": "ASTRO CITRA",
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Citra.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41zilpeIxPe7bTRw8a6mTtMWFpyG9nLiu02IMtmtg-4lA=xwEf/dash-wv/jitp-linearwm/2700/default_ott.mpd"
+        "url": "https://mvts.live/zes-citra"
       },
       {
         "name": "ASTRO OASIS HD",
@@ -731,28 +773,21 @@
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Prima.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41atph1MAn0YdaoyceYwwXhXqQYAhAA3XsM7AtD5uAHQY=UYHa/dash-wv/jitp-linearwm/1000/default_ott.mpd"
+        "url": "https://mvts.live/zes-prima"
       },
       {
         "name": "ASTRO RANIA",
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Rania.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41nDrZHNW0H3Pqvu5R7oWk9XgmBUUjjla-bvWhxSJeJfA=F120/dash-wv/jitp-linearwm/608/default_ott.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41nDrZHNW0H3Pqvu5R7oWk9UrfGl646ZheErpnyZjmLis=cOQV/dash-wv/jitp-linearwm/608/default_ott.mpd"
       },
       {
         "name": "ASTRO RIA",
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Ria.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41LKFCBxipdK-nzac0jJxfae6Wkd1h3L20A9o7fijP8gg=zkJi/dash-wv/jitp-linearwm/1004/default_ott.mpd"
-      },
-      {
-        "name": "ASTRO CERIA",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/ASTRO%20CERIA.png",
-        "group": "MALAYSIA🇲🇾",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41CgaVng_ORrJE-N2pHdLXvQu6VKMN0KRuQ2bB9-t7wBQ=2ZU7/dash-wv/jitp-linearwm/2606/default_ott.mpd"
+        "url": "https://mvts.live/zes-ria"
       },
       {
         "name": "ASTRO TUTOR TV",
@@ -760,6 +795,71 @@
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd"
+      }
+    ],
+    "KIDS": [
+      {
+        "name": "ASTRO CERIA",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/ASTRO%20CERIA.png",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linears2-playback.astro.com.my/vsg/41CgaVng_ORrJE-N2pHdLXvWN5-3dL94mbxQ-7Pb3uFvg=6W-j/dash-wv/jitp-linearwm/2606/default_ott.mpd"
+      },
+      {
+        "name": "ANIMAX",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/ANIMAX.png",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://unifi.whacat.tech/Animax"
+      },
+      {
+        "name": "BLIPPI & FRIENDS",
+        "logo": "https://static.wikia.nocookie.net/theoddbodsshow/images/5/54/BlippiandFriendsLogo.png",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd"
+      },
+      {
+        "name": "CARTOON NETWORK",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/CARTOON%20NETWORK%20HD.png",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd"
+      },
+      {
+        "name": "PBS KIDS",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/PBS_Kids_Dash_%281999%29.svg/revision/latest/scale-to-width-down/250?cb=20170814134849",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR"
+      },
+      {
+        "name": "MOONBUG",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/MOONBUG%20KIDS.png",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5067/default_ott.mpd"
+      },
+      {
+        "name": "NICKELODEON",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/NICKELODEON.png",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd"
+      },
+      {
+        "name": "NICK JR",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/NICK%20JR.png",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd"
+      },
+      {
+        "name": "ZOOMOO",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/ZOOMOO.png",
+        "group": "KIDS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
       }
     ],
     "INDIAN": [
@@ -2918,65 +3018,14 @@
         "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd"
       }
     ],
-    "KIDS": [
-      {
-        "name": "ANIMAX",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/ANIMAX.png",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://unifi.whacat.tech/Animax"
-      },
-      {
-        "name": "BLIPPI & FRIENDS",
-        "logo": "https://static.wikia.nocookie.net/theoddbodsshow/images/5/54/BlippiandFriendsLogo.png",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd"
-      },
-      {
-        "name": "CARTOON NETWORK",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/CARTOON%20NETWORK%20HD.png",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd"
-      },
-      {
-        "name": "PBS KIDS",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/PBS_Kids_Dash_%281999%29.svg/revision/latest/scale-to-width-down/250?cb=20170814134849",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR"
-      },
-      {
-        "name": "MOONBUG",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/MOONBUG%20KIDS.png",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5067/default_ott.mpd"
-      },
-      {
-        "name": "NICKELODEON",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/NICKELODEON.png",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd"
-      },
-      {
-        "name": "NICK JR",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/NICK%20JR.png",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd"
-      },
-      {
-        "name": "ZOOMOO",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/KIDS-LOGO/refs/heads/main/ZOOMOO.png",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
-      }
-    ],
     "MOVIES": [
+      {
+        "name": "ASTRO 30",
+        "logo": "https://1000logos.net/wp-content/uploads/2026/08/Astro-30-Logo.jpg",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5166/default_primary.mpd"
+      },
       {
         "name": "ACTION HOLLYWOOD MOVIES",
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/ACTION%20HOLLYWOOD%20MOVIES.png",
@@ -3020,11 +3069,74 @@
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_primary.mpd"
       },
       {
+        "name": "CINEMAX",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/CINEMAX%20HD.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36"
+      },
+      {
+        "name": "CINEMAX",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/CINEMAX%20HD.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU"
+      },
+      {
         "name": "FLICKS OF FURY",
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/FLICKS%20OF%20FURY.webp",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com"
+      },
+      {
+        "name": "HBO",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HD.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36"
+      },
+      {
+        "name": "HBO",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HD.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+      },
+      {
+        "name": "HBO FAMILY HD",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/HBO%20FAMILY%20HD.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOF&kid=98e8255f-ae9b-41ae-bb33-4645a916c82b|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36"
+      },
+      {
+        "name": "HBO FAMILY HD",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/refs/heads/main/HBO%20FAMILY%20HD.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz"
+      },
+      {
+        "name": "HBO HITS HD",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HITS%20HD.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://ptv2026.com/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HBOH&kid=437a4a8d-fb31-4f81-883c-7894c99e72bf|user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36"
+      },
+      {
+        "name": "HBO HITS HD",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MOVIES-LOGO/main/HBO%20HITS%20HD.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz"
+      },
+      {
+        "name": "HBO SIGNATURE HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4"
       },
       {
         "name": "HITS",
