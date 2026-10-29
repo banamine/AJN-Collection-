@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29 20:25:46",
+  "date": "2026-10-30 02:21:24",
   "channels": {
     "Buy me a Coffee": [
       {
@@ -121,7 +121,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiA2OjY6MTEgQU0maGFzaF92YWx1ZT1zeWZqaVhDdnBldnlNdnA5MTZORkx3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGFhNDcyOTMtMDE4MC00NGQ4LTg0ZmYtNWQwZGFmNzI1NTQ4/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiAzOjIwOjQ3IFBNJmhhc2hfdmFsdWU9NVVOSGxXZ0pycGxFeEZIN2xmemlxdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAwNjkyMWMxLTVjN2YtNGQ3OC1iZWI0LTA4MzYxMDI1YjU1YQ==/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -135,7 +135,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiA2OjY6MTAgQU0maGFzaF92YWx1ZT1QZEN5VC8vd1FhVTlRZHZqUzJNWVJRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGQ5Y2ZkYmEtNTkzNS00NzIwLWJmZDItNGRhMzg5MzQyNzhm/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiAzOjIwOjQ2IFBNJmhhc2hfdmFsdWU9bVljZXNiMHJzcUtPdzQ1VWNuUTBQZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZlMDFmMDc5LWI3YzctNGJhZC05NzIwLWRiOTM0ZmFkNWZmMA==/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -305,7 +305,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiA2OjY6MTAgQU0maGFzaF92YWx1ZT1WVDFzNENoQlk0NlhremdnU3dna3dRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjViYmQwYWItMTVjNC00ODI2LThjMTgtNDU0ZmJiZjlkNjI2/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiAzOjIwOjQ2IFBNJmhhc2hfdmFsdWU9aXozbnRaVzFKOWRqWXljenBtcFNiUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI3YjlhOGIzLTRhYzAtNDdiYS05ZjBkLTk1ZTRiZjNlYjdkZA==/"
       },
       {
         "name": "Euronews 🇵🇹",
@@ -5221,6 +5221,13 @@
         "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8"
       },
       {
+        "name": "TV Sul Bahia",
+        "logo": "https://i.imgur.com/qM6nMWm.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+      },
+      {
         "name": "TV Sul de Minas",
         "logo": "https://i.imgur.com/hPh8cxK.png",
         "group": "Variedades",
@@ -6168,7 +6175,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
         "group": "Esportes",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://190.83.2.182:8090/ESPN/index.m3u8"
+        "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
       },
       {
         "name": "ESPN 3",
@@ -6176,6 +6183,13 @@
         "group": "Esportes",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://190.83.2.182:8090/ESPN3/index.m3u8"
+      },
+      {
+        "name": "ESPN 4",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+        "group": "Esportes",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
       },
       {
         "name": "SporTV 2",
@@ -7180,13 +7194,6 @@
         "url": "https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8"
       },
       {
-        "name": "Rede Super TV",
-        "logo": "https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg",
-        "group": "Religiosos",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8"
-      },
-      {
         "name": "Rede Vida",
         "logo": "https://i.postimg.cc/C5n51dFq/rede-vidatv.png",
         "group": "Religiosos",
@@ -7541,6 +7548,20 @@
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
+      },
+      {
+        "name": "ESPN 3 Alternativo 1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+        "group": "Alternativos",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://181.78.197.59:8000/play/a081/index.m3u8"
+      },
+      {
+        "name": "ESPN Alternativo 1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+        "group": "Alternativos",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://190.83.2.182:8090/ESPN/index.m3u8"
       },
       {
         "name": "EUTV Alternativo 1",

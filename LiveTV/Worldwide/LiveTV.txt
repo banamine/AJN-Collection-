@@ -1042,6 +1042,16 @@ URL: https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 Logo: https://i.imgur.com/8upyApg.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: ESPN 3 Alternativo 1
+URL: http://181.78.197.59:8000/play/a081/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: ESPN Alternativo 1
+URL: http://190.83.2.182:8090/ESPN/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: EUTV Alternativo 1
 URL: https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 Logo: https://i.imgur.com/8PxpamC.png
@@ -3319,13 +3329,18 @@ Logo: https://i.imgur.com/ZPYK5jr.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: ESPN
-URL: http://190.83.2.182:8090/ESPN/index.m3u8
+URL: http://181.78.197.59:8000/play/a07z/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: ESPN 3
 URL: http://190.83.2.182:8090/ESPN3/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: ESPN 4
+URL: http://181.78.197.59:8000/play/a07n/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: SporTV 2
@@ -4302,7 +4317,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiA2OjY6MTAgQU0maGFzaF92YWx1ZT1WVDFzNENoQlk0NlhremdnU3dna3dRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MjViYmQwYWItMTVjNC00ODI2LThjMTgtNDU0ZmJiZjlkNjI2/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiAzOjIwOjQ2IFBNJmhhc2hfdmFsdWU9aXozbnRaVzFKOWRqWXljenBtcFNiUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI3YjlhOGIzLTRhYzAtNDdiYS05ZjBkLTk1ZTRiZjNlYjdkZA==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -4605,7 +4620,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiA2OjY6MTEgQU0maGFzaF92YWx1ZT1zeWZqaVhDdnBldnlNdnA5MTZORkx3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGFhNDcyOTMtMDE4MC00NGQ4LTg0ZmYtNWQwZGFmNzI1NTQ4/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiAzOjIwOjQ3IFBNJmhhc2hfdmFsdWU9NVVOSGxXZ0pycGxFeEZIN2xmemlxdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAwNjkyMWMxLTVjN2YtNGQ3OC1iZWI0LTA4MzYxMDI1YjU1YQ==/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -4615,7 +4630,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiA2OjY6MTAgQU0maGFzaF92YWx1ZT1QZEN5VC8vd1FhVTlRZHZqUzJNWVJRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGQ5Y2ZkYmEtNTkzNS00NzIwLWJmZDItNGRhMzg5MzQyNzhm/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNiAzOjIwOjQ2IFBNJmhhc2hfdmFsdWU9bVljZXNiMHJzcUtPdzQ1VWNuUTBQZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZlMDFmMDc5LWI3YzctNGJhZC05NzIwLWRiOTM0ZmFkNWZmMA==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -5208,11 +5223,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Rede Mariana
 URL: https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8
 Logo: https://i.postimg.cc/Ghhn6JZG/rede-mariana.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Rede Super TV
-URL: https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
-Logo: https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Rede Vida
@@ -6113,6 +6123,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Sol Comunidade
 URL: http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 Logo: https://i.imgur.com/5cGnb4r.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TV Sul Bahia
+URL: https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+Logo: https://i.imgur.com/qM6nMWm.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Sul de Minas
