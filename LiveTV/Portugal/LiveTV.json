@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-03 21:30:24",
+  "date": "2026-11-04 11:13:15",
   "channels": {
     "TV": [
       {
@@ -6806,6 +6806,13 @@
         "url": "http://188.115.15.121:8000/play/a014"
       },
       {
+        "name": "MCM Top (France)",
+        "logo": "https://i.imgur.com/EVtWQLd.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://185.228.163.146:8000/play/a00g/index.m3u8"
+      },
+      {
         "name": "NPC Radio e TV (720p)",
         "logo": "https://i.imgur.com/mw1lYWE.png",
         "group": "Music",
@@ -6985,14 +6992,14 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDEyOjg6MjUgUE0maGFzaF92YWx1ZT1tNG9Zc0QwcnRqbmFLWjRBU2huUjVRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDFkZTZlYzAtY2VjZS00NTRkLTgwNzMtZjZjNDZjMzE0MTU4/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDI2IDEyOjQzOjM2IEFNJmhhc2hfdmFsdWU9MzRkNGZGRUtKMWNZaWl2cHdsNzJJdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWM0MjhiODU1LTcyYjgtNGVmMC1iMWE2LTExMGVhN2U4MzI4Nw==/"
       },
       {
         "name": "TVI 🇵🇹",
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDEyOjg6MjMgUE0maGFzaF92YWx1ZT14dzdic0Q5UXJ6KzVtUTJTNTZIeXBnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzMyNGJkNDYtYTUzMy00ZGM1LWI1ZjItNzliNGQyMmFjM2M4/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDI2IDEyOjQzOjM1IEFNJmhhc2hfdmFsdWU9R1ZETHpxQ0phTVBIejd6QkZSaGRCUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWYyZjMyMTY5LWIyMzAtNDAxOC1iYzBiLTc2YmM3N2ZiYTRhMg==/"
       },
       {
         "name": "Porto Canal ⚽️ 🇵🇹",
@@ -7085,7 +7092,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDEyOjg6MjQgUE0maGFzaF92YWx1ZT1EWW9MS1JwcDIzQ2UzK3FmNlBieEdBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTYyY2M0NjYtODMxZC00YmIxLWE4ZDMtMTA3MzI0ZjliM2Nl/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDI2IDEyOjQzOjM2IEFNJmhhc2hfdmFsdWU9a09VbTBPR2g4U0VaMmRIQnVnOURsUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWMxNmZjOTRhLWU1Y2MtNDdmOC1iMzY4LTRkNTdhMjZjNzU5Yg==/"
       },
       {
         "name": "Euronews 🇵🇹",
