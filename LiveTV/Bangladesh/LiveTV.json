@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05 10:05:28",
+  "date": "2026-11-05 21:28:35",
   "channels": {
     "Welcome to PlayZ TV | New App": [
       {
@@ -8,6 +8,22 @@
         "group": "Welcome to PlayZ TV | New App",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://playztv.pages.dev/promo/master.m3u8"
+      }
+    ],
+    "Live Event": [
+      {
+        "name": "Bangladesh vs Afghanistan - 5 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026",
+        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
+        "group": "Live Event",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793915095~acl=/*~id=15852763281895881203479231874423~hmac=7a2fbc52026fa2b288bc1068271b9db004cf359e83ea58794959deb0aa12032b"
+      },
+      {
+        "name": "Abu Dhabi HSBC Championship - Day 1 - 5 Nov 2026 [ENG] - DP World Tour",
+        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",
+        "group": "Live Event",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793915095~acl=/*~id=15852763281895881203479231874423~hmac=7a2fbc52026fa2b288bc1068271b9db004cf359e83ea58794959deb0aa12032b"
       }
     ],
     "Akash Go": [
@@ -401,6 +417,13 @@
         "url": "http://103.135.253.32:8080/BTV/index.m3u8"
       },
       {
+        "name": "BTV National",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/btv_national.svg",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://btv.hridoytv-channel.workers.dev/btv.m3u8"
+      },
+      {
         "name": "Channel 52",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/channel_52.png",
         "group": "Bangla",
@@ -434,6 +457,13 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8"
+      },
+      {
+        "name": "DD Bangla",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dd_bangla.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://iptvlive.ahmed-bd-org.workers.dev/dd-bangla-1/index.m3u8"
       },
       {
         "name": "DEEPTO TV HD",
@@ -580,7 +610,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ntv_hd.png",
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://iptvlive.ahmed-bd-org.workers.dev/ntv-1/index.m3u8"
+        "url": "https://iptv-proxy.ahmed-bd-org.workers.dev/ntv/index.m3u8"
       },
       {
         "name": "NTV TV UK",
@@ -602,13 +632,6 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "Rajdhani TV",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rajdhani_tv.png",
-        "group": "Bangla",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
       },
       {
         "name": "RTV",
@@ -657,7 +680,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_bangla.png",
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8"
+        "url": "https://iptvlive.ahmed-bd-org.workers.dev/zee-bangla-hd-2/index.m3u8"
       },
       {
         "name": "Colors Bangla Cinema",
@@ -998,6 +1021,13 @@
         "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
       },
       {
+        "name": "Horse & Country",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "MTRSPT",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Sports",
@@ -1012,11 +1042,11 @@
         "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
       },
       {
-        "name": "Horse & Country",
+        "name": "Trace Sport",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
       },
       {
         "name": "A Sports",
@@ -1024,13 +1054,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8"
-      },
-      {
-        "name": "Trace Sport",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Cricket Gold",
@@ -1045,6 +1068,13 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://tvsen6.aynaott.com/nfl/index.m3u8"
+      },
+      {
+        "name": "Sky Sports NFL",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sky_sports_nfl.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9155/index.m3u8"
       },
       {
         "name": "FIGHT | FIGHT NETWORK",
@@ -1114,7 +1144,14 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fox_cricket_501_hd.svg",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8"
+        "url": "http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8"
+      },
+      {
+        "name": "Sky Sports Cricket",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sky_sports_cricket.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8"
       },
       {
         "name": "Ten Cricket",
@@ -1149,7 +1186,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fb_fifa_plus.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
+        "url": "https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8"
       },
       {
         "name": "FB | Unite8 Sports 2",
@@ -1157,6 +1194,13 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://tvsen7.aynaott.com/Sports1/index.m3u8"
+      },
+      {
+        "name": "Sky Sports Football",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sky_sports_football.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8"
       },
       {
         "name": "---Live(DD Sports)---",
@@ -1243,6 +1287,48 @@
         "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/2494.ts"
       },
       {
+        "name": "beIN Sports 1",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bein_sports_1.svg",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8"
+      },
+      {
+        "name": "beIN Sports 3",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bein_sports_3.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6124/index.m3u8"
+      },
+      {
+        "name": "beIN SPORTS 4",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bein_sports_4.svg",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6125/index.m3u8"
+      },
+      {
+        "name": "beIN SPORTS 5",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bein_sports_5.svg",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6126/index.m3u8"
+      },
+      {
+        "name": "beIN SPORTS 6",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bein_sports_6.svg",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6127/index.m3u8"
+      },
+      {
+        "name": "beIN SPORTS 7",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bein_sports_7.svg",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6128/index.m3u8"
+      },
+      {
         "name": "ESPN",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn.svg",
         "group": "Sports",
@@ -1283,6 +1369,13 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://bbb-aclco-freelivesports.otteravision.com/bbb/aclco/aclco.m3u8"
+      },
+      {
+        "name": "MIXER | FUEL TV",
+        "logo": "https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8"
       },
       {
         "name": "MIXER | HOOP TV",
@@ -1348,6 +1441,13 @@
         "url": "https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D"
       },
       {
+        "name": "MIXER | Trace Sports Stars",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "MIXER | TSN 1",
         "logo": "https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95",
         "group": "Sports",
@@ -1376,13 +1476,6 @@
         "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
       },
       {
-        "name": "MIXER | World of Freesports",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_world_of_freesports.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://amg01866-mainstreammedia-freesportsinc-sportstribal-b3zdo.amagi.tv/ts-eu-w1-n2/playlist/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8"
-      },
-      {
         "name": "NHL Network",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/nhl_network.svg",
         "group": "Sports",
@@ -1395,6 +1488,13 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
+      },
+      {
+        "name": "OTHER | Cowboy TV",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e6/Cowboy_Channel_logo.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8"
       },
       {
         "name": "PGA Tour",
@@ -1418,25 +1518,11 @@
         "url": "https://97bf7b92.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9SdWdieVBhc3NUVl9ITFM/playlist.m3u8?ads.wurl_channel=1872&ads.wurl_name=RugbyPassTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D"
       },
       {
-        "name": "Sony Sports Ten 1 HD",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_sports_ten_1_hd.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8"
-      },
-      {
         "name": "Sony Sports Ten 3 HD Hindi",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_sports_ten_3_hd.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98863.ts"
-      },
-      {
-        "name": "Star Sports Select 1 HD",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_sports_select_1_hd.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8"
       },
       {
         "name": "TANNIS | Pickle TV",
@@ -2171,6 +2257,13 @@
         "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
       },
       {
+        "name": "Ekushey TV (480p)",
+        "logo": "https://i.imgur.com/lRpkGHj.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://ekusheyserver.com/etvlivesn.m3u8"
+      },
+      {
         "name": "NAN TV",
         "logo": "https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png",
         "group": "News",
@@ -2345,7 +2438,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_disney_channel_latin_america.svg",
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8"
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8"
       },
       {
         "name": "0. Disney Jr.",
@@ -2408,7 +2501,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/7/78/Mr._Bean_%28animated_series%2C_stacked%29.svg",
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+        "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
       },
       {
         "name": "0. Mr Bean Live Action",
@@ -2493,13 +2586,6 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8"
-      },
-      {
-        "name": "0. WowKidz (Motu Patlu)",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_wowkidz_motu_patlu.jpg",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
       },
       {
         "name": "1. Afarin Baxcha",
@@ -2670,6 +2756,13 @@
         "url": "https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8"
       },
       {
+        "name": "2. POP",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/2_pop.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8"
+      },
+      {
         "name": "2. Powerkids Kartoon Channel",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/2_powerkids_kartoon_channel.jpg",
         "group": "Kids",
@@ -2695,7 +2788,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/5/59/ANIME_ALL_DAY.svg",
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId="
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356"
       },
       {
         "name": "Baby Shark TV 2",
@@ -2737,14 +2830,14 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/discovery_kids.png",
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8"
+        "url": "https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8"
       },
       {
         "name": "Disney Channel",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c0/Disney_Channel_2022.svg",
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://tvsen7.aynaott.com/disney/index.m3u8"
+        "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6965/index.m3u8"
       },
       {
         "name": "Disney Channel East",
@@ -2786,7 +2879,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pogo.png",
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
+        "url": "https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8"
       },
       {
         "name": "RetroCrush",
@@ -2801,13 +2894,6 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "http://bosstv.click:8080/live/18012689/77561563/92412.ts"
-      },
-      {
-        "name": "Sony Yay",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_yay.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8"
       },
       {
         "name": "Teen Nick",
@@ -2850,13 +2936,6 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
-      },
-      {
-        "name": "Yu-Gi-Oh!",
-        "logo": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/yu-gi-oh-1080p.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8"
       },
       {
         "name": "ZB Cartoon",
@@ -3394,7 +3473,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dua_channel.jpg",
         "group": "Religious",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://newyork.zeuscdn724.com:443/H9/index.m3u8"
+        "url": "https://bucharest.zeuscdn724.com/lb0/H9/index.m3u8"
       },
       {
         "name": "Eman Channel",
@@ -3437,6 +3516,13 @@
         "group": "Religious",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8"
+      },
+      {
+        "name": "Iqraa TV",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/iqraa_tv.png",
+        "group": "Religious",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8"
       },
       {
         "name": "Islam TV",
@@ -3765,6 +3851,13 @@
         "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8"
       },
       {
+        "name": "EN | Play TV",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/en_play_tv.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8"
+      },
+      {
         "name": "EN | Rouge TV [Switzerland]",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/en_rouge_tv_switzerland.png",
         "group": "Music",
@@ -3812,6 +3905,13 @@
         "group": "Music",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1&profilesFromStream=true"
+      },
+      {
+        "name": "EN | Vevo '90s & '00s",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8"
       },
       {
         "name": "EN | Vevo 2K",
@@ -4241,32 +4341,18 @@
         "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
       },
       {
-        "name": "Maasranga TV (720p)",
+        "name": "Rajdhani TV (1080p)",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
+        "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
       },
       {
         "name": "RTV (720p)",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
-      },
-      {
-        "name": "NTV (720p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Unknown",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
-      },
-      {
-        "name": "Nexus TV (576p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Unknown",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
+        "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8"
       },
       {
         "name": "Duronto TV (720p)",
@@ -4276,6 +4362,27 @@
         "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
       },
       {
+        "name": "Nexus TV (576p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Unknown",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
+      },
+      {
+        "name": "RTV (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Unknown",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
+      },
+      {
+        "name": "Maasranga TV (720p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Unknown",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
+      },
+      {
         "name": "Maasranga TV (720p)",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Unknown",
@@ -4283,11 +4390,11 @@
         "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8"
       },
       {
-        "name": "Ekushey TV (480p)",
+        "name": "NTV (720p)",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://ekusheyserver.com/etvlivesn.m3u8"
+        "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
       }
     ],
     "Bangladesh": [
@@ -4341,13 +4448,6 @@
         "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8"
       },
       {
-        "name": "Global TV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Bangladesh",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
-      },
-      {
         "name": "Desh TV",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Bangladesh",
@@ -4362,18 +4462,18 @@
         "url": "https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8"
       },
       {
+        "name": "Global TV",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
+      },
+      {
         "name": "NTV",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "RTV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Bangladesh",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "My TV",
@@ -4388,6 +4488,13 @@
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
+      },
+      {
+        "name": "RTV",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "India": [
@@ -4397,13 +4504,6 @@
         "group": "India",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "Shemaroo Bollywood",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "India",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
       },
       {
         "name": "Sony TV HD",
@@ -4420,6 +4520,13 @@
         "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
       },
       {
+        "name": "Shemaroo Bollywood",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "India",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+      },
+      {
         "name": "&TV HD",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4c/%26TV_HD_%282025%29.svg",
         "group": "India",
@@ -4427,11 +4534,18 @@
         "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
       },
       {
+        "name": "Channel Y",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ent_channel_y.png",
+        "group": "India",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
+      },
+      {
         "name": "COLORS",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ent_colors.jpg",
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/media-udh.m3u8"
+        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8"
       },
       {
         "name": "COLORS HD",
@@ -4536,7 +4650,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tlc.png",
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8"
+        "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8"
       },
       {
         "name": "Zee TV",
@@ -4655,7 +4769,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mov_nh_bollyflix.png",
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8"
+        "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/ece6e311-8eb0-4fdf-8378-d337cba07ec2/0.m3u8"
       },
       {
         "name": "PITAARA MOVIES",
@@ -4669,7 +4783,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/shemaroo_josh.png",
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8"
+        "url": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Sony Max HD",
@@ -4935,7 +5049,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news_zee_news.png",
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8"
+        "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
       },
       {
         "name": "7S Music",
@@ -5013,6 +5127,13 @@
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/d68f6612-3a4e-4ed4-9853-fc41801678d1/2.m3u8"
+      },
+      {
+        "name": "Gangaur",
+        "logo": "https://prodcdn1.wavespb.com/shows/poster_url/1615915601Gangaur_TV____720x960.webp",
+        "group": "India",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8"
       },
       {
         "name": "Global Punjab",
@@ -5127,11 +5248,18 @@
         "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8"
       },
       {
+        "name": "Zingabad",
+        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zingabad.png",
+        "group": "India",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://stream.ottlive.co.in/zingabad/index.m3u8"
+      },
+      {
         "name": "Zoom",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zoom.png",
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
+        "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
       },
       {
         "name": "Anjan TV",
@@ -5199,15 +5327,6 @@
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
       }
     ],
-    "Bangla | 24/7": [
-      {
-        "name": "Doraemon",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Bangla | 24/7",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
-      }
-    ],
     "Hindi | 24/7": [
       {
         "name": "Hindi Movies",
@@ -5222,6 +5341,15 @@
         "group": "Hindi | 24/7",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8"
+      }
+    ],
+    "Bangla | 24/7": [
+      {
+        "name": "Doraemon",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Bangla | 24/7",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "Bangla News": [
@@ -5300,7 +5428,7 @@
         "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png",
         "group": "Bangla News",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://iptvlive.ahmed-bd-org.workers.dev/news-24-hd-1/index.m3u8"
+        "url": "https://iptvlive.ahmed-bd-org.workers.dev/news-24-1/index.m3u8"
       },
       {
         "name": "TBN 24 USA",
@@ -5377,7 +5505,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_24_ghanta.png",
         "group": "Bangla News",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8"
+        "url": "https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8"
       },
       {
         "name": "Zillar Barta",
@@ -5417,25 +5545,18 @@
         "url": "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8"
       },
       {
-        "name": "AccuWeather NOW",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/accuweather_now.png",
-        "group": "International News",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1"
-      },
-      {
         "name": "Al Jazeera English HD",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/al_jazeera_english_hd.png",
         "group": "International News",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://j6nfugukcl.gpcdn.net/tile_7/master.m3u8"
+        "url": "https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8"
       },
       {
         "name": "Arirang",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3a/The_World_On_Arirang_Logo.svg",
         "group": "International News",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8"
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"
       },
       {
         "name": "Bloomberg Originals",
@@ -5547,7 +5668,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6b/Global_News_2022_Block_inside.svg",
         "group": "International News",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
+        "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8"
       },
       {
         "name": "MSNBC News",
@@ -5568,7 +5689,14 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/newsmax_tv.png",
         "group": "International News",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+        "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+      },
+      {
+        "name": "RT Now (Russia)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg",
+        "group": "International News",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8"
       },
       {
         "name": "Sky News",
@@ -5668,7 +5796,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/Dunya_News.png",
         "group": "Pakistan",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8"
+        "url": "https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1668837618_b950272.m3u8"
       },
       {
         "name": "GNN HD",
@@ -5719,7 +5847,7 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/en_amg_tv_classic.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8"
+        "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
       },
       {
         "name": "EN | AVA FAMILY",
@@ -5813,13 +5941,6 @@
         "url": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "EN | Movies Now",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/en_movies_now.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8"
-      },
-      {
         "name": "EN | My Cinema",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/en_my_cinema.png",
         "group": "Movies",
@@ -5839,13 +5960,6 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/playlist.m3u8?ads.wurl_channel=1019&ads.wurl_name=SparkleMovies&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D"
-      },
-      {
-        "name": "EN | SRK TV",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/en_srk_tv.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
       },
       {
         "name": "EN | The Walking Dead Universe",
@@ -5887,14 +6001,14 @@
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/gravitas_movies.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://d6dg3ebeih71x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jx9exbvh3yi8u/Gravitas_Movies.m3u8"
+        "url": "https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8"
       },
       {
         "name": "GREAT! movies",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/great_movies.png",
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8"
+        "url": "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8"
       },
       {
         "name": "HBO 2",
@@ -6032,13 +6146,6 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65492fc7056b9700088560b5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a780-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ce66776-1850-472a-aae6-67709c1b0532"
       },
       {
-        "name": "Animal Planet",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/animal_planet.png",
-        "group": "Educational",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8"
-      },
-      {
         "name": "Autentic Adventure Earth English German",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Educational",
@@ -6137,13 +6244,6 @@
         "url": "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8"
       },
       {
-        "name": "Escape TV",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/escape_tv.png",
-        "group": "Educational",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8"
-      },
-      {
         "name": "Get.Factual",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/get_factual.jpg",
         "group": "Educational",
@@ -6163,13 +6263,6 @@
         "group": "Educational",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8"
-      },
-      {
-        "name": "History Hit",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/history_hit.jpg",
-        "group": "Educational",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8"
       },
       {
         "name": "History Hunters",
@@ -6270,6 +6363,13 @@
         "url": "https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8"
       },
       {
+        "name": "Popular Science",
+        "logo": "https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288",
+        "group": "Educational",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8"
+      },
+      {
         "name": "REAL WILD",
         "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/real_wild.png",
         "group": "Educational",
@@ -6289,13 +6389,6 @@
         "group": "Educational",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
-      },
-      {
-        "name": "Sony BBC Earth HD",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_bbc_earth_hd.png",
-        "group": "Educational",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8"
       },
       {
         "name": "True Crime UK",
@@ -6324,13 +6417,6 @@
         "group": "Educational",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "WaterBear",
-        "logo": "https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/waterbear.png",
-        "group": "Educational",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/ts-eu-w1-n2/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
       },
       {
         "name": "Wheel World",
@@ -6419,18 +6505,18 @@
         "url": "https://i.mjh.nz/.r/c44.m3u8"
       },
       {
+        "name": "EN | CINEMAX MOREMAX",
+        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true",
+        "group": "International",
+        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
+        "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8"
+      },
+      {
         "name": "EN | COURT TV",
         "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true",
         "group": "International",
         "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
         "url": "https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
-      },
-      {
-        "name": "EN | Fuse",
-        "logo": "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png",
-        "group": "International",
-        "source": "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u",
-        "url": "http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/46701.ts"
       },
       {
         "name": "EN | Red Carpet TV International",
@@ -11392,13 +11478,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
-      },
-      {
-        "name": "RTV (Bangladesh) (720p)",
-        "logo": "https://i.imgur.com/yu8ugqt.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8"
       },
       {
         "name": "Vokta TV (720p)",
