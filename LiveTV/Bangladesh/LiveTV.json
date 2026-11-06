@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06 03:18:19",
+  "date": "2026-11-06 10:04:06",
   "channels": {
     "Welcome to PlayZ TV | New App": [
       {
@@ -8,22 +8,6 @@
         "group": "Welcome to PlayZ TV | New App",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://playztv.pages.dev/promo/master.m3u8"
-      }
-    ],
-    "Live Event": [
-      {
-        "name": "AC Milan vs Ferencvárosi TC - MD 4 - 5 Nov 2026 [ENG] - UEFA Europa League 2026-27",
-        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957344930155_UEL26_MD4_AC_Milan_vs_Ferencvarosi_TC_landscape_thumb.jpg",
-        "group": "Live Event",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793944312~acl=/*~id=55499490578572796338695272376614~hmac=459e66b4397e2cce0a882ccc4d1716a84ef86487700db81bc5dd207549cbb462"
-      },
-      {
-        "name": "Crystal Palace vs TSG 1899 Hoffenheim - 5 Nov 2026 [ENG] - UEFA Europa League 2026-27",
-        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg",
-        "group": "Live Event",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793944312~acl=/*~id=55499490578572796338695272376614~hmac=459e66b4397e2cce0a882ccc4d1716a84ef86487700db81bc5dd207549cbb462"
       }
     ],
     "Akash Go": [
@@ -1112,18 +1096,18 @@
         "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
       },
       {
-        "name": "Willow Extra",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
-      },
-      {
         "name": "Horse & Country",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Willow Extra",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
       },
       {
         "name": "Trace Sport",
@@ -2397,7 +2381,7 @@
         "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
       },
       {
-        "name": "NAN TV",
+        "name": "NAN TV (720p)",
         "logo": "https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
@@ -3127,11 +3111,18 @@
         "url": "http://103.151.60.162:2122/play/a018/index.m3u8?hls"
       },
       {
+        "name": "Duronto TV (720p)",
+        "logo": "https://i.imgur.com/gXsddRK.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://box.bbaria.net/DurontoTV/index.m3u8"
+      },
+      {
         "name": "Nick Jr. (India) (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8"
+        "url": "http://103.151.60.162:2122/play/a00s/index.m3u8?hls"
       },
       {
         "name": "Nickelodeon (India) (576p)",
@@ -3145,7 +3136,7 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
+        "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls"
       }
     ],
     "Hindi": [
@@ -4398,13 +4389,6 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Indian Bangla",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "Sananda TV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Indian Bangla",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://live.sanandatelevision.in/sananda/index.m3u8"
       }
     ],
@@ -4558,11 +4542,11 @@
         "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
       },
       {
-        "name": "Rajdhani TV (1080p)",
+        "name": "Maasranga TV (720p)",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+        "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
       },
       {
         "name": "RTV (720p)",
@@ -4570,6 +4554,13 @@
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
+      },
+      {
+        "name": "Nexus TV (576p)",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Unknown",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
       },
       {
         "name": "Duronto TV (720p)",
@@ -4586,25 +4577,11 @@
         "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
       },
       {
-        "name": "Nexus TV (576p)",
+        "name": "Rajdhani TV (1080p)",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
-      },
-      {
-        "name": "Maasranga TV (720p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Unknown",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
-      },
-      {
-        "name": "Maasranga TV (720p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Unknown",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8"
+        "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
       },
       {
         "name": "Ekushey TV (480p)",
@@ -4616,18 +4593,18 @@
     ],
     "Bangladesh": [
       {
-        "name": "ATN News",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Bangladesh",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
-      },
-      {
         "name": "Ananda TV",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8"
+      },
+      {
+        "name": "ATN News",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
       },
       {
         "name": "BTV Chattogram",
@@ -4665,18 +4642,18 @@
         "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8"
       },
       {
-        "name": "Desh TV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Bangladesh",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8"
-      },
-      {
         "name": "Ekushe ETV",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8"
+      },
+      {
+        "name": "Desh TV",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8"
       },
       {
         "name": "Global TV",
@@ -4705,29 +4682,22 @@
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
-      },
-      {
-        "name": "RTV",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Bangladesh",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "India": [
-      {
-        "name": "Sony TV HD",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "India",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
-      },
       {
         "name": "Pardesi TV",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "India",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Sony TV HD",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "India",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
       },
       {
         "name": "Shemaroo Bollywood",
@@ -5787,22 +5757,6 @@
         "url": "https://epiconvh.akamaized.net/live/nazara/master.m3u8"
       }
     ],
-    "Cartoons | 24/7": [
-      {
-        "name": "Gopal Bhar",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Cartoons | 24/7",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Motu Patlu",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Cartoons | 24/7",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
-      }
-    ],
     "Bangla | 24/7": [
       {
         "name": "Doraemon",
@@ -5812,20 +5766,36 @@
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
       }
     ],
-    "Hindi | 24/7": [
+    "Cartoons | 24/7": [
       {
-        "name": "Hindi Movies",
+        "name": "Motu Patlu",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Hindi | 24/7",
+        "group": "Cartoons | 24/7",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
       },
+      {
+        "name": "Gopal Bhar",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Cartoons | 24/7",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
+      }
+    ],
+    "Hindi | 24/7": [
       {
         "name": "South Movies",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Hindi | 24/7",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "Hindi Movies",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Hindi | 24/7",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "Bangla News": [
@@ -12010,11 +11980,18 @@
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
       },
       {
-        "name": "Ananda TV (480p)",
+        "name": "Ananda TV (720p)",
         "logo": "https://i.imgur.com/jkbo7Qe.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://103.99.249.139/anandatv/index.m3u8"
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8"
+      },
+      {
+        "name": "Maasranga TV (720p)",
+        "logo": "https://i.imgur.com/uVZJMed.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8"
       },
       {
         "name": "Rupashi Bangla TV (720p)",
@@ -12049,7 +12026,7 @@
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8"
+        "url": "http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8"
       }
     ],
     "General": [
@@ -12075,7 +12052,7 @@
         "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8"
       },
       {
-        "name": "My TV (Bangladesh)",
+        "name": "My TV (Bangladesh) (480p)",
         "logo": "https://i.imgur.com/475qK5T.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
@@ -12107,7 +12084,7 @@
     ],
     "Culture": [
       {
-        "name": "Channel S (Bangladesh)",
+        "name": "Channel S (Bangladesh) (720p)",
         "logo": "https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
