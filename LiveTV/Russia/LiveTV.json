@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-09 01:42:31",
+  "date": "2026-11-09 10:17:56",
   "channels": {
     "Кино": [
       {
@@ -13552,13 +13552,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8"
-      },
-      {
-        "name": "NTV Svoya igra (1080p)",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8"
       },
       {
         "name": "NTV Vitrina (720p)",

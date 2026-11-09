@@ -2598,11 +2598,6 @@ URL: https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/s
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: NTV Svoya igra (1080p)
-URL: https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
 Name: NTV Vitrina (720p)
 URL: https://cdn.ntv.ru/vitrina/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
