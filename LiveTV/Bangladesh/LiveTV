@@ -1002,12 +1002,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Trace Sport",
-    "type": "Sports",
-    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "A Sports",
     "type": "Sports",
     "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8",
@@ -1017,6 +1011,12 @@
     "name": "Cricket Gold",
     "type": "Sports",
     "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Trace Sport",
+    "type": "Sports",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -5922,15 +5922,9 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Nexus TV (576p)",
+    "name": "Maasranga TV (720p)",
     "type": "Unknown",
-    "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Duronto TV (720p)",
-    "type": "Unknown",
-    "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
+    "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -5940,21 +5934,27 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Maasranga TV (720p)",
+    "name": "NTV (720p)",
     "type": "Unknown",
-    "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+    "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Duronto TV (720p)",
+    "type": "Unknown",
+    "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Nexus TV (576p)",
+    "type": "Unknown",
+    "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "RTV (720p)",
     "type": "Unknown",
     "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "NTV (720p)",
-    "type": "Unknown",
-    "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -5982,6 +5982,12 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
+    "name": "BTV Chattogram",
+    "type": "Bangladesh",
+    "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
     "name": "Boishakhi TV",
     "type": "Bangladesh",
     "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8",
@@ -5994,21 +6000,15 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Ekattor TV",
-    "type": "Bangladesh",
-    "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "BTV Chattogram",
-    "type": "Bangladesh",
-    "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "Ekhon TV",
     "type": "Bangladesh",
     "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Ekattor TV",
+    "type": "Bangladesh",
+    "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -6036,21 +6036,15 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "SA TV",
-    "type": "Bangladesh",
-    "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "My TV",
     "type": "Bangladesh",
     "url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Pardesi TV",
-    "type": "India",
-    "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+    "name": "SA TV",
+    "type": "Bangladesh",
+    "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -6060,15 +6054,21 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "Bhojpuri Cinema",
+    "name": "Pardesi TV",
     "type": "India",
-    "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+    "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "Shemaroo Bollywood",
     "type": "India",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "Bhojpuri Cinema",
+    "type": "India",
+    "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {

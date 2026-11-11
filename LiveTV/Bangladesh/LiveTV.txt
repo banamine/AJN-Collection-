@@ -851,6 +851,11 @@ URL: https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: BTV Chattogram
+URL: https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: Boishakhi TV
 URL: https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -861,18 +866,13 @@ URL: https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Ekattor TV
-URL: https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: BTV Chattogram
-URL: https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Ekhon TV
 URL: https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Ekattor TV
+URL: https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -896,13 +896,13 @@ URL: https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: SA TV
-URL: https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+Name: My TV
+URL: https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: My TV
-URL: https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+Name: SA TV
+URL: https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4035,23 +4035,23 @@ Source: https://raw.githubusercontent.com/mhmimxl/filoox-bdix-selected/main/play
 --------------------------------------------------
 
 Group: India
-Name: Pardesi TV
-URL: http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Sony TV HD
 URL: http://premimum.online:80/live/jen12345/jen54321/98854.ts
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Bhojpuri Cinema
-URL: https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+Name: Pardesi TV
+URL: http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Shemaroo Bollywood
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Bhojpuri Cinema
+URL: https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -9183,11 +9183,6 @@ URL: http://27.124.71.27/Willow_Extra/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Trace Sport
-URL: https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: A Sports
 URL: https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -9195,6 +9190,11 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 Name: Cricket Gold
 URL: https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Trace Sport
+URL: https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10948,13 +10948,8 @@ URL: https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Nexus TV (576p)
-URL: https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Duronto TV (720p)
-URL: https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+Name: Maasranga TV (720p)
+URL: https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10963,18 +10958,23 @@ URL: https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Maasranga TV (720p)
-URL: https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+Name: NTV (720p)
+URL: https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Duronto TV (720p)
+URL: https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Nexus TV (576p)
+URL: https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: RTV (720p)
 URL: https://tvsen5.aynaott.com/RtvHD/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: NTV (720p)
-URL: https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
