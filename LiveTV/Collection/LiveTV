@@ -2028,12 +2028,6 @@
     "img": "https://static.epg.best/it/classtvmoda.it.png"
   },
   {
-    "name": "TV2000 IT",
-    "type": "IT religion",
-    "url": "https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8",
-    "img": "https://static.epg.best/it/tv2000.it.png"
-  },
-  {
     "name": "HGTV IT Home & Garden HD",
     "type": "IT home",
     "url": "https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",

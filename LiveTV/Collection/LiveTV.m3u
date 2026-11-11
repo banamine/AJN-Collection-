@@ -675,8 +675,6 @@ https://radioitalialive.akamaized.net/hls/live/2124228/radioitalialive/stream03/
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/classtvmoda.it.png" group-title="IT fashion",ClassTV MODA IT HD
 https://de7w7o1fgdvs4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98ub43liqixi4/0e8e584b-60e7-4c2b-ab88-9db01211bf55/0.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/tv2000.it.png" group-title="IT religion",TV2000 IT
-https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/hgtv.it.png" group-title="IT home",HGTV IT Home & Garden HD
 https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.qs24.tv/images/Logo-Gesundheitskompas-weiss-9000.png" group-title="CH health",QS24.TV HD

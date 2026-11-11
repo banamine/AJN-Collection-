@@ -1172,13 +1172,6 @@ Logo: https://classcnbc.it/
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
-Group: IT religion
-Name: TV2000 IT
-URL: https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
-Logo: https://static.epg.best/it/tv2000.it.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
 Group: IT sport
 Name: Rai Sport HD
 URL: https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
