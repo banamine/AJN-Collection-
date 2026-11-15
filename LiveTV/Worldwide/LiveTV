@@ -98,7 +98,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA2OjIxOjQ5IFBNJmhhc2hfdmFsdWU9bnRTeHVTMVBmWGdCeHVEQW1FdlZEQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTUxZmMyOTc2LTE0NGItNDQzNS05ZDQ5LTMxZGE1N2U2NjRlYQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxMTo1OTo1OSBQTSZoYXNoX3ZhbHVlPVZvcHBmeXNjeTZOVmE3aHJzVXZOMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hOTYxYWJiOS0xZWNiLTQxYmQtYjJlZC0zY2NjYmU3YmY4OTY=/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -110,7 +110,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA2OjIxOjQ5IFBNJmhhc2hfdmFsdWU9bGhCbklGL3JsOUhFSXY0S3o0a2V2QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI2NDk4ZjNmLWMzMTUtNGUzMC1hZDE2LTIzMzRiYzk4ZDI0ZQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxMTo1OTo1OCBQTSZoYXNoX3ZhbHVlPXpIMEY4M0huZTRScnN3QzhqTGZvTmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NzY4OWQ0MC0zM2RjLTQxNWEtYWJkOC1mZThhMTEwNDExNzE=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -254,7 +254,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA2OjIxOjQ5IFBNJmhhc2hfdmFsdWU9eTZtdmxEMFpnbExjbmpPR1E0aDdLQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU3OTI1ODllLTBmODItNDM3OS04YWU3LTkxMThmOWQzOWJhMw==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxMTo1OTo1OSBQTSZoYXNoX3ZhbHVlPUFjTGlCUElFWEhmZDl3UnRKYlcwa0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yMmEwZjU5ZS1mYTUyLTQ0ZWItYWUzMS05ZWEzNDdmYTgzMzQ=/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -3270,12 +3270,6 @@
     "img": "https://i.postimg.cc/5tBsBfWb/lamore-web-show.jpg"
   },
   {
-    "name": "ON TV",
-    "type": "Recomendados",
-    "url": "https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8",
-    "img": "https://i.postimg.cc/Y9mq7Rhr/rede-on-tv.jpg"
-  },
-  {
     "name": "Os Detetives",
     "type": "Recomendados",
     "url": "https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8",
@@ -4422,12 +4416,6 @@
     "img": "https://i.imgur.com/5cGnb4r.png"
   },
   {
-    "name": "TV Sul Bahia",
-    "type": "Variedades",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/qM6nMWm.png"
-  },
-  {
     "name": "TV Sul de Minas",
     "type": "Variedades",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8",
@@ -4990,12 +4978,6 @@
     "type": "Entretenimento",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
     "img": "https://i.imgur.com/MTuErdw.png"
-  },
-  {
-    "name": "TV Vicosa",
-    "type": "Entretenimento",
-    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/TZF55f9.png"
   },
   {
     "name": "TV Zoom",

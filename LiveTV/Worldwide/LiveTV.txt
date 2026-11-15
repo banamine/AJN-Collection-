@@ -2530,11 +2530,6 @@ URL: http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 Logo: https://i.imgur.com/MTuErdw.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Vicosa
-URL: http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-Logo: https://i.imgur.com/TZF55f9.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: TV Zoom
 URL: https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 Logo: https://i.imgur.com/jCGrjf5.png
@@ -3663,7 +3658,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA2OjIxOjQ5IFBNJmhhc2hfdmFsdWU9eTZtdmxEMFpnbExjbmpPR1E0aDdLQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU3OTI1ODllLTBmODItNDM3OS04YWU3LTkxMThmOWQzOWJhMw==/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxMTo1OTo1OSBQTSZoYXNoX3ZhbHVlPUFjTGlCUElFWEhmZDl3UnRKYlcwa0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yMmEwZjU5ZS1mYTUyLTQ0ZWItYWUzMS05ZWEzNDdmYTgzMzQ=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3966,7 +3961,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA2OjIxOjQ5IFBNJmhhc2hfdmFsdWU9bnRTeHVTMVBmWGdCeHVEQW1FdlZEQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTUxZmMyOTc2LTE0NGItNDQzNS05ZDQ5LTMxZGE1N2U2NjRlYQ==/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxMTo1OTo1OSBQTSZoYXNoX3ZhbHVlPVZvcHBmeXNjeTZOVmE3aHJzVXZOMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hOTYxYWJiOS0xZWNiLTQxYmQtYjJlZC0zY2NjYmU3YmY4OTY=/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3976,7 +3971,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA2OjIxOjQ5IFBNJmhhc2hfdmFsdWU9bGhCbklGL3JsOUhFSXY0S3o0a2V2QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI2NDk4ZjNmLWMzMTUtNGUzMC1hZDE2LTIzMzRiYzk4ZDI0ZQ==/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxMTo1OTo1OCBQTSZoYXNoX3ZhbHVlPXpIMEY4M0huZTRScnN3QzhqTGZvTmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NzY4OWQ0MC0zM2RjLTQxNWEtYWJkOC1mZThhMTEwNDExNzE=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -4332,11 +4327,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Lamore Rock Show
 URL: https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 Logo: https://i.postimg.cc/5tBsBfWb/lamore-web-show.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: ON TV
-URL: https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8
-Logo: https://i.postimg.cc/Y9mq7Rhr/rede-on-tv.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Os Detetives
@@ -5454,11 +5444,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Sol Comunidade
 URL: http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 Logo: https://i.imgur.com/5cGnb4r.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Sul Bahia
-URL: https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-Logo: https://i.imgur.com/qM6nMWm.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Sul de Minas
