@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16 02:18:22",
+  "date": "2026-11-16 10:12:39",
   "channels": {
     "Buy me a Coffee": [
       {
@@ -121,7 +121,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAzOjQ0OjUyIFBNJmhhc2hfdmFsdWU9T1Y3YXVZdVh4NzRGay9BUVRGeHZXdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTc4MWUxYWEyLTQ3ZWMtNGI5YS1hZmRlLWEyYTQ1MDIwOTA5Yg==/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA5Ojc6MjggUE0maGFzaF92YWx1ZT0zajFIck9Hbm5JeDJVSkxGNElnWEdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTEyMjI1MWYtOGRiYi00Mjk0LTk3MjItMDJmNjE5MTk4ZDY2/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -135,7 +135,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAzOjQ0OjUxIFBNJmhhc2hfdmFsdWU9MlMvN1hzT05ZL2lWZksya3VUMklvQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTgxMmQ5YWRjLTZkMTQtNDhhNS1iYzIyLWU2Nzg3ZDgxNGUwZg==/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA5Ojc6MjYgUE0maGFzaF92YWx1ZT1Pei9udndUdFZ6cTl6dEpiZ2cwdFVnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTQzMWZmZDAtMTk3Mi00NDM5LWJiMjMtZTU4Njg0ODkxNjJi/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -305,7 +305,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAzOjQ0OjUxIFBNJmhhc2hfdmFsdWU9RnNCODg1WGlhcnBBeE9sTzJmWFJGUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJiNGY2YmQ3LTJlZGEtNDY5Ny05MzU0LTU1ZDczYzFlNzk1Mg==/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiA5Ojc6MjcgUE0maGFzaF92YWx1ZT1HYUNDSFo3R2JGYTFtS3dMRjl1OC93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWQwZWI1OTEtMjIzZi00YTUxLWI3MzUtYmI3Y2JhNTI2NTc3/"
       },
       {
         "name": "Euronews 🇵🇹",
@@ -5149,6 +5149,13 @@
         "group": "Entretenimento",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
+      },
+      {
+        "name": "ElyTV",
+        "logo": "https://i.imgur.com/1eHNe91.png",
+        "group": "Entretenimento",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
       },
       {
         "name": "Petlovers TV",
