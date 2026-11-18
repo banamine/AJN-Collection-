@@ -265,6 +265,9 @@ def main():
     # Set check_links=False for super speed, True for accuracy
     collector = M3UCollector(country="Venezuela", check_links=False)
     collector.process_sources(source_urls)
+    if not any(collector.channels.values()):
+        logging.error("No active channels collected (sources down or all filtered); keeping existing files unchanged")
+        return
     
     # Export files
     collector.export_m3u("LiveTV.m3u")

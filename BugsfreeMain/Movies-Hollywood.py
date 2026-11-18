@@ -229,6 +229,9 @@ def main():
 
     collector = M3UCollector(country="Hollywood")
     collector.process_sources(source_urls)
+    if not any(collector.channels.values()):
+        logging.error("No active channels collected (sources down or all filtered); keeping existing files unchanged")
+        return
     
     # Export files
     collector.export_m3u("Movies.m3u")
