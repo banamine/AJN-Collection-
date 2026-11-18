@@ -355,13 +355,6 @@
                 <div class="control-group">
                     <label>📂 Select Region</label>
                     <select id="regionSelect">
-                        <option value="collection">All Regions (Collection)</option>
-                        <option value="usa">USA</option>
-                        <option value="canada">Canada</option>
-                        <option value="mexico">Mexico</option>
-                        <option value="uk">UK</option>
-                        <option value="spain">Spain</option>
-                        <option value="france">France</option>
                     </select>
                 </div>
                 <div class="control-group">
@@ -411,64 +404,97 @@
     </div>
 
     <script>
+        const RAW = 'https://raw.githubusercontent.com/banamine/AJN-Collection-/main';
+        const RENDER_LIMIT = 1500;           // rows drawn at once (select/download still use ALL matches)
         let allChannels = [];
         let filteredChannels = [];
-        let selectedChannels = new Set();
-        let currentRegion = 'collection';
+        const selectedChannels = new Set();  // keyed by stream URL, so selection survives search/filter changes
+        let currentRegion = 'LiveTV/Collection';
 
-        // Load data
-        async function loadChannels() {
-            try {
-                const url = `https://raw.githubusercontent.com/banamine/AJN-Collection-/main/LiveTV/${currentRegion}/LiveTV.json`;
-                console.log('Fetching from:', url);
+        function dataUrl(region) {
+            // region looks like "LiveTV/Spain" or "Movies/Hollywood"
+            const [type, name] = region.split('/');
+            const file = type === 'Movies' ? 'Movies.json' : 'LiveTV.json';
+            return `${RAW}/${type}/${name}/${file}`;
+        }
 
-                const response = await fetch(url);
-                if (!response.ok) {
-                    throw new Error(`HTTP ${response.status}`);
+        // Build the category dropdown from the repo's index files
+        async function loadRegionList() {
+            const select = document.getElementById('regionSelect');
+            const groups = [['LiveTV', 'Live TV'], ['Movies', 'Movies']];
+            for (const [type, label] of groups) {
+                try {
+                    const res = await fetch(`${RAW}/${type}/index.json`);
+                    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                    const names = await res.json();
+                    const og = document.createElement('optgroup');
+                    og.label = label;
+                    names.forEach(n => {
+                        const o = document.createElement('option');
+                        o.value = `${type}/${n}`;
+                        o.textContent = n === 'Collection' ? 'All Regions (Collection)' : n;
+                        og.appendChild(o);
+                    });
+                    select.appendChild(og);
+                } catch (e) {
+                    console.error(`Could not load ${type} index:`, e);
                 }
+            }
+            select.value = currentRegion;
+            if (select.value !== currentRegion && select.options.length) {
+                currentRegion = select.options[0].value;
+                select.value = currentRegion;
+            }
+        }
 
-                const data = await response.json();
-                allChannels = [];
-
-                // Flatten channels from all regions
-                Object.values(data.regions || {}).forEach(region => {
-                    if (Array.isArray(region.channels)) {
-                        allChannels.push(...region.channels);
-                    } else if (region && typeof region === 'object') {
-                        Object.values(region).forEach(item => {
-                            if (Array.isArray(item)) {
-                                allChannels.push(...item);
-                            }
-                        });
-                    }
+        // Collect channels from either {channels:{group:[...]}} or legacy {regions:{...}}
+        function extractChannels(data) {
+            const out = [];
+            const addGroups = obj => Object.entries(obj || {}).forEach(([group, list]) => {
+                if (Array.isArray(list)) {
+                    list.forEach(ch => out.push({ ...ch, group: ch.group || group }));
+                }
+            });
+            if (data.channels && !Array.isArray(data.channels)) addGroups(data.channels);
+            else if (Array.isArray(data.channels)) out.push(...data.channels);
+            if (data.regions) {
+                Object.values(data.regions).forEach(region => {
+                    if (Array.isArray(region.channels)) out.push(...region.channels);
+                    else addGroups(region);
                 });
+            }
+            return out.filter(ch => ch && ch.url);
+        }
 
+        async function loadChannels() {
+            const container = document.getElementById('channelContainer');
+            container.innerHTML = '<div class="loading"><span class="spinner"></span> Loading channels...</div>';
+            try {
+                const url = dataUrl(currentRegion);
+                console.log('Fetching from:', url);
+                const response = await fetch(url);
+                if (!response.ok) throw new Error(`HTTP ${response.status} for ${url}`);
+                const data = await response.json();
+                allChannels = extractChannels(data);
                 console.log('Loaded channels:', allChannels.length);
                 populateGroupFilter();
                 renderChannels();
             } catch (error) {
                 console.error('Error loading channels:', error);
-                document.getElementById('channelContainer').innerHTML = `
+                allChannels = [];
+                filteredChannels = [];
+                container.innerHTML = `
                     <div class="empty-state">
                         <p>❌ Failed to load channels</p>
-                        <p style="font-size: 0.9rem; color: #888;">${error.message}</p>
-                        <p style="font-size: 0.85rem; margin-top: 1rem;">Trying fallback...</p>
-                    </div>
-                `;
-                // Fallback to collection
-                if (currentRegion !== 'collection') {
-                    currentRegion = 'collection';
-                    loadChannels();
-                }
+                        <p style="font-size: 0.9rem; color: #888;">${escapeHtml(error.message)}</p>
+                    </div>`;
+                updateStats();
             }
         }
 
-        // Populate group filter
         function populateGroupFilter() {
             const groups = [...new Set(allChannels.map(ch => ch.group || 'Uncategorized'))];
             const groupFilter = document.getElementById('groupFilter');
-            const currentValue = groupFilter.value;
-
             groupFilter.innerHTML = '<option value="">All Groups</option>';
             groups.sort().forEach(group => {
                 const option = document.createElement('option');
@@ -476,68 +502,58 @@
                 option.textContent = group;
                 groupFilter.appendChild(option);
             });
-
-            groupFilter.value = currentValue;
-            updateStats();
         }
 
-        // Filter and render channels
         function renderChannels() {
             const search = document.getElementById('searchInput').value.toLowerCase();
             const groupFilter = document.getElementById('groupFilter').value;
 
             filteredChannels = allChannels.filter(channel => {
-                const matchesSearch = !search ||
-                    channel.name.toLowerCase().includes(search) ||
-                    (channel.group && channel.group.toLowerCase().includes(search));
-
+                const name = (channel.name || '').toLowerCase();
+                const group = (channel.group || '').toLowerCase();
+                const matchesSearch = !search || name.includes(search) || group.includes(search);
                 const matchesGroup = !groupFilter || channel.group === groupFilter;
-
                 return matchesSearch && matchesGroup;
             });
 
             const container = document.getElementById('channelContainer');
-
             if (filteredChannels.length === 0) {
                 container.innerHTML = '<div class="empty-state"><p>No channels found</p></div>';
                 updateStats();
                 return;
             }
 
+            const shown = filteredChannels.slice(0, RENDER_LIMIT);
             container.innerHTML = '<div class="channel-list">' +
-                filteredChannels.map((channel, index) => `
+                shown.map((channel, index) => `
                     <div class="channel-item">
                         <input type="checkbox"
                             data-index="${index}"
-                            ${selectedChannels.has(index) ? 'checked' : ''}
+                            ${selectedChannels.has(channel.url) ? 'checked' : ''}
                             onchange="toggleChannel(${index})">
                         <div class="channel-info">
-                            <div class="channel-name">${escapeHtml(channel.name)}</div>
+                            <div class="channel-name">${escapeHtml(channel.name || 'Unnamed')}</div>
                             <div class="channel-group">${escapeHtml(channel.group || 'Uncategorized')}</div>
                         </div>
-                        <div class="channel-count">${filteredChannels.indexOf(channel) + 1}</div>
+                        <div class="channel-count">${index + 1}</div>
                     </div>
                 `).join('') +
-            '</div>';
-
+                '</div>' +
+                (filteredChannels.length > shown.length
+                    ? `<div class="empty-state"><p>Showing first ${shown.length} of ${filteredChannels.length} matches. Use search or group filter to narrow, or Select All to take every match.</p></div>`
+                    : '');
             updateStats();
         }
 
-        // Toggle channel selection
         function toggleChannel(index) {
-            if (selectedChannels.has(index)) {
-                selectedChannels.delete(index);
-            } else {
-                selectedChannels.add(index);
-            }
+            const url = filteredChannels[index].url;
+            if (selectedChannels.has(url)) selectedChannels.delete(url);
+            else selectedChannels.add(url);
             updateStats();
         }
 
-        // Select/Deselect all
         function selectAll() {
-            filteredChannels.forEach((_, index) => {
-                selectedChannels.add(index);
-            });
+            filteredChannels.forEach(ch => selectedChannels.add(ch.url));
             renderChannels();
         }
 
@@ -546,17 +562,18 @@
             renderChannels();
         }
 
-        // Download selected as M3U
+        function getSelected() {
+            // everything selected, in loaded order, even if currently filtered out of view
+            return allChannels.filter(ch => selectedChannels.has(ch.url));
+        }
+
         function downloadSelected() {
-            if (selectedChannels.size === 0) {
+            const selected = getSelected();
+            if (selected.length === 0) {
                 showToast('Please select at least one channel');
                 return;
             }
-
-            const selected = Array.from(selectedChannels).map(i => filteredChannels[i]);
-            const m3uContent = generateM3U(selected);
-
-            const blob = new Blob([m3uContent], { type: 'text/plain' });
+            const blob = new Blob([generateM3U(selected)], { type: 'audio/x-mpegurl' });
             const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
@@ -565,50 +582,45 @@
             a.click();
             document.body.removeChild(a);
             URL.revokeObjectURL(url);
-
             showToast(`Downloaded ${selected.length} channels`);
         }
 
-        // Copy selected URLs
         function copySelectedUrls() {
-            if (selectedChannels.size === 0) {
+            const selected = getSelected();
+            if (selected.length === 0) {
                 showToast('Please select at least one channel');
                 return;
             }
-
-            const selected = Array.from(selectedChannels).map(i => filteredChannels[i]);
-            const urls = selected.map(ch => ch.url).join('\n');
-
-            navigator.clipboard.writeText(urls).then(() => {
-                showToast(`Copied ${selected.length} URLs to clipboard`);
-            });
+            navigator.clipboard.writeText(selected.map(ch => ch.url).join('\n')).then(
+                () => showToast(`Copied ${selected.length} URLs to clipboard`),
+                () => showToast('Copy failed - browser blocked clipboard access')
+            );
         }
 
-        // Generate M3U content
+        // M3U attribute/text values must not contain quotes or line breaks (HTML-escaping is wrong here)
+        function m3uClean(text) {
+            return String(text == null ? '' : text).replace(/[\r\n]+/g, ' ').replace(/"/g, "'").trim();
+        }
+
         function generateM3U(channels) {
             let m3u = '#EXTM3U\n';
             channels.forEach(ch => {
-                m3u += `#EXTINF:-1 tvg-name="${escapeHtml(ch.name)}" group-title="${escapeHtml(ch.group || 'Uncategorized')}"`;
-                if (ch.logo) {
-                    m3u += ` tvg-logo="${ch.logo}"`;
-                }
-                m3u += `,${ch.name}\n`;
-                m3u += `${ch.url}\n`;
+                const name = m3uClean(ch.name) || 'Unnamed';
+                m3u += `#EXTINF:-1 tvg-name="${name}" group-title="${m3uClean(ch.group) || 'Uncategorized'}"`;
+                if (ch.logo) m3u += ` tvg-logo="${m3uClean(ch.logo)}"`;
+                m3u += `,${name}\n${ch.url}\n`;
             });
             return m3u;
         }
 
-        // Update stats
         function updateStats() {
             document.getElementById('totalChannels').textContent = allChannels.length;
             document.getElementById('filteredChannels').textContent = filteredChannels.length;
             document.getElementById('selectedChannels').textContent = selectedChannels.size;
-
-            const groups = [...new Set(allChannels.map(ch => ch.group || 'Uncategorized'))];
-            document.getElementById('totalGroups').textContent = groups.length;
+            document.getElementById('totalGroups').textContent =
+                new Set(allChannels.map(ch => ch.group || 'Uncategorized')).size;
         }
 
-        // Toast notification
         function showToast(message) {
             const toast = document.createElement('div');
             toast.className = 'toast';
@@ -617,14 +629,12 @@
             setTimeout(() => toast.remove(), 3000);
         }
 
-        // Escape HTML
         function escapeHtml(text) {
             const div = document.createElement('div');
-            div.textContent = text;
+            div.textContent = text == null ? '' : text;
             return div.innerHTML;
         }
 
-        // Event listeners
         document.getElementById('searchInput').addEventListener('input', renderChannels);
         document.getElementById('groupFilter').addEventListener('change', renderChannels);
         document.getElementById('regionSelect').addEventListener('change', (e) => {
@@ -633,8 +643,10 @@
             loadChannels();
         });
 
-        // Initialize
-        window.addEventListener('load', loadChannels);
+        window.addEventListener('load', async () => {
+            await loadRegionList();
+            loadChannels();
+        });
     </script>
 </body>
 </html>
