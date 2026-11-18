@@ -42,8 +42,12 @@ jobs:
           git config --global user.email "action@github.com"
           git add Movies/Private/Movies.m3u Movies/Private/Movies.txt Movies/Private/Movies.json Movies/Private/Movies
           git commit -m "Movies-Private Update files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $attempt failed, retrying..."
+            sleep $((RANDOM % 15 + 5))
+          done
+          git diff --quiet origin/main..HEAD || { echo "Push failed after retries"; exit 1; }
 
   update-indexes:
     needs: update-files

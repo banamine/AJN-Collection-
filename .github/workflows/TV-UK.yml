@@ -42,8 +42,12 @@ jobs:
           git config --global user.email "action@github.com"
           git add LiveTV/UK/LiveTV.m3u LiveTV/UK/LiveTV.txt LiveTV/UK/LiveTV.json LiveTV/UK/LiveTV
           git commit -m "TV-UK Update files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $attempt failed, retrying..."
+            sleep $((RANDOM % 15 + 5))
+          done
+          git diff --quiet origin/main..HEAD || { echo "Push failed after retries"; exit 1; }
 
   update-indexes:
     needs: update-files
