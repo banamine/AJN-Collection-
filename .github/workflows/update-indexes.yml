@@ -25,5 +25,9 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add LiveTV/index.json Movies/index.json
           git commit -m "Update LiveTV and Movies index files" || echo "No changes to commit"
-          git pull --rebase origin main  # Fetch and rebase remote changes
-          git push
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $attempt failed, retrying..."
+            sleep $((RANDOM % 15 + 5))
+          done
+          git diff --quiet origin/main..HEAD || { echo "Push failed after retries"; exit 1; }
