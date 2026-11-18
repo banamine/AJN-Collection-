@@ -67,48 +67,42 @@ class M3UCollector:
         logging.info(f"Extracted {len(stream_urls)} streaming URLs from {base_url}")
         return list(stream_urls)
 
-    def check_link_active(self, url, timeout=2):
-        """Check if a link is active, optimized for speed."""
+    def _probe_link(self, url, headers, read_timeout):
+        """True if the stream looks alive. Geo/auth-blocked (403/451) and rate-limited (429) streams
+        are kept; dead (404/410), unreachable, error-page and non-manifest responses are dropped."""
+        for attempt in range(2):  # one retry for timeouts, connection errors and 5xx
+            try:
+                with requests.get(url, stream=True, headers=headers, timeout=(5, read_timeout), allow_redirects=True) as r:
+                    code = r.status_code
+                    if code in (403, 429, 451):
+                        return True
+                    if code in (404, 410):
+                        return False
+                    if 200 <= code < 300:
+                        ctype = r.headers.get('Content-Type', '').lower()
+                        path = url.lower().split('?')[0]
+                        if '.m3u' in path or 'mpegurl' in ctype:
+                            chunk = next(r.iter_content(2048), b'')
+                            return chunk.lstrip(b'\xef\xbb\xbf \r\n\t').startswith(b'#EXTM3U')
+                        return 'text/html' not in ctype
+                    if code >= 500 or code == 408:
+                        continue
+                    return False
+            except requests.RequestException:
+                continue
+        return False
+
+    def check_link_active(self, url, timeout=8):
+        """Return (is_active, url), cached per URL."""
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-        
         with self.lock:
             if url in self.url_status_cache:
                 return self.url_status_cache[url]
-        
-        # Try original URL
-        try:
-            response = requests.head(url, timeout=timeout, headers=headers, allow_redirects=True)
-            if response.status_code < 400:
-                logging.info(f"Checked {url}: Active (HEAD)")
-                with self.lock:
-                    self.url_status_cache[url] = (True, url)
-                return True, url
-        except requests.RequestException:
-            # Only try GET if HEAD fails, skip alternate protocol for speed
-            try:
-                with requests.get(url, stream=True, timeout=timeout, headers=headers) as r:
-                    if r.status_code < 400:
-                        logging.info(f"Checked {url}: Active (GET)")
-                        with self.lock:
-                            self.url_status_cache[url] = (True, url)
-                        return True, url
-            except requests.RequestException as e:
-                logging.warning(f"Link check failed for {url}: {e}")
-                # Try alternate protocol only if not a timeout
-                if not isinstance(e, requests.Timeout):
-                    alt_url = url.replace('http://', 'https://') if url.startswith('http://') else url.replace('https://', 'http://')
-                    try:
-                        response = requests.head(alt_url, timeout=timeout, headers=headers, allow_redirects=True)
-                        if response.status_code < 400:
-                            logging.info(f"Checked {alt_url}: Active (HEAD, switched protocol)")
-                            with self.lock:
-                                self.url_status_cache[url] = (True, alt_url)
-                            return True, alt_url
-                    except requests.RequestException:
-                        pass
-                with self.lock:
-                    self.url_status_cache[url] = (False, url)
-                return False, url
+        result = (self._probe_link(url, headers, timeout), url)
+        logging.info(f"Checked {url}: {'Active' if result[0] else 'Dead'}")
+        with self.lock:
+            self.url_status_cache[url] = result
+        return result
 
     def parse_and_store(self, lines, source_url):
         """Parse M3U lines and store channels."""
@@ -153,7 +147,7 @@ class M3UCollector:
         url_set = set()
         
         logging.info(f"Total channels to check: {len(all_channels)}")
-        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:  # Even fewer workers
+        with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
             future_to_channel = {
                 executor.submit(self.check_link_active, ch['url']): (group, ch)
                 for group, ch in all_channels if ch['url'] not in url_set and not url_set.add(ch['url'])
@@ -261,8 +255,8 @@ def main():
         "https://iptv-org.github.io/iptv/countries/ca.m3u",
     ]
 
-    # Set check_links=False for super speed, True for accuracy
-    collector = M3UCollector(country="Canada", check_links=False)
+    # Link checking is ON: dead streams (404/410, unreachable, not a manifest) are dropped; geo-blocked (403/451) are kept
+    collector = M3UCollector(country="Canada", check_links=True)
     collector.process_sources(source_urls)
     if not any(collector.channels.values()):
         logging.error("No active channels collected (sources down or all filtered); keeping existing files unchanged")
