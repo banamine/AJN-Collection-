@@ -98,7 +98,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNiA3OjQ3OjMgQU0maGFzaF92YWx1ZT0vRUhBUW14Y1gycFkrWVFsZHJ3cjF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDI2N2QzNzktMGQ4MC00Yjg4LTk2YmEtYWQ3MmY3Y2M3NDI5/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyNiAxOjU1OjM4IEFNJmhhc2hfdmFsdWU9VHVmV0JQU0NUVFc2blNwVjVQN1g3dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE2OTRlNWUwLWQzNjEtNGVlMC04OWJlLWVhYzhiYTBlNzI3MA==/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -110,7 +110,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNiA3OjQ3OjIgQU0maGFzaF92YWx1ZT1CQzlYT0dENUFWR1hmdHFUalZKbXdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjY2MzI2MWYtYTJhNi00ZmI5LWI1NGYtYzFlMzZhODA2OTMz/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyNiAxOjU1OjM3IEFNJmhhc2hfdmFsdWU9dGFhRlhyUXZ2bnFrZFF2SjNuUFIwUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM1OTM5OWFhLTA1NmEtNGQ1OS1iMDZmLWI5NzJhNWQzOTMxNQ==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -254,7 +254,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNiA3OjQ3OjMgQU0maGFzaF92YWx1ZT1oaVlPM2JiZFJtVmg1d2REbmd6QjFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ3ZjA1MWUtNDMxOC00YTY2LThjMGMtZmFmODYxMThhMWM1/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyNiAxOjU1OjM4IEFNJmhhc2hfdmFsdWU9UjRwTVE1cjk0UGUzcGJkbStXWjF5Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI0ZTdlZWI0LTAzNTEtNGI3NC1iM2FiLTBiZDVlYTU4OGE1YQ==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -3258,12 +3258,6 @@
     "img": "https://i.postimg.cc/DzWCPpS6/gramado-tv.png"
   },
   {
-    "name": "IJUÍ PLAY",
-    "type": "Recomendados",
-    "url": "https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8",
-    "img": "https://i.postimg.cc/kMKq946F/ijuiplaytv.jpg"
-  },
-  {
     "name": "Lamore Rock Show",
     "type": "Recomendados",
     "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
@@ -3334,6 +3328,12 @@
     "type": "Recomendados",
     "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8",
     "img": "https://i.postimg.cc/vZDMM775/tvcom.png"
+  },
+  {
+    "name": "TV Conecta",
+    "type": "Recomendados",
+    "url": "https://srv1954587.hstgr.cloud:8888/video01/index.m3u8",
+    "img": "https://i.postimg.cc/bYWc1jjz/tv-conecta.png"
   },
   {
     "name": "TV da Cidade Joinville",
@@ -3882,6 +3882,12 @@
     "img": "https://i.postimg.cc/BvSXPFDQ/tvbraasil-angola.jpg"
   },
   {
+    "name": "TV Brasil Oeste",
+    "type": "Variedades",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "img": "https://i.imgur.com/noqGfuy.png"
+  },
+  {
     "name": "TV Brasil Sinop",
     "type": "Variedades",
     "url": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8",
@@ -4042,12 +4048,6 @@
     "type": "Variedades",
     "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8",
     "img": "https://i.postimg.cc/bNK96RZH/tvsonata.png"
-  },
-  {
-    "name": "TV Sul Bahia",
-    "type": "Variedades",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/qM6nMWm.png"
   },
   {
     "name": "TV São Gabriel",
