@@ -186,6 +186,12 @@
     "img": "https://www.ert.gr/wp-content/uploads/2025/09/ert-news-white-bg-menu-optimized.svg"
   },
   {
+    "name": "tagesschau24 HD",
+    "type": "news",
+    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
+    "img": "https://i.postimg.cc/kXTbWx1v/tagesschau24.png"
+  },
+  {
     "name": "TVP info_ HD",
     "type": "news",
     "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
@@ -210,16 +216,28 @@
     "img": " tvg-country="
   },
   {
-    "name": "tvg-name=\"BildTV.de@SD\" tvg-logo=\" tvg-country=\"DE\" tvg-language=\"German\" group-title=\"news\"",
+    "name": "Bild TV HD",
     "type": "news",
     "url": "https://bild.personalstream.tv/v1/master.m3u8",
-    "img": " tvg-country="
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bild_%28Fernsehsender%29_logo.svg/500px-Bild_%28Fernsehsender%29_logo.svg.png"
   },
   {
     "name": "Auto Bild HD",
     "type": "news",
     "url": "https://auto-bild.personalstream.tv/v1/bildde/master.m3u8",
     "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_AutoBild.svg/langfr-500px-Logo_AutoBild.svg.png"
+  },
+  {
+    "name": "Reuters TV HD",
+    "type": "news",
+    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Reuters_TV_logo.png"
+  },
+  {
+    "name": "France24 english HD",
+    "type": "news",
+    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8",
+    "img": "https://static.epg.best/uk/france24.uk.png"
   },
   {
     "name": "euronews. italia HD",
@@ -378,7 +396,7 @@
     "img": "https://picserve.netplus.ch/channels/canalalphaju.png"
   },
   {
-    "name": "Canal B fr HD",
+    "name": "Canal B HD",
     "type": "Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8",
     "img": "https://picserve.netplus.ch/channels/canalbfr.png"
@@ -426,7 +444,7 @@
     "img": "https://picserve.netplus.ch/channels/canalalphane.png"
   },
   {
-    "name": "Canal B de HD",
+    "name": "Kanal B HD",
     "type": "Regional",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canalbde/browser-HLS8/canalbde.m3u8",
     "img": "https://picserve.netplus.ch/channels/canalbde.png"
@@ -484,12 +502,6 @@
     "type": "kids",
     "url": "https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8",
     "img": "https://picserve.netplus.ch/channels/raigulp.png"
-  },
-  {
-    "name": "Boomerang F HD",
-    "type": "kids",
-    "url": "http://41.205.93.154/BOOMERANG/index.m3u8",
-    "img": "https://picserve.netplus.ch/channels/boomerang.png"
   },
   {
     "name": "Nickelodeon",
@@ -1032,6 +1044,12 @@
     "img": "https://i.ibb.co/pdnMrZn/a24.png"
   },
   {
+    "name": "LGF Pop HD",
+    "type": "generalist",
+    "url": "https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8",
+    "img": "https://lgfmedias.com/logos/pop-mono.svg"
+  },
+  {
     "name": "arirang korea HD",
     "type": "generalist",
     "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/i.m3u8",
@@ -1134,6 +1152,12 @@
     "img": "https://static.epg.best/uk/bbcearth.uk.png"
   },
   {
+    "name": "CGTN DOCUMENTARY FHD",
+    "type": "documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "img": "https://news.cgtn.com/public/editor/2022-06-20/547/img/16ca798ce864481bae5c4ee8a0a0c6bf/16ca798ce864481bae5c4ee8a0a0c6bf.jpeg"
+  },
+  {
     "name": "HISTOIRE TV HD",
     "type": "documentary",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8",
@@ -1212,10 +1236,46 @@
     "img": "https://picserve.netplus.ch/channels/motorvision.png"
   },
   {
+    "name": "Eurosport1 HD",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosportde.png"
+  },
+  {
+    "name": "Eurosport2 HD",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosport2.png"
+  },
+  {
     "name": "FIGHTBOX HD",
     "type": "sport",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/fightbox/live.livx/playlist.m3u8",
     "img": "https://freebox.cdn.scw.iliad.fr/large_Fight_Box_2013_8cd4fe8cf0.png"
+  },
+  {
+    "name": "eurosport1",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosportde.png"
+  },
+  {
+    "name": "eurosport2",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosport2.png"
+  },
+  {
+    "name": "eurosport1",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosportde.png"
+  },
+  {
+    "name": "eurosport2",
+    "type": "sport",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8",
+    "img": "https://picserve.netplus.ch/channels/eurosport2.png"
   },
   {
     "name": "AB3",
@@ -1276,6 +1336,12 @@
     "type": "cartoons",
     "url": "https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8",
     "img": "https://picserve.netplus.ch/channels/ric.png"
+  },
+  {
+    "name": "Boomerang HD",
+    "type": "cartoons",
+    "url": "http://41.205.93.154/BOOMERANG/index.m3u8",
+    "img": "https://picserve.netplus.ch/channels/boomerang.png"
   },
   {
     "name": "Mangas",
@@ -1362,6 +1428,12 @@
     "img": "https://i.ibb.co/SwvbkW2V/peyi.jpg"
   },
   {
+    "name": "Musig24 Schweizer musik schlager",
+    "type": "music",
+    "url": "https://tv.musig24.tv/hls/0/stream.m3u8",
+    "img": "https://new.musig24.tv/assets/brand/musig24-logo.webp"
+  },
+  {
     "name": "STINGRAY iConcerts HD",
     "type": "music",
     "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
@@ -1426,6 +1498,12 @@
     "type": "music",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8",
     "img": "https://static.epg.best/br/tracebrasil.br.png"
+  },
+  {
+    "name": "SWR DASDING HD",
+    "type": "music",
+    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
+    "img": "https://assets.radioplayer.org/276/276377/11/4215-mst05n26.png"
   },
   {
     "name": "RTL102.5 HD",
@@ -1540,6 +1618,12 @@
     "type": "regional",
     "url": "https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8",
     "img": "https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png"
+  },
+  {
+    "name": "tvg-id=\"lilotv.de\" tvg-logo=\"https://www.lilotv.de/wp-content/uploads/2024/01/logo.png\" tvg-country=\"DE\" tvg-language=\"German\" group-title=\"regional\", lilo.TV HD",
+    "type": "regional",
+    "url": "https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8",
+    "img": "https://www.lilotv.de/wp-content/uploads/2024/01/logo.png"
   },
   {
     "name": "PARIS PREMIERE HD",
@@ -1812,30 +1896,6 @@
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
-    "name": "lilo.TV HD",
-    "type": "Uncategorized",
-    "url": "https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "SWR DASDING HD",
-    "type": "Uncategorized",
-    "url": "https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "CGTN DOCUMENTARY FHD",
-    "type": "Uncategorized",
-    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Reuters TV HD",
-    "type": "Uncategorized",
-    "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
     "name": "wetter.tv HD",
     "type": "wetter",
     "url": "https://streaming.meteonews.net/hls/stream.m3u8",
@@ -2016,30 +2076,6 @@
     "img": "https://picserve.netplus.ch/channels/chasseetpeche.png"
   },
   {
-    "name": "tagesschau24 HD",
-    "type": "CH news",
-    "url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8",
-    "img": "https://i.postimg.cc/kXTbWx1v/tagesschau24.png"
-  },
-  {
-    "name": "LGF Pop HD",
-    "type": "FR generalist",
-    "url": "https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8",
-    "img": "https://lgfmedias.com/logos/pop-mono.svg"
-  },
-  {
-    "name": "TV5Monde Europe HD",
-    "type": "FR generalist",
-    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8",
-    "img": "https://w7.pngwing.com/pngs/92/18/png-transparent-logo-europe-tv5monde-brand-trademark-ultra-europe-logo-television-blue-text.png"
-  },
-  {
-    "name": "Musig24 Schweizer musik schlager",
-    "type": "CH music",
-    "url": "https://tv.musig24.tv/hls/0/stream.m3u8",
-    "img": "https://new.musig24.tv/assets/brand/musig24-logo.webp"
-  },
-  {
     "name": "English Club TV",
     "type": "Learning",
     "url": "https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
@@ -2052,22 +2088,10 @@
     "img": "https://static.epg.best/gb/gbnews.gb.png"
   },
   {
-    "name": "2686. Brut.",
-    "type": "News",
-    "url": "https://jmp2.uk/stvp-CH700006GD",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png"
-  },
-  {
     "name": "N24 Doku HD",
     "type": "documentaries",
     "url": "https://w-n24doku2weltcms.akamaized.net/hls/live/2106400/N24Doku-SES/master.m3u8",
     "img": "https://static.epg.best/de/N24Doku.de.png"
-  },
-  {
-    "name": "France24 english HD",
-    "type": "EN news",
-    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist.m3u8",
-    "img": "https://static.epg.best/uk/france24.uk.png"
   },
   {
     "name": "Rugby Zone",
@@ -2118,10 +2142,28 @@
     "img": "https://static.epg.best/de/euronews.de.png"
   },
   {
+    "name": "Brut.",
+    "type": "Documentary",
+    "url": "https://jmp2.uk/stvp-CH700006GD",
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png"
+  },
+  {
+    "name": "Discovery Channel HD",
+    "type": "Documentary",
+    "url": "http://192.99.186.30/stream/68/index.m3u8",
+    "img": "https://picserve.netplus.ch/channels/discoverychannel.png"
+  },
+  {
+    "name": "Investigation Discovery",
+    "type": "Documentary",
+    "url": "http://192.99.186.30/stream/81/index.m3u8",
+    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-330px-InvestigationDiscoveryLogo2020.svg.png"
+  },
+  {
     "name": "Radio Italia live",
     "type": "IT local",
     "url": "https://radioitalialive.akamaized.net/hls/live/2124228/radioitalialive/stream03/streamPlaylist.m3u8",
-    "img": "https://static.epg.best/it/radioitalialive.it.png"
+    "img": "https://www.radioitalia.it/images/logo-radioitalia-200.png"
   },
   {
     "name": "Food Network IT HD",
@@ -2214,13 +2256,19 @@
     "img": "https://gamako.net/iptv/logos/blacklogos/starplus_logobbg.png"
   },
   {
+    "name": "TV5Monde Europe HD",
+    "type": "FR generalist",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8",
+    "img": "https://w7.pngwing.com/pngs/92/18/png-transparent-logo-europe-tv5monde-brand-trademark-ultra-europe-logo-television-blue-text.png"
+  },
+  {
     "name": "AUTOMOTO HD",
     "type": "auto moto",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/automoto.png"
   },
   {
-    "name": "Comedy Central Fr HD",
+    "name": "Comedy Central HD",
     "type": "entertainement",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/comedycentral.png"
@@ -2230,36 +2278,6 @@
     "type": "entertainement",
     "url": "http://41.205.93.154/LA-UNE/index.m3u8",
     "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/RTBF_la_une_logo_2025.svg/langfr-960px-RTBF_la_une_logo_2025.svg.png"
-  },
-  {
-    "name": "Discovery Channel F HD",
-    "type": "Documentary",
-    "url": "http://192.99.186.30/stream/68/index.m3u8",
-    "img": "https://picserve.netplus.ch/channels/discoverychannel.png"
-  },
-  {
-    "name": "Investigation Discovery",
-    "type": "Documentary",
-    "url": "http://192.99.186.30/stream/81/index.m3u8",
-    "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-330px-InvestigationDiscoveryLogo2020.svg.png"
-  },
-  {
-    "name": "Eurosport1 F HD",
-    "type": "Sports",
-    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8",
-    "img": "https://picserve.netplus.ch/channels/eurosport1.png"
-  },
-  {
-    "name": "Eurosport2 F HD",
-    "type": "Sports",
-    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8",
-    "img": "https://picserve.netplus.ch/channels/eurosport2.png"
-  },
-  {
-    "name": "Golf+ HD",
-    "type": "Sports",
-    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8",
-    "img": "https://picserve.netplus.ch/channels/golfplus.png"
   },
   {
     "name": "Ushuïa TV",
