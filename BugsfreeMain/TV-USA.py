@@ -14,6 +14,12 @@ from bs4 import BeautifulSoup
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+# Entries we never publish: streams with a login embedded in the URL (resold panel feeds)
+# and adult groups.
+PANEL_RESTREAM = re.compile(r'^https?://[^/]+:\d+/[^/]+/[^/]+/\d+(\.\w+)?$', re.I)
+CREDENTIAL_QUERY = re.compile(r'[?&](username|password)=', re.I)
+ADULT_GROUP = re.compile(r'\b(xxx|adults?)\b', re.I)
+
 class M3UCollector:
     def __init__(self, country="USA", base_dir="LiveTV", check_links=True):
         self.channels = defaultdict(list)
@@ -104,6 +110,10 @@ class M3UCollector:
             self.url_status_cache[url] = result
         return result
 
+    def is_excluded(self, url, group):
+        """True for credentialed panel streams and adult groups."""
+        return bool(PANEL_RESTREAM.match(url) or CREDENTIAL_QUERY.search(url) or ADULT_GROUP.search(group or ''))
+
     def parse_and_store(self, lines, source_url):
         """Parse M3U lines and store channels."""
         current_channel = {}
@@ -127,6 +137,9 @@ class M3UCollector:
                     'source': source_url
                 }
             elif line.startswith('http') and current_channel:
+                if self.is_excluded(line, current_channel.get('group', '')):
+                    current_channel = {}
+                    continue
                 with self.lock:
                     if line not in self.seen_urls:
                         self.seen_urls.add(line)
