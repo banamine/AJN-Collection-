@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21 11:05:32",
+  "date": "2026-11-21 21:23:44",
   "channels": {
     "Buy me a Coffee": [
       {
@@ -121,7 +121,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxOjM3OjEyIEFNJmhhc2hfdmFsdWU9WUFYZG54S2d1SExZOGgzWWZyTTdSdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAwNTAzYzMwLWE1OTItNGVkNC1hZjA5LWU0M2NkYjNjZDUzMw==/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo4IFBNJmhhc2hfdmFsdWU9d2JGRzYrWU9RYUl1c09FWWprUnp4dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQyNDM2ZTRkLWQxMmEtNDJmNS05ODY1LTFkYzc1MTQwYWIzYw==/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -135,7 +135,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxOjM3OjExIEFNJmhhc2hfdmFsdWU9OFhGOFpHYllubjJvS0JMbkNETWIvQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVhMWU1ODc2LTJlNjMtNGUzYi1iYjY3LTg2NWZiM2NhNmJjNA==/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo3IFBNJmhhc2hfdmFsdWU9NFN1MTl0bGIrM1hwOCtIK0xiSUVkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEwNTBiZGIzLWRhNDctNGVlMC04ZDExLTAxY2NjMTFhYWQwZA==/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -305,7 +305,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxOjM3OjEyIEFNJmhhc2hfdmFsdWU9VHFGbm9UbUVPK3l5SW9Va0czQXYrQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZkYmIyZWQ5LTUyM2QtNGZkZi1iOTU5LTZkZDY2YmE5ZDEzMA==/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo4IFBNJmhhc2hfdmFsdWU9bGt6L0wrZmFoYjhINXlQZzlvRHltQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY4OGFjOWE0LTZlMzctNGViMS1hZjY0LTFmZTk4ZDllNTM2ZA==/"
       },
       {
         "name": "Euronews 🇵🇹",
@@ -3887,13 +3887,6 @@
         "url": "https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8"
       },
       {
-        "name": "TV Aracati",
-        "logo": "https://i.postimg.cc/90ZKy7ky/tv_aracati.jpg",
-        "group": "Recomendados",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8"
-      },
-      {
         "name": "TV Astral",
         "logo": "https://i.postimg.cc/6q74Y2BB/astral-tv.jpg",
         "group": "Recomendados",
@@ -4448,7 +4441,7 @@
         "logo": "https://i.imgur.com/jcasAmw.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8"
+        "url": "http://186.219.52.187/cnt/index.m3u8"
       },
       {
         "name": "Rede Familia",
@@ -4633,6 +4626,13 @@
         "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
       },
       {
+        "name": "TV Comunitaria",
+        "logo": "https://i.imgur.com/uxefHY3.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
+      },
+      {
         "name": "TV Cultural [HD]",
         "logo": "https://i.postimg.cc/yNv6z14Q/tv-cultura-hd.jpg",
         "group": "Variedades",
@@ -4673,13 +4673,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
-      },
-      {
-        "name": "TV Guarapari",
-        "logo": "https://i.imgur.com/eDNzwK0.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
       },
       {
         "name": "TV Justica",
@@ -5012,6 +5005,13 @@
     ],
     "Animação": [
       {
+        "name": "NickOnline Bob Esponja",
+        "logo": "https://x1colegal.com/nickonlinebobesponja.png",
+        "group": "Animação",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://bob.x1colegal.com/hls/stream.m3u8"
+      },
+      {
         "name": "TV Loading",
         "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp",
         "group": "Animação",
@@ -5020,13 +5020,6 @@
       }
     ],
     "Notícia": [
-      {
-        "name": "AgroMais",
-        "logo": "https://i.imgur.com/sFcOZeo.png",
-        "group": "Notícia",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://170.83.16.50/AGRO_MAIS/index.m3u8"
-      },
       {
         "name": "Aratu On",
         "logo": "https://i.imgur.com/Ht4jCab.png",
@@ -5371,7 +5364,7 @@
         "logo": "https://i.imgur.com/5XyopHf.png",
         "group": "Educação",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8"
+        "url": "http://186.219.52.187/agro_canal/index.m3u8"
       },
       {
         "name": "Canal Futura",
@@ -5714,7 +5707,7 @@
         "logo": "https://i.imgur.com/w9R9IIX.png",
         "group": "Outdoor",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8"
+        "url": "http://186.219.52.187/canal_rural/index.m3u8"
       },
       {
         "name": "Fish TV",

@@ -817,6 +817,11 @@ Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 
 Group: Animação
+Name: NickOnline Bob Esponja
+URL: https://bob.x1colegal.com/hls/stream.m3u8
+Logo: https://x1colegal.com/nickonlinebobesponja.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Loading
 URL: https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 Logo: https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp
@@ -1531,7 +1536,7 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 
 Group: Educação
 Name: AgroCanal
-URL: http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+URL: http://186.219.52.187/agro_canal/index.m3u8
 Logo: https://i.imgur.com/5XyopHf.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2855,7 +2860,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxOjM3OjEyIEFNJmhhc2hfdmFsdWU9VHFGbm9UbUVPK3l5SW9Va0czQXYrQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZkYmIyZWQ5LTUyM2QtNGZkZi1iOTU5LTZkZDY2YmE5ZDEzMA==/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo4IFBNJmhhc2hfdmFsdWU9bGt6L0wrZmFoYjhINXlQZzlvRHltQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY4OGFjOWE0LTZlMzctNGViMS1hZjY0LTFmZTk4ZDllNTM2ZA==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2911,11 +2916,6 @@ Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 
 Group: Notícia
-Name: AgroMais
-URL: http://170.83.16.50/AGRO_MAIS/index.m3u8
-Logo: https://i.imgur.com/sFcOZeo.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Aratu On
 URL: https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 Logo: https://i.imgur.com/Ht4jCab.png
@@ -3026,7 +3026,7 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 
 Group: Outdoor
 Name: Canal Rural
-URL: http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+URL: http://186.219.52.187/canal_rural/index.m3u8
 Logo: https://i.imgur.com/w9R9IIX.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3123,7 +3123,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxOjM3OjEyIEFNJmhhc2hfdmFsdWU9WUFYZG54S2d1SExZOGgzWWZyTTdSdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAwNTAzYzMwLWE1OTItNGVkNC1hZjA5LWU0M2NkYjNjZDUzMw==/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo4IFBNJmhhc2hfdmFsdWU9d2JGRzYrWU9RYUl1c09FWWprUnp4dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQyNDM2ZTRkLWQxMmEtNDJmNS05ODY1LTFkYzc1MTQwYWIzYw==/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3133,7 +3133,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxOjM3OjExIEFNJmhhc2hfdmFsdWU9OFhGOFpHYllubjJvS0JMbkNETWIvQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVhMWU1ODc2LTJlNjMtNGUzYi1iYjY3LTg2NWZiM2NhNmJjNA==/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo3IFBNJmhhc2hfdmFsdWU9NFN1MTl0bGIrM1hwOCtIK0xiSUVkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEwNTBiZGIzLWRhNDctNGVlMC04ZDExLTAxY2NjMTFhYWQwZA==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3514,11 +3514,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: RS TV
 URL: https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 Logo: https://i.postimg.cc/SNPGQ7jC/rs-tv.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Aracati
-URL: https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8
-Logo: https://i.postimg.cc/90ZKy7ky/tv_aracati.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Astral
@@ -4044,7 +4039,7 @@ Logo: https://i.imgur.com/VcHy0fu.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Rede CNT Rio de Janeiro
-URL: http://170.83.49.66:8083/REDECNTHD/index.m3u8
+URL: http://186.219.52.187/cnt/index.m3u8
 Logo: https://i.imgur.com/jcasAmw.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -4178,6 +4173,11 @@ URL: https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 Logo: https://i.imgur.com/CpXjcyE.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Comunitaria
+URL: https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+Logo: https://i.imgur.com/uxefHY3.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Cultural [HD]
 URL: https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
 Logo: https://i.postimg.cc/yNv6z14Q/tv-cultura-hd.jpg
@@ -4206,11 +4206,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Guara
 URL: https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 Logo: https://i.imgur.com/8PErNBT.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Guarapari
-URL: https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
-Logo: https://i.imgur.com/eDNzwK0.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Justica

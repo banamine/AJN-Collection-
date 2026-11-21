@@ -98,7 +98,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxOjM3OjEyIEFNJmhhc2hfdmFsdWU9WUFYZG54S2d1SExZOGgzWWZyTTdSdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAwNTAzYzMwLWE1OTItNGVkNC1hZjA5LWU0M2NkYjNjZDUzMw==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo4IFBNJmhhc2hfdmFsdWU9d2JGRzYrWU9RYUl1c09FWWprUnp4dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQyNDM2ZTRkLWQxMmEtNDJmNS05ODY1LTFkYzc1MTQwYWIzYw==/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -110,7 +110,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxOjM3OjExIEFNJmhhc2hfdmFsdWU9OFhGOFpHYllubjJvS0JMbkNETWIvQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVhMWU1ODc2LTJlNjMtNGUzYi1iYjY3LTg2NWZiM2NhNmJjNA==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo3IFBNJmhhc2hfdmFsdWU9NFN1MTl0bGIrM1hwOCtIK0xiSUVkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEwNTBiZGIzLWRhNDctNGVlMC04ZDExLTAxY2NjMTFhYWQwZA==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -254,7 +254,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxOjM3OjEyIEFNJmhhc2hfdmFsdWU9VHFGbm9UbUVPK3l5SW9Va0czQXYrQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZkYmIyZWQ5LTUyM2QtNGZkZi1iOTU5LTZkZDY2YmE5ZDEzMA==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo4IFBNJmhhc2hfdmFsdWU9bGt6L0wrZmFoYjhINXlQZzlvRHltQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY4OGFjOWE0LTZlMzctNGViMS1hZjY0LTFmZTk4ZDllNTM2ZA==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -3300,12 +3300,6 @@
     "img": "https://i.postimg.cc/SNPGQ7jC/rs-tv.png"
   },
   {
-    "name": "TV Aracati",
-    "type": "Recomendados",
-    "url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8",
-    "img": "https://i.postimg.cc/90ZKy7ky/tv_aracati.jpg"
-  },
-  {
     "name": "TV Astral",
     "type": "Recomendados",
     "url": "https://isaocorp.cloudecast.com/astraltv/index.m3u8",
@@ -3776,7 +3770,7 @@
   {
     "name": "Rede CNT Rio de Janeiro",
     "type": "Variedades",
-    "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8",
+    "url": "http://186.219.52.187/cnt/index.m3u8",
     "img": "https://i.imgur.com/jcasAmw.png"
   },
   {
@@ -3936,6 +3930,12 @@
     "img": "https://i.imgur.com/CpXjcyE.png"
   },
   {
+    "name": "TV Comunitaria",
+    "type": "Variedades",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=",
+    "img": "https://i.imgur.com/uxefHY3.png"
+  },
+  {
     "name": "TV Cultural [HD]",
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8",
@@ -3970,12 +3970,6 @@
     "type": "Variedades",
     "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
     "img": "https://i.imgur.com/8PErNBT.png"
-  },
-  {
-    "name": "TV Guarapari",
-    "type": "Variedades",
-    "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8",
-    "img": "https://i.imgur.com/eDNzwK0.png"
   },
   {
     "name": "TV Justica",
@@ -4254,16 +4248,16 @@
     "img": "https://i.imgur.com/sqUlcaY.png"
   },
   {
+    "name": "NickOnline Bob Esponja",
+    "type": "Animação",
+    "url": "https://bob.x1colegal.com/hls/stream.m3u8",
+    "img": "https://x1colegal.com/nickonlinebobesponja.png"
+  },
+  {
     "name": "TV Loading",
     "type": "Animação",
     "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
     "img": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp"
-  },
-  {
-    "name": "AgroMais",
-    "type": "Notícia",
-    "url": "http://170.83.16.50/AGRO_MAIS/index.m3u8",
-    "img": "https://i.imgur.com/sFcOZeo.png"
   },
   {
     "name": "Aratu On",
@@ -4550,7 +4544,7 @@
   {
     "name": "AgroCanal",
     "type": "Educação",
-    "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8",
+    "url": "http://186.219.52.187/agro_canal/index.m3u8",
     "img": "https://i.imgur.com/5XyopHf.png"
   },
   {
@@ -4832,7 +4826,7 @@
   {
     "name": "Canal Rural",
     "type": "Outdoor",
-    "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8",
+    "url": "http://186.219.52.187/canal_rural/index.m3u8",
     "img": "https://i.imgur.com/w9R9IIX.png"
   },
   {
