@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21 21:13:23",
+  "date": "2026-11-22 02:46:11",
   "channels": {
     "news": [
       {
@@ -14,7 +14,7 @@
         "logo": "https://picserve.netplus.ch/channels/bfmtv.png",
         "group": "news",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8"
       },
       {
         "name": "France24 HD",
@@ -345,63 +345,63 @@
         "logo": "https://picserve.netplus.ch/channels/tf1hd.png",
         "group": "Generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8"
       },
       {
         "name": "France2 HD",
         "logo": "https://picserve.netplus.ch/channels/france2hd.png",
         "group": "Generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8"
       },
       {
         "name": "M6 CH HD",
         "logo": "https://picserve.netplus.ch/channels/m6hd.png",
         "group": "Generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8"
       },
       {
         "name": "France3 HD",
         "logo": "https://picserve.netplus.ch/channels/france3hd.png",
         "group": "Generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8"
       },
       {
         "name": "TMC HD",
         "logo": "https://picserve.netplus.ch/channels/tmc.png",
         "group": "Generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8"
       },
       {
         "name": "W9 HD",
         "logo": "https://picserve.netplus.ch/channels/w9.png",
         "group": "Generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8"
       },
       {
         "name": "TFX HD",
         "logo": "https://picserve.netplus.ch/channels/nt1.png",
         "group": "Generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8"
       },
       {
         "name": "T18 HD",
         "logo": "https://picserve.netplus.ch/channels/t18.png",
         "group": "Generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8"
       },
       {
         "name": "CSTAR HD",
         "logo": "https://picserve.netplus.ch/channels/d17.png",
         "group": "Generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8"
       },
       {
         "name": "6ter CH HD",
@@ -568,7 +568,7 @@
         "logo": "https://picserve.netplus.ch/channels/france4hd.png",
         "group": "kids",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8"
       },
       {
         "name": "gulli HD",
@@ -612,7 +612,7 @@
         "logo": "https://picserve.netplus.ch/channels/france5hd.png",
         "group": "generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8"
       },
       {
         "name": "carac1 HD",
@@ -622,11 +622,11 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8"
       },
       {
-        "name": "arte F HD",
+        "name": "arte HD",
         "logo": "https://picserve.netplus.ch/channels/artehd.png",
         "group": "generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8"
       },
       {
         "name": "TV5 MONDE FBSM HD",
@@ -1406,7 +1406,7 @@
         "logo": "https://picserve.netplus.ch/channels/lequipe21.png",
         "group": "sport",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8"
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8"
       },
       {
         "name": "sport1 HD",
@@ -2766,6 +2766,13 @@
         "group": "FR generalist",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8"
+      },
+      {
+        "name": "arte F HD",
+        "logo": "https://picserve.netplus.ch/channels/artehd.png",
+        "group": "FR generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8"
       }
     ],
     "auto moto": [
@@ -2809,6 +2816,107 @@
         "group": "religious",
         "source": "https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u",
         "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8"
+      }
+    ],
+    "FR Generalist": [
+      {
+        "name": "TF1 CH HD",
+        "logo": "https://picserve.netplus.ch/channels/tf1hd.png",
+        "group": "FR Generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8"
+      },
+      {
+        "name": "France2 HD",
+        "logo": "https://picserve.netplus.ch/channels/france2hd.png",
+        "group": "FR Generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8"
+      },
+      {
+        "name": "France3 HD",
+        "logo": "https://picserve.netplus.ch/channels/france3hd.png",
+        "group": "FR Generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8"
+      },
+      {
+        "name": "M6 CH HD",
+        "logo": "https://picserve.netplus.ch/channels/m6hd.png",
+        "group": "FR Generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8"
+      },
+      {
+        "name": "TMC HD",
+        "logo": "https://picserve.netplus.ch/channels/tmc.png",
+        "group": "FR Generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8"
+      },
+      {
+        "name": "W9 HD",
+        "logo": "https://picserve.netplus.ch/channels/w9.png",
+        "group": "FR Generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8"
+      },
+      {
+        "name": "TFX HD",
+        "logo": "https://picserve.netplus.ch/channels/nt1.png",
+        "group": "FR Generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8"
+      },
+      {
+        "name": "T18 HD",
+        "logo": "https://picserve.netplus.ch/channels/t18.png",
+        "group": "FR Generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8"
+      },
+      {
+        "name": "CSTAR HD",
+        "logo": "https://picserve.netplus.ch/channels/d17.png",
+        "group": "FR Generalist",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8"
+      }
+    ],
+    "FR Child/music": [
+      {
+        "name": "France4 HD",
+        "logo": "https://picserve.netplus.ch/channels/france4hd.png",
+        "group": "FR Child/music",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8"
+      }
+    ],
+    "FR travel documentary": [
+      {
+        "name": "France5 HD",
+        "logo": "https://picserve.netplus.ch/channels/france5hd.png",
+        "group": "FR travel documentary",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8"
+      }
+    ],
+    "FR sport": [
+      {
+        "name": "La chaine L'EQUIPE",
+        "logo": "https://picserve.netplus.ch/channels/lequipe21.png",
+        "group": "FR sport",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8"
+      }
+    ],
+    "FR news": [
+      {
+        "name": "BFM TV HD",
+        "logo": "https://picserve.netplus.ch/channels/bfmtv.png",
+        "group": "FR news",
+        "source": "https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8"
       }
     ],
     "FR religion": [

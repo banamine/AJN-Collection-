@@ -8,7 +8,7 @@
   {
     "name": "BFM TV HD",
     "type": "news",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/bfmtv.png"
   },
   {
@@ -290,55 +290,55 @@
   {
     "name": "TF1 CH HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/tf1hd.png"
   },
   {
     "name": "France2 HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/france2hd.png"
   },
   {
     "name": "M6 CH HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/m6hd.png"
   },
   {
     "name": "France3 HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/france3hd.png"
   },
   {
     "name": "TMC HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/tmc.png"
   },
   {
     "name": "W9 HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/w9.png"
   },
   {
     "name": "TFX HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/nt1.png"
   },
   {
     "name": "T18 HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/t18.png"
   },
   {
     "name": "CSTAR HD",
     "type": "Generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/d17.png"
   },
   {
@@ -476,7 +476,7 @@
   {
     "name": "France4 HD",
     "type": "kids",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/france4hd.png"
   },
   {
@@ -512,7 +512,7 @@
   {
     "name": "France5 HD",
     "type": "generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/france5hd.png"
   },
   {
@@ -522,9 +522,9 @@
     "img": "https://picserve.netplus.ch/channels/rougetv.png"
   },
   {
-    "name": "arte F HD",
+    "name": "arte HD",
     "type": "generalist",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/artehd.png"
   },
   {
@@ -1184,7 +1184,7 @@
   {
     "name": "La chaine L'EQUIPE",
     "type": "sport",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8",
     "img": "https://picserve.netplus.ch/channels/lequipe21.png"
   },
   {
@@ -2262,6 +2262,12 @@
     "img": "https://w7.pngwing.com/pngs/92/18/png-transparent-logo-europe-tv5monde-brand-trademark-ultra-europe-logo-television-blue-text.png"
   },
   {
+    "name": "arte F HD",
+    "type": "FR generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/artehd.png"
+  },
+  {
     "name": "AUTOMOTO HD",
     "type": "auto moto",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8",
@@ -2290,6 +2296,84 @@
     "type": "religious",
     "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
+  },
+  {
+    "name": "TF1 CH HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/tf1hd.png"
+  },
+  {
+    "name": "France2 HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/france2hd.png"
+  },
+  {
+    "name": "France3 HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/france3hd.png"
+  },
+  {
+    "name": "M6 CH HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/m6hd.png"
+  },
+  {
+    "name": "TMC HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8",
+    "img": "https://picserve.netplus.ch/channels/tmc.png"
+  },
+  {
+    "name": "W9 HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8",
+    "img": "https://picserve.netplus.ch/channels/w9.png"
+  },
+  {
+    "name": "TFX HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8",
+    "img": "https://picserve.netplus.ch/channels/nt1.png"
+  },
+  {
+    "name": "T18 HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8",
+    "img": "https://picserve.netplus.ch/channels/t18.png"
+  },
+  {
+    "name": "CSTAR HD",
+    "type": "FR Generalist",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8",
+    "img": "https://picserve.netplus.ch/channels/d17.png"
+  },
+  {
+    "name": "France4 HD",
+    "type": "FR Child/music",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/france4hd.png"
+  },
+  {
+    "name": "France5 HD",
+    "type": "FR travel documentary",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8",
+    "img": "https://picserve.netplus.ch/channels/france5hd.png"
+  },
+  {
+    "name": "La chaine L'EQUIPE",
+    "type": "FR sport",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8",
+    "img": "https://picserve.netplus.ch/channels/lequipe21.png"
+  },
+  {
+    "name": "BFM TV HD",
+    "type": "FR news",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8",
+    "img": "https://picserve.netplus.ch/channels/bfmtv.png"
   },
   {
     "name": "kto HD",
