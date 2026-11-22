@@ -317,11 +317,6 @@ URL: https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=
 Logo: https://static.epg.best/it/giallo.it.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: TV2000
-URL: https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_1500/chunklist.m3u8
-Logo: https://static-play2000.akamaized.net/live/2026/04/vCxmXXnhSHQDwqV075gRTGP4A7Ywa3ofHUyYfuDH.png
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
 Name: Real Time IT HD
 URL: https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 Logo: https://static.epg.best/it/realtime.it.png
@@ -506,6 +501,8 @@ URL: https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
 Logo: https://picserve.netplus.ch/channels/maxtv.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+
+Group: Religious
 Name: Global Buddhist Network HD
 URL: https://us.gbnus.com/live/dhamma_high/playlist.m3u8
 Logo: https://i.imgur.com/fU0ZhKD.png
@@ -549,11 +546,6 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 Name: ENQUÊTES DE CHOC
 URL: https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-enquetesdechoc-rakuten/CDN/playlist.m3u8
 Logo: https://freebox.cdn.scw.iliad.fr/medium_E02656638_HHSEUK_007310_Flag_A_Overlay_Home_Screen_1_1_Sq_1000x1000px_Template_v02_copie_8aaa923ce1.jpg
-Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: POPCORN
-URL: https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
-Logo: https://freebox.cdn.scw.iliad.fr/large_POPCORN_emission_Logo_Reproduction_8ad41ad83b.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: LE MEILLEUR D'ARTHUR HD
@@ -702,9 +694,9 @@ URL: https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/ma
 Logo: https://picserve.netplus.ch/channels/bblackcaribbean.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: BB BLACK! Classik HD
+Name: ADTV HD
 URL: http://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
-Logo: https://picserve.netplus.ch/channels/bblackclassik.png
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 Name: MDL Monde Du Loisir TV HD
@@ -855,6 +847,11 @@ URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/pitchoun_tv/live.livx/play
 Logo: https://freebox.cdn.scw.iliad.fr/159_f6124b2340_a830044457.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: Rai Yoyo
+URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_yoyo/live.livx/playlist.m3u8
+Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/250px-Rai_Yoyo_-_Logo_2017.svg.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 
 Group: comedy
 Name: COMEDY CENTRAL HD
@@ -874,6 +871,11 @@ URL: https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-HLS8/foodnetwo
 Logo: https://picserve.netplus.ch/channels/foodnetwork.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: 750g TV
+URL: https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/c/c8/750g_logo.png
+Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
 Name: TV5MONDE Chefs HD
 URL: https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -881,7 +883,7 @@ Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/m
 --------------------------------------------------
 
 Group: discover
-Name: Ushuïa TV
+Name: Ushuaïa TV
 URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
 Logo: https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/250px-Ushua%C3%AFa_TV_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
@@ -1973,7 +1975,7 @@ URL: https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest
 Logo: https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1536x277.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
-Name: tvg-id="lilotv.de" tvg-logo="https://www.lilotv.de/wp-content/uploads/2024/01/logo.png" tvg-country="DE" tvg-language="German" group-title="regional", lilo.TV HD
+Name: lilo.TV HD
 URL: https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8
 Logo: https://www.lilotv.de/wp-content/uploads/2024/01/logo.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
