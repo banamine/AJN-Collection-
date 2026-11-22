@@ -337,11 +337,6 @@ URL: https://tvsen5.aynaott.com/banglavision/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bangla_vision.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Bangla+ HD
-URL: https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bangla_plus_hd.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: BHI Channel
 URL: https://server.livelegitpro.in/bhichannel/bhichannel/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bhi_channel.png
@@ -480,16 +475,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: iON TV
 URL: https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ion_tv.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: JA TV
-URL: https://dish.porosh.com.bd/hls/jtvnews.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bangla_tv.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Jalsha Bangla BD
-URL: https://dish.porosh.com.bd/hls/jalshabangla.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/jalsha_bangla_bd.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Jalsha Movies HD
@@ -749,6 +734,11 @@ URL: http://2nd.sm-monirul.top/@sm_iptv_bd/live.php?id=star_news&sm=.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bd_star_news.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: News 21 Bangla
+URL: http://103.190.133.68:1935/news21live/live/chunklist_w870394000.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bd_news_21_bangla.jpg
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: ABP Ananda
 URL: https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/in_abp_ananda.png
@@ -856,6 +846,11 @@ URL: https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: Global TV
+URL: https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: Desh TV
 URL: https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
@@ -863,11 +858,6 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 Name: Ekushe ETV
 URL: https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Global TV
-URL: https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -942,7 +932,7 @@ Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 
 Group: Educational
 Name: Discovery Channel
-URL: http://102.129.186.182:81/discovery/index.m3u8
+URL: http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/discovery_channel.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -1034,11 +1024,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: Nature Time France
 URL: https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/nature_time_france.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Popular Science
-URL: https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/popular_science.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: REAL WILD
@@ -1247,7 +1232,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cgtn_gl
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Choppertown
-URL: https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+URL: https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/choppertown.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4171,7 +4156,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/salaam_
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: SANSAD TV 1
-URL: https://fta.ektv.in/live/718/master.m3u8
+URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sansad_tv_1.webp
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4206,12 +4191,12 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tlc.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Zee Salaam
-URL: https://d2o3r1shda7xvv.cloudfront.net/index_4.m3u8
+URL: https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_salaam.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Zee TV
-URL: http://41.205.93.154/ZEE-TV/index.m3u8
+URL: https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4221,7 +4206,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/alone_b
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Epic Bharat
-URL: https://epiconvh.akamaized.net/live/nazara/master.m3u8
+URL: https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/epic_bharat.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4360,6 +4345,11 @@ URL: https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mov_nh_bollyflix.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: PITAARA MOVIES
+URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mov_pitaara_movies.webp
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: Pocket Films
 URL: https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/6408f97591ee7861ab0d4839eefdbbee/0.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pocket_films.png
@@ -4485,11 +4475,6 @@ URL: https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mu_isai_aruvi.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Joo Music
-URL: https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/joo_music.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Kappa TV
 URL: https://cdn.pishow.tv/ott/live/1123/master.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/kappa_tv.png
@@ -4565,24 +4550,14 @@ URL: https://cdn.pishow.tv/ott/live/1229/master.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sangeet_marathi.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: SSLC Music
-URL: https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
-Logo: http://casomsapi.smartmobiletv.in/uploads/channels/channel_53_1721211529.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Steelbird Music
 URL: https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mu_steelbird_music.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Tunes 6
-URL: https://stream.d6-pro.com/Tunes6music/live/video.m3u8
+URL: https://stream.d6-pro.com/tunes6music/live/video.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mu_tunes_6.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Vision Beast
-URL: http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/vision_beast.webp
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Zingabad
@@ -4631,12 +4606,12 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news_cn
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: CNBC Awaaz
-URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnbc_awaaz.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: CNBC TV18
-URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/master.m3u8
+URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnbc_tv18.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4726,7 +4701,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnews_b
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: CNN News18
-URL: https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+URL: https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnn_international.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4791,7 +4766,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/india_a
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: India Daily 24x7
-URL: https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8
+URL: https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/60d22520-d44d-48a5-b1f1-75d2742ad209/index.m3u8?ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=IndiaDaily24X7&ads.language=HIN&ads.user=0
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/india_daily_live.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4850,11 +4825,6 @@ URL: https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mh_one_prime.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: MKN News
-URL: https://5dd3981940faa.streamlock.net/mknnews/mknnews/playlist.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mkn_news.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: MNS News
 URL: https://account23.livebox.co.in/Mnsnewshls/live.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mns_news.png
@@ -4866,7 +4836,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ndtv_24
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: NDTV English
-URL: https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+URL: https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/afrolandtv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -4921,7 +4891,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news_ne
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: News9Live
-URL: https://mumbai-edge.smartplaytv.in/News9/index.m3u8
+URL: https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news9live.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5051,7 +5021,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mov_pit
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Pitaara Comedy
-URL: https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
+URL: https://pitaara-lg.vgcdn.net/v1/vglive-sk-217489/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pitaara_comedy.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5083,11 +5053,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: GTC Punjabi UK
 URL: https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/gtc_punjabi_uk.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Pardesi TV
-URL: http://stream.pardesitv.online/pardesi/index.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ent_pardesi_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: PTC PUNJABI
@@ -5405,7 +5370,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bondi_v
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Brat TV
-URL: https://brat-samsung-us.amagi.tv/playlist.m3u8
+URL: https://d14l10e3k15i6k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8qhn23nsa9o2l/Brat_TV.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/en_brat_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5474,8 +5439,13 @@ URL: https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/get_factual.jpg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: GREAT! Christmas
+URL: https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/great_christmas.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: Hagerty
-URL: https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0etl87ne2tj77/Hagerty.m3u8
+URL: https://aegis-cloudfront-1.tubi.video/1d7878db-0fc9-45fc-afb4-1355e66738ac/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hagerty.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5525,7 +5495,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/kawanua
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Life Downunder
-URL: https://wtfn-lifedownunder-1-au.samsung.wurl.tv/playlist.m3u8
+URL: https://wtfn-lifedownunder-1-nz.samsung.wurl.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/life_downunder.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5595,7 +5565,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/outdoor
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: OuterSphere
-URL: https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+URL: https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/outersphere.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5610,7 +5580,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/positiv
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: PowerNation TV
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6275-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=534f5abf-183b-4b07-88d8-ba60af3de510&profilesFromStream=true
+URL: https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991291
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/powernation_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5695,7 +5665,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/unchain
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Unidentified
-URL: https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8
+URL: https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/unidentified.jpg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5777,7 +5747,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/france_
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: DW News
-URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+URL: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dw_news.jpg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5802,7 +5772,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/msnbc_n
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Fox News
-URL: http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+URL: https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fox_news.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5842,7 +5812,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fox_bus
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Bloomberg Originals
-URL: https://bloomberg.com/media-manifest/streams/qt.m3u8
+URL: https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bloomberg_originals.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5857,7 +5827,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/wion.pn
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Arirang
-URL: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+URL: https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/arirang.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5921,19 +5891,9 @@ URL: https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/telesur_english.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: News24 World
-URL: https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news24_world.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: News24 Now
 URL: https://i.mjh.nz/.r/sky-news-now.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news24_world.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Lead Story
-URL: https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/ts-eu-w1-n2/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/lead_story.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: NewsX World
@@ -5976,11 +5936,6 @@ URL: https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/connecting_america.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: EAC News TV
-URL: https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/eac_news_tv.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: YAHOO NEWS
 URL: https://yahoo-samsung.amagi.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/yahoo_news.png
@@ -6001,18 +5956,13 @@ URL: https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/weathernation.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: News24 Weather
-URL: https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news24_weather.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Scripps News
 URL: https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/scripps_news.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Newsmax TV
-URL: https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+URL: https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/newsmax_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -6305,6 +6255,11 @@ URL: https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pbs_kids.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: MeTV Toons
+URL: https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/metv_toons.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: POP
 URL: https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/2_pop.png
@@ -6361,7 +6316,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/all_bab
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Baby Shark TV (Pinkfong)
-URL: https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+URL: https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/baby_shark_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -6391,7 +6346,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/disney_
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: ducktv
-URL: https://dash3.antik.sk/live/duck_tv/index.m3u8
+URL: https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/1_duck_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -6491,7 +6446,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/1_tooku
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Toon Goggles Junior
-URL: https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8
+URL: https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_toon_goggles_junior.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -6641,7 +6596,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/teennic
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: The LEGO Channel
-URL: https://dltiqboxjw21d.cloudfront.net/index.m3u8
+URL: https://dh18i7whff86v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/the_lego_channel.svg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -6741,7 +6696,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/the_pet
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: The Pet Collective International
-URL: https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
+URL: https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/the_pet_collective_international.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -6791,7 +6746,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cartoon
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Cartoon Network Latin America
-URL: http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
+URL: http://45.228.234.30:16000/play/a00f/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cartoon_network.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -6806,7 +6761,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cula4_Purple_202
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Discovery Kids Brazil
-URL: http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+URL: http://45.228.234.30:16000/play/a01s/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/discovery_kids_brazil.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -7065,33 +7020,28 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 
 Group: Live Event
 Name: India A vs Pakistan Shaheens - 22 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-URL: https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795384925~acl=/*~id=65612509238218936105721553315154~hmac=c990048fdd1092a694a9106de7728d70716d5676f1911000464e0778e45e5243
+URL: https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: India A vs Pakistan Shaheens - 22 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
-URL: https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795384925~acl=/*~id=65612509238218936105721553315154~hmac=c990048fdd1092a694a9106de7728d70716d5676f1911000464e0778e45e5243
+URL: https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: India A vs Pakistan Shaheens - 22 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
-URL: https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795384925~acl=/*~id=65612509238218936105721553315154~hmac=c990048fdd1092a694a9106de7728d70716d5676f1911000464e0778e45e5243
+URL: https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: India A vs Pakistan Shaheens - 22 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
-URL: https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795384925~acl=/*~id=65612509238218936105721553315154~hmac=c990048fdd1092a694a9106de7728d70716d5676f1911000464e0778e45e5243
+URL: https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: India A vs Pakistan Shaheens - 22 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
-URL: https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795384925~acl=/*~id=65612509238218936105721553315154~hmac=c990048fdd1092a694a9106de7728d70716d5676f1911000464e0778e45e5243
+URL: https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5
 Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: UAE vs Nepal - 22 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-URL: https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795384925~acl=/*~id=65612509238218936105721553315154~hmac=c990048fdd1092a694a9106de7728d70716d5676f1911000464e0778e45e5243
-Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 
@@ -7157,7 +7107,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/movies.
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Sony Movies
-URL: https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+URL: https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_movies.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -7211,11 +7161,6 @@ URL: https://fxtvhls.wns.live/hls/stream.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fx_1_movies.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: HBO+ Latin America
-URL: http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hbo_latin_america.svg
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Hollywood HD
 URL: http://iptv.prosto.tv:7000/ch50/video.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hollywood_hd.jpg
@@ -7242,7 +7187,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/action_
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Best Thriller TV
-URL: https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+URL: https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/best_thriller_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -7432,7 +7377,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/movies.
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: YTA TV
-URL: https://yta.unitedteleports.tv/hls/YTA.m3u8
+URL: https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16767
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/yta_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -7457,7 +7402,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/moviesp
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Gravitas Movies
-URL: https://d6dg3ebeih71x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jx9exbvh3yi8u/Gravitas_Movies.m3u8
+URL: https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/gravitas_movies.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -7517,7 +7462,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bonches
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Ajyal TV
-URL: http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+URL: http://htvmada.mada.ps:8888/ajyal/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ajyal_tv.jpg
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -7748,16 +7693,6 @@ URL: http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pamir_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Play TV
-URL: http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/play_tv.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: RADIO CLUB DJ TV
-URL: https://radioclubdj.pro/stream/tv.m3u8
-Logo: https://radioclubdj.pro/studio/logo.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: RCTV
 URL: https://v10.siar.us/rctv/live/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rctv.png
@@ -7768,8 +7703,13 @@ URL: https://rjtvhls.wns.live/hls/stream.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rjtv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: SCTV11
+URL: https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sctv11.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
 Name: Stryk TV
-URL: https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+URL: https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/stryk_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -8309,8 +8249,13 @@ Logo: https://i.imgur.com/Pg7K7eV.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Музыка 1 International
-URL: https://kino-1.catcast.tv/content/37742/index.m3u8
+URL: https://kino-1.catcast.tv/content/37745/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/1_international.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Музыка Кино International
+URL: https://kino-1.catcast.tv/content/37739/index.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/international.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Нижний Новгород 24
@@ -8331,11 +8276,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: Первый Музыкальный Канал Россия HD
 URL: http://rtmp.one.by:2300
 Logo: https://i.imgur.com/rEo7nR1.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Сити Эдем Play Христианский Музыкальный
-URL: https://cityeden.catcast.tv/content/34100/index.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/play.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Сити Эдем Бирма Play
@@ -8531,6 +8471,11 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: Radio Iglesias
 URL: http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/radio_iglesias.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Radio JND
+URL: https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/radio_jnd.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Radio Karolina TV
@@ -9163,7 +9108,7 @@ Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 
 Group: Pakistan
 Name: Hum TV
-URL: https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
+URL: https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hum_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -9203,7 +9148,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bstv.pn
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Tag TV
-URL: http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby%3Aiptvcat.com=
+URL: http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tag_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -9392,7 +9337,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/azan_tv
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: ARY QTV
-URL: https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_720p.m3u8
+URL: https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8?isSubM3u8=1
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ary_qtv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -9454,11 +9399,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: Takbeer TV UK
 URL: https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/takbeer_tv_uk.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Zainabia Channel
-URL: https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zainabia_channel.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Makkah Live
@@ -9589,6 +9529,11 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: IBN TV Africa
 URL: http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ibn_tv_africa.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Iqraa TV Arabic
+URL: https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/iqraa_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Mercy TV
@@ -9795,42 +9740,42 @@ URL: https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 Logo: https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports (1080p) (1) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2)
+Name: T Sports (1080p) (1) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2)
 URL: https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3)
+Name: T Sports (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3)
 URL: https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports HD (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4)
+Name: T Sports HD (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4)
 URL: http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports HD (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5)
+Name: T Sports HD (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5) (5)
 URL: http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports 7 (6) (6) (6) (6) (6) (6) (6) (6) (6) (6) (6) (6) (6)
+Name: T Sports 7 (6) (6) (6) (6) (6) (6) (6) (6) (6) (6) (6) (6) (6) (6)
 URL: https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports HD (7) (7) (7) (7) (7) (7) (7) (7) (7) (7) (7)
+Name: T Sports HD (7) (7) (7) (7) (7) (7) (7) (7) (7) (7) (7) (7)
 URL: https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports HD (8) (8) (8) (8) (8) (8) (8) (8) (8)
+Name: T Sports HD (8) (8) (8) (8) (8) (8) (8) (8) (8) (8)
 URL: https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8#skym3u.dev
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports HD (9) (9) (9) (9) (9) (9)
+Name: T Sports HD (9) (9) (9) (9) (9) (9) (9)
 URL: http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
@@ -10005,18 +9950,13 @@ URL: https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/am
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Trace Sport
-URL: https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+Name: Willow Extra
+URL: http://27.124.71.27/Willow_Extra/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Horse & Country
 URL: https://hncfree-samsungau.amagi.tv/playlist.m3u8
-Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Willow Extra
-URL: http://27.124.71.27/Willow_Extra/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10027,6 +9967,11 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 Name: Cricket Gold
 URL: https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Trace Sport
+URL: https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10140,11 +10085,6 @@ URL: http://85.117.61.84/setanta2/index.m3u8
 Logo: https://i.imgur.com/ZtoZQUV.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: SKY SPORTS 4K
-URL: https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/581307.ts
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sky_sports_1.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Ten 1
 URL: https://tvsen7.aynaott.com/tsn1/tracks-v1a1/mono.ts.m3u8
 Logo: https://i.imgur.com/cJdy5DJ.jpg
@@ -10236,7 +10176,7 @@ Logo: https://imglink.cc/cdn/d4W6mvjalX.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Real Madrid TV
-URL: http://90.163.85.113:8093/stream/26/index.m3u8
+URL: https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/real_madrid_tv.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10340,11 +10280,6 @@ URL: https://fighthls.persiana.live/hls/stream.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/persiana_fight.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: FloRacing
-URL: https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/racing_floracing.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Nascar
 URL: https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/nascar.png
@@ -10401,7 +10336,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/nfl_net
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: NHL Network
-URL: https://nhl-firetv.amagi.tv/playlist.m3u8
+URL: https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/nhl_network.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10480,18 +10415,13 @@ URL: https://e8d2c508ef1e469db82ceacd3c2685bc.mediatailor.us-west-2.amazonaws.co
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/poker_poker_night_in_america.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Sports Fishing
-URL: https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_sports_fishing.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Strongman
 URL: https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/strongman.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Strongman Champions League
-URL: https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
+URL: https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_strongman_champions_league.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10543,11 +10473,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: AntenaPlay Events
 URL: https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/antenaplay_events.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: AntenaSport
-URL: https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/antenasport.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Arena4
@@ -10636,7 +10561,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn.pn
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: ESPN 2
-URL: http://200.10.30.241:8000/play/a01r/index.m3u8
+URL: http://191.97.49.82:8001/play/a00m/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_2.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10651,12 +10576,12 @@ Logo: https://i.postimg.cc/y8DMj3Cm/espn3.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: ESPN 4 (Brazil)
-URL: http://45.228.234.30:16000/play/a03i/index.m3u8
+URL: http://181.78.49.113:9999/play/a07e/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_4.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: ESPN 5
-URL: http://38.226.49.253:8000/play/a078/index.m3u8
+URL: http://181.78.49.113:9999/play/a07f/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_5.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10681,7 +10606,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_ar
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: ESPN CO
-URL: http://181.78.8.199:8000/play/a0b1/index.m3u8
+URL: http://181.205.130.194:4000/play/a08n
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_co.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10746,7 +10671,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/euro_sp
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Eurosport 1
-URL: http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+URL: http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/euro_sport_1.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -10788,11 +10713,6 @@ Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3
 Name: Fox Sports 2
 URL: https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp%3Bu=78be6644-0a65-48ec-81a4-089ac65a2619&amp%3Btoken=cbb7f40b4af7be51a91e0629a5ac7238
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fox_sports_2.png
-Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Fox Sports News
-URL: https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
-Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fox_sports_news.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: FrankenPlus
@@ -10866,7 +10786,7 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/liga.pn
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: M Sports
-URL: https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
+URL: https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/m_sports.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -11016,13 +10936,18 @@ Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sport_2
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Sport 2 (Ukraine)
-URL: http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
+URL: http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sport_2.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Sports Grid
 URL: https://tvsen6.aynaott.com/SportsGrid/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_sportsgrid.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Sports Television
+URL: https://live.koryocdn.org/sports/index.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sports_television.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Swerve Sports
@@ -11145,6 +11070,11 @@ Group: Travel
 Name: Travel Channel
 URL: https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
 Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/travel_channel.png
+Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Travelxp
+URL: https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+Logo: https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/travelxp.png
 Source: https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: Travel XP Europe
@@ -12105,13 +12035,13 @@ URL: https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: NTV (720p)
-URL: https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+Name: Maasranga TV (720p)
+URL: https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Maasranga TV (720p)
-URL: https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+Name: RTV (720p)
+URL: https://tvsen5.aynaott.com/RtvHD/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -12120,8 +12050,8 @@ URL: https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: RTV (720p)
-URL: https://tvsen5.aynaott.com/RtvHD/index.m3u8
+Name: NTV (720p)
+URL: https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 Logo: https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -12223,14 +12153,14 @@ URL: https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 Logo: https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/5dfa7671-cacb-43ee-8977-f4b4ebf32bda.png",[BD] EPL channel 1
+Name: w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/de671734-b52d-4e46-bd73-fb83ffa195dd.png",[BD] EPL channel 1
 URL: https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
-Logo: https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/5dfa7671-cacb-43ee-8977-f4b4ebf32bda.png
+Logo: https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/de671734-b52d-4e46-bd73-fb83ffa195dd.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: w_300,q_85/Mi1QqZgBNnOkwJLWxggo/posters/db468a6a-e317-4d03-b622-a838eb1d161a.png",[BD] EPL channel 2
+Name: w_300,q_85/Mi1QqZgBNnOkwJLWxggo/posters/f4ced165-2ed0-4c3d-aafd-ced9e3a782aa.png",[BD] EPL channel 2
 URL: https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
-Logo: https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Mi1QqZgBNnOkwJLWxggo/posters/db468a6a-e317-4d03-b622-a838eb1d161a.png
+Logo: https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Mi1QqZgBNnOkwJLWxggo/posters/f4ced165-2ed0-4c3d-aafd-ced9e3a782aa.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 Name: w_300,q_85/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",[BD] Sony Ten Sports 1 HD
