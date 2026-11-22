@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22 21:13:32",
+  "date": "2026-11-23 02:50:31",
   "channels": {
     "Uncategorized": [
       {
@@ -3713,7 +3713,7 @@
         "url": "https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4"
       },
       {
-        "name": "2026-11-22 16:09:39",
+        "name": "2026-11-23 00:09:11",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
@@ -3732,6 +3732,20 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8"
+      },
+      {
+        "name": "CCTV5+",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0"
+      },
+      {
+        "name": "CCTV8",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0"
       },
       {
         "name": "CGTN",
@@ -3774,6 +3788,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://0472.org/hls/cgtna.m3u8"
+      },
+      {
+        "name": "CHC电影",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0"
       },
       {
         "name": "七台河新闻综合",
@@ -3920,14 +3941,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8"
       },
       {
         "name": "云和新闻综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed"
       },
       {
         "name": "云霄综合",
@@ -4067,14 +4088,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed"
       },
       {
         "name": "余杭综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8"
       },
       {
         "name": "倚天屠龙记",
@@ -4301,13 +4322,6 @@
         "url": "http://stream.hrbtv.net/zxpd/sd/live.m3u8"
       },
       {
-        "name": "哈尔滨都市咨询",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild"
-      },
-      {
         "name": "嘉兴新闻综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -4355,6 +4369,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://live.metshop.top/huya/23865161"
+      },
+      {
+        "name": "天津卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0"
       },
       {
         "name": "天祝综合",
@@ -4418,6 +4439,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8"
+      },
+      {
+        "name": "安徽导视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8"
       },
       {
         "name": "定襄综合",
@@ -4523,6 +4551,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd"
+      },
+      {
+        "name": "广东卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0"
       },
       {
         "name": "广东卫视",
@@ -4641,14 +4676,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#"
+        "url": "https://srs.iyb983.cn/video/CYS/index.m3u8"
       },
       {
         "name": "延边卫视",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://srs.iyb983.cn/video/CYS/index.m3u8"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#"
       },
       {
         "name": "延边卫视",
@@ -4662,7 +4697,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8"
       },
       {
         "name": "开化国家公园",
@@ -4676,14 +4711,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8"
       },
       {
         "name": "开化国家公园",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed"
       },
       {
         "name": "开化新闻综合",
@@ -4795,14 +4830,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed"
       },
       {
         "name": "文成综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?"
       },
       {
         "name": "新昌生活",
@@ -4837,6 +4872,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend"
+      },
+      {
+        "name": "新野综合",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8"
       },
       {
@@ -4845,13 +4887,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?"
-      },
-      {
-        "name": "新野综合",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend"
       },
       {
         "name": "新闻综合",
@@ -4900,14 +4935,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8"
+        "url": "https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8"
       },
       {
         "name": "普陀电视台",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8"
       },
       {
         "name": "朝天综合",
@@ -5015,13 +5050,6 @@
         "url": "https://live.metshop.top/huya/11342427"
       },
       {
-        "name": "武进生活",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://live.wjyanghu.com/live/CH2.m3u8"
-      },
-      {
         "name": "永嘉新闻综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5082,6 +5110,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd"
+      },
+      {
+        "name": "汶川新闻综合",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://live.iwcmt.cn:90/live/zhxw.m3u8"
       },
       {
@@ -5089,14 +5124,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd"
-      },
-      {
-        "name": "汾西综合",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd"
+        "url": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01"
       },
       {
         "name": "沈腾电影",
@@ -5104,6 +5132,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://live.metshop.top/huya/11601968"
+      },
+      {
+        "name": "沐川综合",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd"
       },
       {
         "name": "河北农民",
@@ -5131,7 +5166,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8"
+        "url": "https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8"
       },
       {
         "name": "泸县新闻综合",
@@ -5139,6 +5174,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd"
+      },
+      {
+        "name": "泸县新闻综合",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8"
       },
       {
         "name": "洗冤录",
@@ -5222,14 +5264,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8"
+        "url": "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8"
       },
       {
         "name": "浙江卫视",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8"
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8"
       },
       {
         "name": "浙江国际",
@@ -5250,14 +5292,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8"
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8"
       },
       {
         "name": "浙江国际",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8"
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8"
       },
       {
         "name": "浙江少儿",
@@ -5271,14 +5313,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8"
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?"
       },
       {
         "name": "浙江少儿",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?"
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8"
       },
       {
         "name": "浙江少儿",
@@ -5320,14 +5362,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed"
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8"
       },
       {
         "name": "浙江数码时代",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8"
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed"
       },
       {
         "name": "浙江新闻",
@@ -5341,14 +5383,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8"
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8"
       },
       {
         "name": "浙江新闻",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8"
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8"
       },
       {
         "name": "浙江新闻",
@@ -5362,14 +5404,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8"
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
       },
       {
         "name": "浙江民生",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?"
       },
       {
         "name": "浙江民生",
@@ -5383,7 +5425,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?"
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8"
       },
       {
         "name": "浙江民生休闲",
@@ -5404,7 +5446,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?"
       },
       {
         "name": "浙江经济",
@@ -5418,7 +5460,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?"
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
       },
       {
         "name": "浙江经济生活",
@@ -5432,14 +5474,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8"
+        "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
       },
       {
         "name": "浙江经济生活",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+        "url": "http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8"
       },
       {
         "name": "浙江经视",
@@ -5547,6 +5589,13 @@
         "url": "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865"
       },
       {
+        "name": "滦平新闻",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8"
+      },
+      {
         "name": "狄仁杰电影",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5629,6 +5678,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://live.metshop.top/huya/21059578?cdn=alicdn"
+      },
+      {
+        "name": "电影八点档",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://live.metshop.top/huya/880261?cdn=alicdn"
       },
       {
         "name": "电影刘德华",
@@ -5894,6 +5950,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691"
+      },
+      {
+        "name": "荆门新闻综合",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://stream.jmtv.com.cn/xwzh/sd/live.m3u8"
       },
       {
@@ -5908,13 +5971,6 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend"
-      },
-      {
-        "name": "荥阳综合",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8"
       },
       {
@@ -5923,6 +5979,20 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569"
+      },
+      {
+        "name": "荥阳综合",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend"
+      },
+      {
+        "name": "营山电视台",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8"
       },
       {
         "name": "萧山新闻综合",
@@ -5974,13 +6044,6 @@
         "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd"
       },
       {
-        "name": "西安新闻",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://112.46.105.20:8009/hls/28/index.m3u8"
-      },
-      {
         "name": "西峰综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5993,13 +6056,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://live.metshop.top/huya/29465859"
-      },
-      {
-        "name": "西藏卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0"
       },
       {
         "name": "诸暨新闻综合",
@@ -6086,6 +6142,13 @@
         "url": "https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8"
       },
       {
+        "name": "邢台综合",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8"
+      },
+      {
         "name": "邯郸公共频道",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6170,13 +6233,6 @@
         "url": "http://cm-wshls.homecdn.com/live/2aa50.m3u8"
       },
       {
-        "name": "长子综合",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd"
-      },
-      {
         "name": "长白山电视台",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6196,6 +6252,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://live.metshop.top/huya/29465857"
+      },
+      {
+        "name": "陕西都市青春",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://112.46.105.20:8009/hls/19/index.m3u8"
       },
       {
         "name": "雅安新闻综合",
@@ -6265,14 +6328,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8"
+        "url": "http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed"
       },
       {
         "name": "龙游新闻综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed"
+        "url": "https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8"
       },
       {
         "name": "龙游生活娱乐",
@@ -12142,6 +12205,20 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8"
+      },
+      {
+        "name": "汾西综合",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd"
+      },
+      {
+        "name": "长子综合",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd"
       },
       {
         "name": "赣州新闻",
