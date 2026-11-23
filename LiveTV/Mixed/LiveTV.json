@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23 11:04:39",
+  "date": "2026-11-24 01:17:04",
   "channels": {
     "Uncategorized": [
       {
@@ -365,10 +365,10 @@
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%201.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://iptv12k.com:35461/live/ahlkz1175/111111/20627.ts"
+        "url": "http://iptv12k.com:35461/live/ahlkz1175/111111/20630.ts"
       },
       {
-        "name": "ASTRO ARENA BOLA",
+        "name": "ASTRO ARENA BOLA 2",
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%202.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
@@ -789,7 +789,7 @@
         "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Ria.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://iptv12k.com:35461/live/ahlkz1175/111111/34133.ts."
+        "url": "http://iptv12k.com:35461/live/ahlkz1175/111111/34633.ts."
       },
       {
         "name": "ASTRO CERIA",
@@ -2379,6 +2379,13 @@
         "group": "INDONESIA🇮🇩",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
+      },
+      {
+        "name": "TRANS 7",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TRANS%207.png",
+        "group": "INDONESIA🇮🇩",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "http://iptv12k.com:35461/live/ahlkz1175/111111/34148.ts"
       },
       {
         "name": "TRANS 7",

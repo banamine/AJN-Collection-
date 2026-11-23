@@ -1333,6 +1333,11 @@ Logo: https://www.theindonesiachannel.world/logotic.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: TRANS 7
+URL: http://iptv12k.com:35461/live/ahlkz1175/111111/34148.ts
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TRANS%207.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
+Name: TRANS 7
 URL: http://iptv12k.com:35461/live/ahlkz1175/111111/34147.ts
 Logo: https://raw.githubusercontent.com/PuteraPerlis74/INDONESIA-LOGO/refs/heads/main/TRANS%207.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
@@ -2840,7 +2845,7 @@ Logo: https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/he
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO RIA
-URL: http://iptv12k.com:35461/live/ahlkz1175/111111/34133.ts.
+URL: http://iptv12k.com:35461/live/ahlkz1175/111111/34633.ts.
 Logo: https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Astro%20Ria.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
@@ -8320,11 +8325,11 @@ Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/mai
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO ARENA BOLA
-URL: http://iptv12k.com:35461/live/ahlkz1175/111111/20627.ts
+URL: http://iptv12k.com:35461/live/ahlkz1175/111111/20630.ts
 Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%201.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
-Name: ASTRO ARENA BOLA
+Name: ASTRO ARENA BOLA 2
 URL: http://iptv12k.com:35461/live/ahlkz1175/111111/20628.ts
 Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%202.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
