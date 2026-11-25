@@ -1,386 +1,21 @@
 {
-  "date": "2026-11-25 11:39:20",
+  "date": "2026-11-25 23:48:02",
   "channels": {
-    "Religious": [
-      {
-        "name": "3ABN Canada (720p)",
-        "logo": "https://i.imgur.com/U99CsEc.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
-      },
-      {
-        "name": "IIPC TV (720p)",
-        "logo": "https://i.imgur.com/mIih39Y.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8"
-      },
-      {
-        "name": "Radio Tele Evangile Sans Limite (1080p)",
-        "logo": "https://i.imgur.com/CL32kFA.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
-      },
-      {
-        "name": "GurSikh Sabha TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/2EKCtQm.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8"
-      },
-      {
-        "name": "EWTN (United States) Canada (720p)",
-        "logo": "https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
-      },
-      {
-        "name": "SVBC 2 (1080p)",
-        "logo": "https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8"
-      },
-      {
-        "name": "BTL TV (Netherlands) (1080p)",
-        "logo": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8"
-      },
-      {
-        "name": "ICnet 1",
-        "logo": "https://i.imgur.com/aeS4Sjv.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://icnet1hls.wns.live/hls/stream.m3u8"
-      },
-      {
-        "name": "Quo Vadis TV (720p)",
-        "logo": "https://i.imgur.com/pEqDDHl.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8"
-      },
-      {
-        "name": "Erfan Halgheh TV (720p)",
-        "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8"
-      },
-      {
-        "name": "Amazing Discoveries TV (720p)",
-        "logo": "https://i.imgur.com/I0oPFTj.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
-      },
-      {
-        "name": "Azan TV",
-        "logo": "https://i.imgur.com/JlqS6I4.jpeg",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
-      },
-      {
-        "name": "SVBC 4 (1080p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
-      },
-      {
-        "name": "SVBC (1080p)",
-        "logo": "https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8"
-      },
-      {
-        "name": "SVBC 3 (720p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SVBC3.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8"
-      }
-    ],
-    "General": [
-      {
-        "name": "Az Star TV (1080p)",
-        "logo": "https://i.imgur.com/di3XX5L.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8"
-      },
-      {
-        "name": "NACTV",
-        "logo": "https://i.imgur.com/FzM95rH.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
-      },
-      {
-        "name": "DesheBideshe TV",
-        "logo": "https://i.imgur.com/Ek1Ohj6.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
-      },
-      {
-        "name": "Gaunda Punjab TV (720p)",
-        "logo": "https://i.imgur.com/ArRZRM3.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8"
-      },
-      {
-        "name": "GTN Canada (1080i) [Geo-blocked]",
-        "logo": "https://i.imgur.com/7bQPJOd.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8"
-      },
-      {
-        "name": "NTV (Canada) CJON-DT (480p)",
-        "logo": "https://i.imgur.com/KQtQg5y.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
-      },
-      {
-        "name": "PBC Tapesh TV (720p)",
-        "logo": "https://i.imgur.com/50JzsmH.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
-      },
-      {
-        "name": "Deshi TV (720p)",
-        "logo": "https://i.imgur.com/PzqzgMm.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
-      },
-      {
-        "name": "Sohail TV (1080p)",
-        "logo": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
-      },
-      {
-        "name": "NTD TV Canada West",
-        "logo": "https://i.imgur.com/iyFXcDy.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://live.ntdtv.com/cwlive220/playlist.m3u8"
-      },
-      {
-        "name": "NTD TV Canada",
-        "logo": "https://i.imgur.com/iyFXcDy.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://live.ntdtv.com/mllive860/playlist.m3u8"
-      },
-      {
-        "name": "Ayaz TV",
-        "logo": "https://www.ayaztv.com/storage/assets/site_logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8"
-      }
-    ],
-    "Movies": [
-      {
-        "name": "MovieSphere CA",
-        "logo": "https://i.imgur.com/h1ejU90.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8"
-      },
-      {
-        "name": "Pluto TV Action Movies",
-        "logo": "https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8"
-      },
-      {
-        "name": "Pluto TV Westerns CA",
-        "logo": "https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8"
-      },
-      {
-        "name": "Pluto TV Drama Movies",
-        "logo": "https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8"
-      },
-      {
-        "name": "Pluto TV Crime Drama CA",
-        "logo": "https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8"
-      }
-    ],
-    "Series": [
-      {
-        "name": "The Judge Judy Channel CA",
-        "logo": "https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8"
-      },
-      {
-        "name": "Matlock CA",
-        "logo": "https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8"
-      },
-      {
-        "name": "Nash Bridges (720p)",
-        "logo": "https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8"
-      },
-      {
-        "name": "Pluto TV FBI",
-        "logo": "https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8"
-      },
-      {
-        "name": "Perry Mason CA",
-        "logo": "https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8"
-      },
-      {
-        "name": "Mission Impossible CA",
-        "logo": "https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8"
-      },
-      {
-        "name": "Three's Company CA (720p)",
-        "logo": "https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8"
-      },
-      {
-        "name": "The New Detectives CA",
-        "logo": "https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8"
-      },
-      {
-        "name": "The Challenge CA",
-        "logo": "https://images.pluto.tv/channels/64f8a22a3efb510008245df0/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8"
-      },
-      {
-        "name": "HauntTV CA (720p)",
-        "logo": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8"
-      },
-      {
-        "name": "Cheers",
-        "logo": "https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8"
-      },
-      {
-        "name": "48 Hours CA",
-        "logo": "https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8"
-      },
-      {
-        "name": "Bar Rescue CA",
-        "logo": "https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8"
-      },
-      {
-        "name": "MTV Dating CA",
-        "logo": "https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8"
-      },
-      {
-        "name": "JAG",
-        "logo": "https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8"
-      },
-      {
-        "name": "Doc Martin",
-        "logo": "https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8"
-      },
-      {
-        "name": "Happy Days CA",
-        "logo": "https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8"
-      },
-      {
-        "name": "Frasier",
-        "logo": "https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8"
-      },
-      {
-        "name": "NCIS: Los Angeles",
-        "logo": "https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8"
-      },
-      {
-        "name": "Nashville CA",
-        "logo": "https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8"
-      },
-      {
-        "name": "NCIS CA",
-        "logo": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8"
-      }
-    ],
     "Entertainment": [
+      {
+        "name": "MTV Catfish",
+        "logo": "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8"
+      },
+      {
+        "name": "MTV Ridiculousness CA",
+        "logo": "https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8"
+      },
       {
         "name": "Pluto TV Reality CA",
         "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
@@ -394,55 +29,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
-      },
-      {
-        "name": "The Graham Norton Show (1080p)",
-        "logo": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "MHZ (720p)",
-        "logo": "https://i.imgur.com/a5fw83n.jpg",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Star Channel International (720p)",
-        "logo": "https://i.imgur.com/6NUpxhr.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246\" group-title=\"Entertainment\",A&E (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cache0.wonvt.st/live/0c4r73315dt0we0fitn3j/master.m3u8"
-      },
-      {
-        "name": "Bondi Rescue (720p)",
-        "logo": "https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-66166989635c7500084105a2.m3u8"
-      },
-      {
-        "name": "MTV Ridiculousness CA",
-        "logo": "https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8"
-      },
-      {
-        "name": "MTV Catfish",
-        "logo": "https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8"
       },
       {
         "name": "MTV Jersey Shore",
@@ -466,6 +52,20 @@
         "url": "https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8"
       },
       {
+        "name": "Bondi Rescue (720p)",
+        "logo": "https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-66166989635c7500084105a2.m3u8"
+      },
+      {
+        "name": "MHZ (720p)",
+        "logo": "https://i.imgur.com/a5fw83n.jpg",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
         "name": "Best of The Drew Barrymore Show",
         "logo": "https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png",
         "group": "Entertainment",
@@ -478,22 +78,134 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8"
-      }
-    ],
-    "Lifestyle": [
-      {
-        "name": "Autentic Travel (1080p)",
-        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8"
       },
       {
-        "name": "PBS Travel (1080p)",
-        "logo": "https://i.imgur.com/A6GXhta.png",
-        "group": "Lifestyle",
+        "name": "The Graham Norton Show (1080p)",
+        "logo": "https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png",
+        "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8"
+        "url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246\" group-title=\"Entertainment\",A&E (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cache0.wonvt.st/live/0c4r73315dt0we0fitn3j/master.m3u8"
+      },
+      {
+        "name": "Star Channel International (720p)",
+        "logo": "https://i.imgur.com/6NUpxhr.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
+      }
+    ],
+    "Religious": [
+      {
+        "name": "BTL TV (Netherlands) (1080p)",
+        "logo": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8"
+      },
+      {
+        "name": "IIPC TV (720p)",
+        "logo": "https://i.imgur.com/mIih39Y.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8"
+      },
+      {
+        "name": "GurSikh Sabha TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/2EKCtQm.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8"
+      },
+      {
+        "name": "EWTN (United States) Canada (720p)",
+        "logo": "https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "Quo Vadis TV (720p)",
+        "logo": "https://i.imgur.com/pEqDDHl.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8"
+      },
+      {
+        "name": "ICnet 1",
+        "logo": "https://i.imgur.com/aeS4Sjv.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://icnet1hls.wns.live/hls/stream.m3u8"
+      },
+      {
+        "name": "Radio Tele Evangile Sans Limite (1080p)",
+        "logo": "https://i.imgur.com/CL32kFA.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
+      },
+      {
+        "name": "3ABN Canada (720p)",
+        "logo": "https://i.imgur.com/U99CsEc.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
+      },
+      {
+        "name": "Amazing Discoveries TV (720p)",
+        "logo": "https://i.imgur.com/I0oPFTj.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
+      },
+      {
+        "name": "Azan TV",
+        "logo": "https://i.imgur.com/JlqS6I4.jpeg",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+      },
+      {
+        "name": "Erfan Halgheh TV (720p)",
+        "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8"
+      },
+      {
+        "name": "SVBC (1080p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8"
+      },
+      {
+        "name": "SVBC 4 (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8"
+      },
+      {
+        "name": "SVBC 3 (720p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SVBC3.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8"
+      },
+      {
+        "name": "SVBC 2 (1080p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143890_ld_h9_aa.png?lock=720x540",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8"
       }
     ],
     "Documentary": [
@@ -505,13 +217,6 @@
         "url": "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8"
       },
       {
-        "name": "Total Crime (1080p)",
-        "logo": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8"
-      },
-      {
         "name": "INWILD (1080p)",
         "logo": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png",
         "group": "Documentary",
@@ -519,11 +224,11 @@
         "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8"
       },
       {
-        "name": "Pluto TV Paranormal CA",
-        "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
+        "name": "Total Crime (1080p)",
+        "logo": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8"
+        "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8"
       },
       {
         "name": "Ink Master CA",
@@ -531,6 +236,294 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8"
+      },
+      {
+        "name": "Pluto TV Paranormal CA",
+        "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8"
+      }
+    ],
+    "General": [
+      {
+        "name": "Gaunda Punjab TV (720p)",
+        "logo": "https://i.imgur.com/ArRZRM3.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8"
+      },
+      {
+        "name": "Az Star TV (1080p)",
+        "logo": "https://i.imgur.com/di3XX5L.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8"
+      },
+      {
+        "name": "DesheBideshe TV",
+        "logo": "https://i.imgur.com/Ek1Ohj6.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
+      },
+      {
+        "name": "PBC Tapesh TV (720p)",
+        "logo": "https://i.imgur.com/50JzsmH.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
+      },
+      {
+        "name": "NTD TV Canada West",
+        "logo": "https://i.imgur.com/iyFXcDy.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://live.ntdtv.com/cwlive220/playlist.m3u8"
+      },
+      {
+        "name": "GTN Canada (1080i) [Geo-blocked]",
+        "logo": "https://i.imgur.com/7bQPJOd.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8"
+      },
+      {
+        "name": "Deshi TV (720p)",
+        "logo": "https://i.imgur.com/PzqzgMm.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+      },
+      {
+        "name": "NTV (Canada) CJON-DT (480p)",
+        "logo": "https://i.imgur.com/KQtQg5y.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
+      },
+      {
+        "name": "NTD TV Canada",
+        "logo": "https://i.imgur.com/iyFXcDy.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://live.ntdtv.com/mllive860/playlist.m3u8"
+      },
+      {
+        "name": "Sohail TV (1080p)",
+        "logo": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
+      },
+      {
+        "name": "Ayaz TV",
+        "logo": "https://www.ayaztv.com/storage/assets/site_logo.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8"
+      }
+    ],
+    "Series": [
+      {
+        "name": "Happy Days CA",
+        "logo": "https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8"
+      },
+      {
+        "name": "Nashville CA",
+        "logo": "https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8"
+      },
+      {
+        "name": "48 Hours CA",
+        "logo": "https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8"
+      },
+      {
+        "name": "NCIS CA",
+        "logo": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8"
+      },
+      {
+        "name": "Bar Rescue CA",
+        "logo": "https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8"
+      },
+      {
+        "name": "JAG",
+        "logo": "https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8"
+      },
+      {
+        "name": "Pluto TV FBI",
+        "logo": "https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8"
+      },
+      {
+        "name": "NCIS: Los Angeles",
+        "logo": "https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8"
+      },
+      {
+        "name": "The Judge Judy Channel CA",
+        "logo": "https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8"
+      },
+      {
+        "name": "Matlock CA",
+        "logo": "https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8"
+      },
+      {
+        "name": "Cheers",
+        "logo": "https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8"
+      },
+      {
+        "name": "Perry Mason CA",
+        "logo": "https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8"
+      },
+      {
+        "name": "Doc Martin",
+        "logo": "https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8"
+      },
+      {
+        "name": "MTV Dating CA",
+        "logo": "https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8"
+      },
+      {
+        "name": "HauntTV CA (720p)",
+        "logo": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8"
+      },
+      {
+        "name": "Frasier",
+        "logo": "https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8"
+      },
+      {
+        "name": "Nash Bridges (720p)",
+        "logo": "https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8"
+      },
+      {
+        "name": "Mission Impossible CA",
+        "logo": "https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8"
+      },
+      {
+        "name": "The New Detectives CA",
+        "logo": "https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8"
+      },
+      {
+        "name": "The Challenge CA",
+        "logo": "https://images.pluto.tv/channels/64f8a22a3efb510008245df0/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8"
+      },
+      {
+        "name": "Three's Company CA (720p)",
+        "logo": "https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "MovieSphere CA",
+        "logo": "https://i.imgur.com/h1ejU90.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8"
+      },
+      {
+        "name": "Pluto TV Drama Movies",
+        "logo": "https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8"
+      },
+      {
+        "name": "Pluto TV Crime Drama CA",
+        "logo": "https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8"
+      },
+      {
+        "name": "Pluto TV Westerns CA",
+        "logo": "https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8"
+      },
+      {
+        "name": "Pluto TV Action Movies",
+        "logo": "https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "name": "PBS Travel (1080p)",
+        "logo": "https://i.imgur.com/A6GXhta.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8"
+      },
+      {
+        "name": "Autentic Travel (1080p)",
+        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8"
       }
     ],
     "Movies;Series": [
@@ -556,6 +549,13 @@
         "url": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8"
       },
       {
+        "name": "Pluto Classic Movie Westerns",
+        "logo": "https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8"
+      },
+      {
         "name": "Bonanza CA",
         "logo": "https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png",
         "group": "Movies;Series",
@@ -568,411 +568,15 @@
         "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8"
-      },
-      {
-        "name": "Pluto Classic Movie Westerns",
-        "logo": "https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8"
-      }
-    ],
-    "Culture": [
-      {
-        "name": "Dukh Nivaran (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Zh60l1x.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8"
-      },
-      {
-        "name": "Pardesi TV (720p)",
-        "logo": "https://i.imgur.com/CwAdPpZ.jpg",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "Doyel TV (1080p)",
-        "logo": "https://i.imgur.com/8pR8Q4J.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8"
-      },
-      {
-        "name": "Eawaz TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/vB4yzen.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8"
-      },
-      {
-        "name": "Montreal Greek TV (480p)",
-        "logo": "https://i.imgur.com/Y5YnUit.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://live.greektv.ca/hls1/greektv.m3u8"
-      },
-      {
-        "name": "EET TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/rntSEDZ.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://eu.streamjo.com/eetlive/eettv.m3u8"
-      },
-      {
-        "name": "Hyder TV (720p)",
-        "logo": "https://i.imgur.com/reHjjRZ.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8"
-      },
-      {
-        "name": "C Malayalam TV (1080p)",
-        "logo": "https://i.imgur.com/rpg0bQA.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
-      }
-    ],
-    "Undefined": [
-      {
-        "name": "Canada One (720p) [Not 24/7]",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
-      },
-      {
-        "name": "CBC Television CBOT-DT (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/v3DJUa8.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBLT-DT (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBET-DT (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/NFts1uU.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBCT-DT (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CBCT-DT_2017.svg/960px-CBCT-DT_2017.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBRT-DT (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/ocq1x2B.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBXT-DT (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBNT-DT (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/960px-CBNT-DT_2017.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CBAFT-DT [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8"
-      },
-      {
-        "name": "CBC Television CBUT-DT (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBMT-DT (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/OiiM6Mz.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBHT-DT (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/jdlYY4t.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CBVT-DT [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
-      },
-      {
-        "name": "CBC Television CBAT-DT (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/xflShTG.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBWT-DT (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/aWNHg5z.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8"
-      },
-      {
-        "name": "CBC Television CBKT-DT (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/PWGVjsg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CBFT-DT (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/pFCJGj4.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CBUFT-DT [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CBOFT-DT [Geo-blocked]",
-        "logo": "https://i.imgur.com/373Y8Py.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
-      },
-      {
-        "name": "CBC Television CFYK-DT (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/EHGOQhj.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CBXFT-DT [Geo-blocked]",
-        "logo": "https://i.imgur.com/xN4Valg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CBWFT-DT [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CKTV-DT [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CJBR-DT [Geo-blocked]",
-        "logo": "https://i.imgur.com/1B3d8Jc.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CKTM-DT [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CBKFT-DT [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CKSH-DT [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
-      },
-      {
-        "name": "Ici Radio-Canada Tele CBLFT-DT [Geo-blocked]",
-        "logo": "https://i.imgur.com/1f798e8.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
-      },
-      {
-        "name": "Prime Asia TV (1080p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://primeasia.selfip.net/Samsung/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rai World Premium (1080p)",
-        "logo": "https://i.imgur.com/tDuKkh3.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8"
-      },
-      {
-        "name": "Sardari TV (1080p) [Not 24/7]",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8"
-      },
-      {
-        "name": "TAG TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/4PA2adF.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8"
-      },
-      {
-        "name": "Sikh Spiritual Centre Rexdale (720p)",
-        "logo": "https://i.imgur.com/YKXoIsr.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
-      },
-      {
-        "name": "NTV+",
-        "logo": "https://i.imgur.com/YEUhPBv.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8"
-      },
-      {
-        "name": "Uvagut TV (1080p)",
-        "logo": "https://i.imgur.com/RR7ATr2.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://hls.uvagut.tv/hls/uvagut/playlist.m3u8"
-      },
-      {
-        "name": "Savoir media CFTU-DT (360p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://hls.savoir.media/live/stream.m3u8"
-      },
-      {
-        "name": "TVA (Canada) CFTM-DT [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"
-      },
-      {
-        "name": "The Cowboy Channel Canada (1080p)",
-        "logo": "https://i.imgur.com/xwntWOP.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8"
-      },
-      {
-        "name": "Toronto 360 TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/YJYdHKO.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8"
-      },
-      {
-        "name": "TamilVision-TV (1080p)",
-        "logo": "https://i.imgur.com/DodsLuW.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8"
-      },
-      {
-        "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
-        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8"
-      },
-      {
-        "name": "Wild TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
-      },
-      {
-        "name": "PTC Punjabi Canada (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://stream.ottlive.co.in/ptccanada/index.m3u8"
-      },
-      {
-        "name": "TVE Internacional America (720p)",
-        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8"
       }
     ],
     "Kids": [
-      {
-        "name": "Nick Jr. Pluto TV CA",
-        "logo": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8"
-      },
-      {
-        "name": "Dora TV",
-        "logo": "https://i.imgur.com/zJuSbmU.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8"
-      },
       {
         "name": "TVOKids (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8"
-      },
-      {
-        "name": "Totally Turtles CA (720p)",
-        "logo": "https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8"
       },
       {
         "name": "Kidoodle.TV (1080p)",
@@ -989,18 +593,18 @@
         "url": "https://jmp2.uk/plu-66588931a3865300085ca800.m3u8"
       },
       {
-        "name": "Nicktoons (United States) CA",
-        "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8"
-      },
-      {
         "name": "Tortues Ninja TV (720p)",
         "logo": "https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8"
+      },
+      {
+        "name": "Nick Jr. Pluto TV CA",
+        "logo": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8"
       },
       {
         "name": "Pluto TV Retro Kid",
@@ -1015,6 +619,27 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8"
+      },
+      {
+        "name": "Nicktoons (United States) CA",
+        "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8"
+      },
+      {
+        "name": "Dora TV",
+        "logo": "https://i.imgur.com/zJuSbmU.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8"
+      },
+      {
+        "name": "Totally Turtles CA (720p)",
+        "logo": "https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8"
       }
     ],
     "Animation": [
@@ -1040,14 +665,382 @@
         "url": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8"
       }
     ],
-    "Comedy": [
+    "Culture": [
       {
-        "name": "More Pluto TV Comedy",
-        "logo": "https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png",
-        "group": "Comedy",
+        "name": "Dukh Nivaran (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/Zh60l1x.png",
+        "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8"
+        "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8"
       },
+      {
+        "name": "Hyder TV (720p)",
+        "logo": "https://i.imgur.com/reHjjRZ.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8"
+      },
+      {
+        "name": "Doyel TV (1080p)",
+        "logo": "https://i.imgur.com/8pR8Q4J.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8"
+      },
+      {
+        "name": "Eawaz TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/vB4yzen.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8"
+      },
+      {
+        "name": "Montreal Greek TV (480p)",
+        "logo": "https://i.imgur.com/Y5YnUit.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://live.greektv.ca/hls1/greektv.m3u8"
+      },
+      {
+        "name": "Pardesi TV (720p)",
+        "logo": "https://i.imgur.com/CwAdPpZ.jpg",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "C Malayalam TV (1080p)",
+        "logo": "https://i.imgur.com/rpg0bQA.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+      },
+      {
+        "name": "EET TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/rntSEDZ.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://eu.streamjo.com/eetlive/eettv.m3u8"
+      }
+    ],
+    "Undefined": [
+      {
+        "name": "Canada One (720p) [Not 24/7]",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
+      },
+      {
+        "name": "CBC Television CBET-DT (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/NFts1uU.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8"
+      },
+      {
+        "name": "CBC Television CBRT-DT (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/ocq1x2B.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8"
+      },
+      {
+        "name": "CBC Television CBMT-DT (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/OiiM6Mz.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"
+      },
+      {
+        "name": "CBC Television CBCT-DT (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CBCT-DT_2017.svg/960px-CBCT-DT_2017.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8"
+      },
+      {
+        "name": "CBC Television CBLT-DT (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8"
+      },
+      {
+        "name": "CBC Television CBAT-DT (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/xflShTG.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8"
+      },
+      {
+        "name": "CBC Television CBKT-DT (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/PWGVjsg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8"
+      },
+      {
+        "name": "CBC Television CBOT-DT (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/v3DJUa8.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CBAFT-DT [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8"
+      },
+      {
+        "name": "CBC Television CBUT-DT (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/CBUT_Logo_%28cleaned_up_ver%29.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8"
+      },
+      {
+        "name": "CBC Television CBNT-DT (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CBNT-DT_2017.svg/960px-CBNT-DT_2017.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8"
+      },
+      {
+        "name": "CBC Television CFYK-DT (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/EHGOQhj.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CBLFT-DT [Geo-blocked]",
+        "logo": "https://i.imgur.com/1f798e8.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CBKFT-DT [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+      },
+      {
+        "name": "CBC Television CBWT-DT (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/aWNHg5z.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CBVT-DT [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
+      },
+      {
+        "name": "CBC Television CBXT-DT (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/960px-CBC_Logo_1992-Present.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CBUFT-DT [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CJBR-DT [Geo-blocked]",
+        "logo": "https://i.imgur.com/1B3d8Jc.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
+      },
+      {
+        "name": "CBC Television CBHT-DT (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/jdlYY4t.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CBOFT-DT [Geo-blocked]",
+        "logo": "https://i.imgur.com/373Y8Py.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CKTV-DT [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CBXFT-DT [Geo-blocked]",
+        "logo": "https://i.imgur.com/xN4Valg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CBWFT-DT [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CKSH-DT [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
+      },
+      {
+        "name": "Sardari TV (1080p) [Not 24/7]",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CKTM-DT [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/960px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+      },
+      {
+        "name": "NTV+",
+        "logo": "https://i.imgur.com/YEUhPBv.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8"
+      },
+      {
+        "name": "TAG TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/4PA2adF.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8"
+      },
+      {
+        "name": "Prime Asia TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://primeasia.selfip.net/Samsung/index.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CBFT-DT (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/pFCJGj4.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Rai World Premium (1080p)",
+        "logo": "https://i.imgur.com/tDuKkh3.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8"
+      },
+      {
+        "name": "Uvagut TV (1080p)",
+        "logo": "https://i.imgur.com/RR7ATr2.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://hls.uvagut.tv/hls/uvagut/playlist.m3u8"
+      },
+      {
+        "name": "Toronto 360 TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/YJYdHKO.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8"
+      },
+      {
+        "name": "TVA (Canada) CFTM-DT [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"
+      },
+      {
+        "name": "Sikh Spiritual Centre Rexdale (720p)",
+        "logo": "https://i.imgur.com/YKXoIsr.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
+      },
+      {
+        "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
+        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8"
+      },
+      {
+        "name": "The Cowboy Channel Canada (1080p)",
+        "logo": "https://i.imgur.com/xwntWOP.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8"
+      },
+      {
+        "name": "TamilVision-TV (1080p)",
+        "logo": "https://i.imgur.com/DodsLuW.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8"
+      },
+      {
+        "name": "PTC Punjabi Canada (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://stream.ottlive.co.in/ptccanada/index.m3u8"
+      },
+      {
+        "name": "Ici Radio-Canada Tele CFHD-DT (720p)",
+        "logo": "https://i.imgur.com/x0vLIWr.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+      },
+      {
+        "name": "TVE Internacional America (720p)",
+        "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8"
+      },
+      {
+        "name": "Wild TV (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
+      },
+      {
+        "name": "Savoir media CFTU-DT (360p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://hls.savoir.media/live/stream.m3u8"
+      }
+    ],
+    "Comedy": [
       {
         "name": "British Comedy",
         "logo": "https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png",
@@ -1056,18 +1049,25 @@
         "url": "https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8"
       },
       {
-        "name": "Pluto TV Comedy CA",
-        "logo": "https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8"
-      },
-      {
         "name": "Comedy Central (United States) CA",
         "logo": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8"
+      },
+      {
+        "name": "More Pluto TV Comedy",
+        "logo": "https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8"
+      },
+      {
+        "name": "Pluto TV Comedy CA",
+        "logo": "https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8"
       }
     ],
     "News": [
@@ -1079,13 +1079,6 @@
         "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8"
       },
       {
-        "name": "CityNews Vancouver (720p)",
-        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
-      },
-      {
         "name": "Ici RDI (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png",
         "group": "News",
@@ -1093,18 +1086,18 @@
         "url": "https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8"
       },
       {
-        "name": "CityNews Edmonton",
-        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8"
-      },
-      {
         "name": "HLN (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "http://23.237.104.106:8080/USA_HLN/index.m3u8"
+      },
+      {
+        "name": "CityNews Edmonton",
+        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8"
       },
       {
         "name": "CityNews Toronto (720p)",
@@ -1128,6 +1121,13 @@
         "url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
       },
       {
+        "name": "CityNews Vancouver (720p)",
+        "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
+      },
+      {
         "name": "CBC News Network (1080p)",
         "logo": "https://i.imgur.com/SjTdhvJ.png",
         "group": "News",
@@ -1135,11 +1135,11 @@
         "url": "https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8"
       },
       {
-        "name": "TV Punjab (720p) [Geo-blocked]",
-        "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+        "name": "Hamdard TV (1080p)",
+        "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
+        "url": "https://tv.hamdardtv.com/hamdard/index.m3u8"
       },
       {
         "name": "CNN (720p)",
@@ -1156,13 +1156,6 @@
         "url": "https://tvsen6.aynaott.com/cp24/index.m3u8"
       },
       {
-        "name": "Hamdard TV (1080p)",
-        "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://tv.hamdardtv.com/hamdard/index.m3u8"
-      },
-      {
         "name": "RT France (1080p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png",
         "group": "News",
@@ -1172,39 +1165,11 @@
     ],
     "Music": [
       {
-        "name": "Stingray Classic Rock (1080p)",
-        "logo": "https://i.imgur.com/FBgu8yB.png",
+        "name": "Stingray Today's Latin Pop (1080p)",
+        "logo": "https://i.imgur.com/Os3kRRP.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "Movie Music by Stingray (1080p)",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CSpCdAxnLpqebMLZh6h7vMPk6LYpdqkVHA&s",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "Stingray Classica (1080p)",
-        "logo": "https://i.imgur.com/nh1k5RC.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "Qello Concerts by Stingray (1080p)",
-        "logo": "https://i.imgur.com/IRyFTWq.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "Stingray DJAZZ (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+        "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
       },
       {
         "name": "Stingray Everything '80s (1080p)",
@@ -1214,11 +1179,11 @@
         "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
       },
       {
-        "name": "Stingray Holiday Hits (1080p)",
-        "logo": "https://i.imgur.com/4xVVKH8.png",
+        "name": "Stingray Smooth Jazz (1080p)",
+        "logo": "https://i.imgur.com/h1DsOzH.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+        "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
       },
       {
         "name": "Stingray Flashback 70's (1080p)",
@@ -1228,46 +1193,11 @@
         "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
       },
       {
-        "name": "Stingray Cityscapes (1080p)",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8"
-      },
-      {
-        "name": "CKNO-FM (616p)",
-        "logo": "https://i.imgur.com/sF2g7KE.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8"
-      },
-      {
-        "name": "Stingray Hit List (1080p)",
-        "logo": "https://i.imgur.com/lgpIwId.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
-      },
-      {
         "name": "Stingray Hot Country (1080p)",
         "logo": "https://i.imgur.com/PZhxyIT.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "Stingray Cozy Cafe (1080p)",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8"
-      },
-      {
-        "name": "Stingray Easy Listening (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
       },
       {
         "name": "Stingray Jukebox Oldies (1080p)",
@@ -1277,11 +1207,25 @@
         "url": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8"
       },
       {
-        "name": "Stingray Karaoke (1080p)",
-        "logo": "https://i.imgur.com/9TLTLS3.png",
+        "name": "Stingray Easy Listening (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+        "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Stingray The Spa (1080p)",
+        "logo": "https://i.imgur.com/ywAN923.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Stingray Romance Latino (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
       },
       {
         "name": "Stingray Naturescape (1080p)",
@@ -1291,20 +1235,6 @@
         "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
       },
       {
-        "name": "MTV Classic CA (720p)",
-        "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
-      },
-      {
-        "name": "MTV Biggest Pop CA (1080p)",
-        "logo": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
-      },
-      {
         "name": "Stingray Nothin' But 90s (1080p)",
         "logo": "https://i.imgur.com/Tq3I0po.png",
         "group": "Music",
@@ -1312,11 +1242,67 @@
         "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8"
       },
       {
-        "name": "Stingray The Spa (1080p)",
-        "logo": "https://i.imgur.com/ywAN923.png",
+        "name": "Stingray Soul Storm (1080p)",
+        "logo": "https://i.imgur.com/dU1KC3f.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
+        "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Stingray Classica (1080p)",
+        "logo": "https://i.imgur.com/nh1k5RC.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Stingray DJAZZ (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Stingray Today's K-Pop (1080p)",
+        "logo": "https://i.imgur.com/mMbntB5.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Stingray Classic Rock (1080p)",
+        "logo": "https://i.imgur.com/FBgu8yB.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Stingray Hit List (1080p)",
+        "logo": "https://i.imgur.com/lgpIwId.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Movie Music by Stingray (1080p)",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CSpCdAxnLpqebMLZh6h7vMPk6LYpdqkVHA&s",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Stingray Holiday Hits (1080p)",
+        "logo": "https://i.imgur.com/4xVVKH8.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
+      },
+      {
+        "name": "Stingray Rock Alternative (1080p)",
+        "logo": "https://i.imgur.com/mt8ulVX.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
       },
       {
         "name": "Stingray Pop Adult (1080p)",
@@ -1333,46 +1319,11 @@
         "url": "https://d10cyxntpn0bwm.cloudfront.net/master.m3u8"
       },
       {
-        "name": "Stingray Smooth Jazz (1080p)",
-        "logo": "https://i.imgur.com/h1DsOzH.png",
+        "name": "Qello Concerts by Stingray (1080p)",
+        "logo": "https://i.imgur.com/IRyFTWq.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "Stingray Today's K-Pop (1080p)",
-        "logo": "https://i.imgur.com/mMbntB5.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "Stingray Romance Latino (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "Stingray Soul Storm (1080p)",
-        "logo": "https://i.imgur.com/dU1KC3f.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "Stingray Rock Alternative (1080p)",
-        "logo": "https://i.imgur.com/mt8ulVX.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
-      },
-      {
-        "name": "MTV Spankin' New CA (1080p)",
-        "logo": "https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
+        "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
       },
       {
         "name": "Stingray Remember the 80s",
@@ -1382,6 +1333,27 @@
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8"
       },
       {
+        "name": "Stingray Cozy Cafe (1080p)",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8"
+      },
+      {
+        "name": "MTV Classic CA (720p)",
+        "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
+      },
+      {
+        "name": "Stingray Karaoke (1080p)",
+        "logo": "https://i.imgur.com/9TLTLS3.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
+      },
+      {
         "name": "XITE Nuevo Latino (1080p)",
         "logo": "https://i.imgur.com/2qyl2y3.png",
         "group": "Music",
@@ -1389,11 +1361,11 @@
         "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8"
       },
       {
-        "name": "Stingray Today's Latin Pop (1080p)",
-        "logo": "https://i.imgur.com/Os3kRRP.png",
+        "name": "Stingray Cityscapes (1080p)",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
+        "url": "https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8"
       },
       {
         "name": "XITE 90's Throwback (1080p)",
@@ -1410,6 +1382,20 @@
         "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8"
       },
       {
+        "name": "CKNO-FM (616p)",
+        "logo": "https://i.imgur.com/sF2g7KE.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8"
+      },
+      {
+        "name": "MTV Spankin' New CA (1080p)",
+        "logo": "https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
+      },
+      {
         "name": "Stingray iConcerts HD",
         "logo": "https://i.imgur.com/GKc7RFz.png",
         "group": "Music",
@@ -1422,15 +1408,31 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
+      },
+      {
+        "name": "MTV Biggest Pop CA (1080p)",
+        "logo": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
+      }
+    ],
+    "Legislative": [
+      {
+        "name": "Ontario Parliamentary Network (720p)",
+        "logo": "https://i.imgur.com/xKXs6ER.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
       }
     ],
     "Classic": [
       {
-        "name": "The Andy Griffith Show CA",
-        "logo": "https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png",
+        "name": "Classic TV: Families CA",
+        "logo": "https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png",
         "group": "Classic",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8"
+        "url": "https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8"
       },
       {
         "name": "Pluto TV Retro Crime Action",
@@ -1440,13 +1442,6 @@
         "url": "https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8"
       },
       {
-        "name": "Pluto TV Classic TV Variety",
-        "logo": "https://images.pluto.tv/channels/68d25c623175a2780d051d3a/colorLogoPNG_1758809678864.png",
-        "group": "Classic",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8"
-      },
-      {
         "name": "Puto TV Classic TV Crime Drama",
         "logo": "https://images.pluto.tv/channels/696e61287d2afdec4ff2cb75/colorLogoPNG_1768842232781.png",
         "group": "Classic",
@@ -1454,11 +1449,18 @@
         "url": "https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8"
       },
       {
-        "name": "Classic TV: Families CA",
-        "logo": "https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png",
+        "name": "Pluto TV Classic TV Variety",
+        "logo": "https://images.pluto.tv/channels/68d25c623175a2780d051d3a/colorLogoPNG_1758809678864.png",
         "group": "Classic",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8"
+        "url": "https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8"
+      },
+      {
+        "name": "The Andy Griffith Show CA",
+        "logo": "https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png",
+        "group": "Classic",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8"
       },
       {
         "name": "Pluto TV Retro Crime Drama",
@@ -1498,32 +1500,7 @@
         "url": "https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8"
       }
     ],
-    "Animation;Kids": [
-      {
-        "name": "Mr Bean Animated (1080p)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
-      }
-    ],
-    "Legislative": [
-      {
-        "name": "Ontario Parliamentary Network (720p)",
-        "logo": "https://i.imgur.com/xKXs6ER.png",
-        "group": "Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
-      }
-    ],
     "Sports": [
-      {
-        "name": "TSN The Ocho (1080p)",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8"
-      },
       {
         "name": "FIFA+ United States (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
@@ -1539,11 +1516,11 @@
         "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
       },
       {
-        "name": "Game+ (720p)",
-        "logo": "https://i.imgur.com/Lj69WbR.png",
+        "name": "TSN The Ocho (1080p)",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+        "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8"
       },
       {
         "name": "Pluto TV Snooker 900 (United States)",
@@ -1553,20 +1530,18 @@
         "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8"
       },
       {
+        "name": "Game+ (720p)",
+        "logo": "https://i.imgur.com/Lj69WbR.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      },
+      {
         "name": "Golf Channel (United States) (576p)",
         "logo": "https://i.imgur.com/Lgux6Ik.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8"
-      }
-    ],
-    "Relax": [
-      {
-        "name": "ZenLIFE by Stingray (1080p)",
-        "logo": "https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg",
-        "group": "Relax",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8"
       }
     ],
     "Shop": [
@@ -1578,13 +1553,22 @@
         "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8"
       }
     ],
-    "Comedy;Series": [
+    "Relax": [
       {
-        "name": "The Conners",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png",
-        "group": "Comedy;Series",
+        "name": "ZenLIFE by Stingray (1080p)",
+        "logo": "https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg",
+        "group": "Relax",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8"
+        "url": "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Mr Bean Animated (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
       }
     ],
     "Culture;Music": [
@@ -1605,23 +1589,16 @@
         "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8"
       }
     ],
-    "Outdoor;Sports": [
+    "Documentary;Series": [
       {
-        "name": "Red Bull TV US (1080p)",
-        "logo": "https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",
-        "group": "Outdoor;Sports",
+        "name": "Pluto TV True Crime CA",
+        "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
+        "group": "Documentary;Series",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
+        "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8"
       }
     ],
     "Animation;Comedy": [
-      {
-        "name": "South Park: Kenny Collection",
-        "logo": "https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png",
-        "group": "Animation;Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8"
-      },
       {
         "name": "South Park",
         "logo": "https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png",
@@ -1644,11 +1621,11 @@
         "url": "https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8"
       },
       {
-        "name": "South Park: Kyle Collection",
-        "logo": "https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png",
+        "name": "South Park: Kenny Collection",
+        "logo": "https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png",
         "group": "Animation;Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8"
+        "url": "https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8"
       },
       {
         "name": "South Park: Welcome to Canada!",
@@ -1658,11 +1635,72 @@
         "url": "https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8"
       },
       {
+        "name": "South Park: Kyle Collection",
+        "logo": "https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png",
+        "group": "Animation;Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8"
+      },
+      {
         "name": "South Park: Stan Collection",
         "logo": "https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png",
         "group": "Animation;Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8"
+      }
+    ],
+    "Comedy;Movies": [
+      {
+        "name": "Pluto TV Comedy Movies",
+        "logo": "https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",
+        "group": "Comedy;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8"
+      }
+    ],
+    "Entertainment;Outdoor;Series": [
+      {
+        "name": "Pluto TV Adventure CA",
+        "logo": "https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png",
+        "group": "Entertainment;Outdoor;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8"
+      }
+    ],
+    "Comedy;Series": [
+      {
+        "name": "The Conners",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png",
+        "group": "Comedy;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8"
+      }
+    ],
+    "Weather": [
+      {
+        "name": "The Weather Network (720p)",
+        "logo": "https://i.imgur.com/V6ZUwUY.png",
+        "group": "Weather",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8"
+      }
+    ],
+    "Classic;Movies": [
+      {
+        "name": "Pluto TV Retro Action Movies",
+        "logo": "https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png",
+        "group": "Classic;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8"
+      }
+    ],
+    "Outdoor;Sports": [
+      {
+        "name": "Red Bull TV US (1080p)",
+        "logo": "https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",
+        "group": "Outdoor;Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
       }
     ],
     "Classic;Comedy": [
@@ -1681,42 +1719,6 @@
         "url": "https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8"
       }
     ],
-    "Entertainment;Outdoor;Series": [
-      {
-        "name": "Pluto TV Adventure CA",
-        "logo": "https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png",
-        "group": "Entertainment;Outdoor;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8"
-      }
-    ],
-    "Comedy;Movies": [
-      {
-        "name": "Pluto TV Comedy Movies",
-        "logo": "https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",
-        "group": "Comedy;Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8"
-      }
-    ],
-    "Classic;Movies": [
-      {
-        "name": "Pluto TV Retro Action Movies",
-        "logo": "https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png",
-        "group": "Classic;Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8"
-      }
-    ],
-    "Documentary;Series": [
-      {
-        "name": "Pluto TV True Crime CA",
-        "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
-        "group": "Documentary;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8"
-      }
-    ],
     "Auto": [
       {
         "name": "Pluto TV Cars CA",
@@ -1724,15 +1726,6 @@
         "group": "Auto",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8"
-      }
-    ],
-    "Weather": [
-      {
-        "name": "The Weather Network (720p)",
-        "logo": "https://i.imgur.com/V6ZUwUY.png",
-        "group": "Weather",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8"
       }
     ]
   }
