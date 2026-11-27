@@ -1308,13 +1308,6 @@ Logo: https://logo.m3uassets.com/canale8.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 
-Group: Clássico
-Name: Retro Cartoon
-URL: https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
-Logo: https://i.imgur.com/hIlEfhl.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-
 Group: Cultura
 Name: Arte 1
 URL: http://170.83.16.50/ARTE_1/index.m3u8
@@ -1873,6 +1866,11 @@ URL: https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 Logo: https://i.imgur.com/8upyApg.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: ElyTV
+URL: https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+Logo: https://i.imgur.com/1eHNe91.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Petlovers TV
 URL: https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 Logo: https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png
@@ -2208,11 +2206,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Os Jetsons
 URL: https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 Logo: https://i.imgur.com/sqUlcaY.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Retrô Cartoon
-URL: https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8
-Logo: https://i.postimg.cc/pXFrrsjk/retrocartoon.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Kids Mais
@@ -2894,7 +2887,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNiAyOjc6MjcgUE0maGFzaF92YWx1ZT1tRFZHeDVwSW5GMEtWUkRCbDdQbjBBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDdlMzU1YmEtODIxOS00OTFkLThjOWMtYWE1MzVjZmM5MjY0/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNiAxMjo0MTo1OCBBTSZoYXNoX3ZhbHVlPVlzZWRCazZ1a3JndktqZSs1ZGIrN0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03ZDQyOGJiMi1mZTAzLTQ0NjQtOTUyYy1mMmFhMzNkNDczMzg=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3180,7 +3173,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNiAyOjc6MjggUE0maGFzaF92YWx1ZT1BWCtpN04xamhHeXgreEFYMXZJdEVRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTcwNDFlNzktOGFhYi00MDY0LTkxYmQtZDE0YTk5OTU3Mzlh/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNiAxMjo0MTo1OSBBTSZoYXNoX3ZhbHVlPW9RSytoV3pKaStVdU1VRy9UQUtkcFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZTg0ZTJlMi1jZmQ2LTRhYTUtYTlkMC00NDYxNWYzZmE4OTI=/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3190,7 +3183,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNiAyOjc6MjcgUE0maGFzaF92YWx1ZT1IT3JUN2lyOXErS1RxY05ZNmVHdXFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQyN2VhMjEtYWY2ZS00OTJlLWIyY2EtMDI1ZGQ4ZDI2YzMy/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNiAxMjo0MTo1OCBBTSZoYXNoX3ZhbHVlPWVYTFpWc0FOcVd5d2RBY3g2YkxiT3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03ZjljZTU0Yy1kNzk3LTRiYmUtYjg0NC01MmU3YjljYjAxOGY=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------

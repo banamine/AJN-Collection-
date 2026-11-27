@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26 23:36:23",
+  "date": "2026-11-27 12:10:43",
   "channels": {
     "Buy me a Coffee": [
       {
@@ -121,7 +121,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNiAyOjc6MjggUE0maGFzaF92YWx1ZT1BWCtpN04xamhHeXgreEFYMXZJdEVRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTcwNDFlNzktOGFhYi00MDY0LTkxYmQtZDE0YTk5OTU3Mzlh/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNiAxMjo0MTo1OSBBTSZoYXNoX3ZhbHVlPW9RSytoV3pKaStVdU1VRy9UQUtkcFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZTg0ZTJlMi1jZmQ2LTRhYTUtYTlkMC00NDYxNWYzZmE4OTI=/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -135,7 +135,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNiAyOjc6MjcgUE0maGFzaF92YWx1ZT1IT3JUN2lyOXErS1RxY05ZNmVHdXFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQyN2VhMjEtYWY2ZS00OTJlLWIyY2EtMDI1ZGQ4ZDI2YzMy/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNiAxMjo0MTo1OCBBTSZoYXNoX3ZhbHVlPWVYTFpWc0FOcVd5d2RBY3g2YkxiT3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03ZjljZTU0Yy1kNzk3LTRiYmUtYjg0NC01MmU3YjljYjAxOGY=/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -305,7 +305,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNiAyOjc6MjcgUE0maGFzaF92YWx1ZT1tRFZHeDVwSW5GMEtWUkRCbDdQbjBBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDdlMzU1YmEtODIxOS00OTFkLThjOWMtYWE1MzVjZmM5MjY0/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNiAxMjo0MTo1OCBBTSZoYXNoX3ZhbHVlPVlzZWRCazZ1a3JndktqZSs1ZGIrN0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03ZDQyOGJiMi1mZTAzLTQ0NjQtOTUyYy1mMmFhMzNkNDczMzg=/"
       },
       {
         "name": "Euronews 🇵🇹",
@@ -5099,13 +5099,6 @@
         "url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8"
       },
       {
-        "name": "Retrô Cartoon",
-        "logo": "https://i.postimg.cc/pXFrrsjk/retrocartoon.jpg",
-        "group": "Infantil",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8"
-      },
-      {
         "name": "TV Kids Mais",
         "logo": "https://i.postimg.cc/Qxh10Z7j/tv-kids-mais.jpg",
         "group": "Infantil",
@@ -5350,6 +5343,13 @@
         "group": "Entretenimento",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
+      },
+      {
+        "name": "ElyTV",
+        "logo": "https://i.imgur.com/1eHNe91.png",
+        "group": "Entretenimento",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
       },
       {
         "name": "Petlovers TV",
@@ -5845,15 +5845,6 @@
         "group": "Internacional",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://live.wayone.cloud/waytv/waytv1/playlist.m3u8"
-      }
-    ],
-    "Clássico": [
-      {
-        "name": "Retro Cartoon",
-        "logo": "https://i.imgur.com/hIlEfhl.png",
-        "group": "Clássico",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
       }
     ],
     "Documentários": [
