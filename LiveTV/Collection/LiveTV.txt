@@ -19,6 +19,13 @@ Logo: https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/im
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
+Group: Child/music
+Name: France4 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+Logo: https://picserve.netplus.ch/channels/france4hd.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+
 Group: Cinéma
 Name: SONY ONE HITS ACTION
 URL: https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
@@ -99,84 +106,11 @@ Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDisc
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
 
-Group: FR Child/music
-Name: France4 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
-Logo: https://picserve.netplus.ch/channels/france4hd.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-
-Group: FR Generalist
-Name: TF1 CH HD
-URL: https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-Logo: https://picserve.netplus.ch/channels/tf1hd.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: France2 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
-Logo: https://picserve.netplus.ch/channels/france2hd.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: France3 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-Logo: https://picserve.netplus.ch/channels/france3hd.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: M6 CH HD
-URL: https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-Logo: https://picserve.netplus.ch/channels/m6hd.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: TMC HD
-URL: https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
-Logo: https://picserve.netplus.ch/channels/tmc.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: W9 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
-Logo: https://picserve.netplus.ch/channels/w9.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: TFX HD
-URL: https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
-Logo: https://picserve.netplus.ch/channels/nt1.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: T18 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
-Logo: https://picserve.netplus.ch/channels/t18.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-Name: CSTAR HD
-URL: https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
-Logo: https://picserve.netplus.ch/channels/d17.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-
 Group: FR generalist
 Name: TV5Monde Europe HD
 URL: https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 Logo: https://w7.pngwing.com/pngs/92/18/png-transparent-logo-europe-tv5monde-brand-trademark-ultra-europe-logo-television-blue-text.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: arte F HD
-URL: https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
-Logo: https://picserve.netplus.ch/channels/artehd.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-
-Group: FR news
-Name: BFM TV HD
-URL: https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
-Logo: https://picserve.netplus.ch/channels/bfmtv.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-
-Group: FR religion
-Name: kto HD
-URL: https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
-Logo: https://picserve.netplus.ch/channels/kto.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: FR series
@@ -189,20 +123,6 @@ Name: Star Novelas
 URL: https://video1.getstreamhosting.com:1936/StarPlusNovelas/live/main_stream.m3u8
 Logo: https://gamako.net/iptv/logos/blacklogos/starplus_logobbg.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: FR sport
-Name: La chaine L'EQUIPE
-URL: https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
-Logo: https://picserve.netplus.ch/channels/lequipe21.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-
-Group: FR travel documentary
-Name: France5 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
-Logo: https://picserve.netplus.ch/channels/france5hd.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: Generalist
@@ -291,6 +211,51 @@ URL: https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 Logo: https://icitelevision.ca/wp-content/uploads/2017/07/logoretina-3.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: TF1 CH HD
+URL: https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+Logo: https://picserve.netplus.ch/channels/tf1hd.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: France2 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+Logo: https://picserve.netplus.ch/channels/france2hd.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: France3 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+Logo: https://picserve.netplus.ch/channels/france3hd.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: M6 CH HD
+URL: https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+Logo: https://picserve.netplus.ch/channels/m6hd.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: TMC HD
+URL: https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+Logo: https://picserve.netplus.ch/channels/tmc.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: W9 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+Logo: https://picserve.netplus.ch/channels/w9.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: TFX HD
+URL: https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+Logo: https://picserve.netplus.ch/channels/nt1.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: T18 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
+Logo: https://picserve.netplus.ch/channels/t18.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: CSTAR HD
+URL: https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+Logo: https://picserve.netplus.ch/channels/d17.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
 
 Group: IT cooking
 Name: Food Network IT HD
@@ -321,11 +286,6 @@ Name: Real Time IT HD
 URL: https://wbd-reverseproxy.zappr.stream/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 Logo: https://static.epg.best/it/realtime.it.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-Name: CANALE Italia
-URL: https://liveac115b.b-cdn.net/canale1.smil/m.m3u8
-Logo: https://picserve.netplus.ch/channels/canaleit.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: IT local
@@ -492,20 +452,6 @@ Name: Wired2fish
 URL: https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/16dd0c46-4f8b-457b-b84c-7e3ecc8a9059/0.m3u8
 Logo: https://picserve.netplus.ch/channels/fast_wired2fish.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
---------------------------------------------------
-
-Group: UK generalist
-Name: channel4 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-Logo: https://picserve.netplus.ch/channels/channel4.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
---------------------------------------------------
-
-Group: UK news
-Name: sky news
-URL: https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
-Logo: https://picserve.netplus.ch/channels/skynews.png
-Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: UK sport
@@ -1365,6 +1311,21 @@ URL: https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 Logo: https://i.imgur.com/i9P2qjs.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: arte F HD
+URL: https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+Logo: https://picserve.netplus.ch/channels/artehd.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: CANALE Italia
+URL: https://liveac115b.b-cdn.net/canale1.smil/m.m3u8
+Logo: https://picserve.netplus.ch/channels/canaleit.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: channel4 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+Logo: https://picserve.netplus.ch/channels/channel4.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
 
 Group: health
 Name: QS24.TV HD
@@ -1840,6 +1801,16 @@ URL: https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 Logo: https://i.imgur.com/jcl1nNR.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: BFM TV HD
+URL: https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
+Logo: https://picserve.netplus.ch/channels/bfmtv.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
+Name: sky news
+URL: https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+Logo: https://picserve.netplus.ch/channels/skynews.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
 
 Group: people
 Name: MTV France HD
@@ -2001,6 +1972,11 @@ URL: https://streamcdnm1-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S287436
 Logo: https://static.epg.best/de/k-tv.de.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: kto HD
+URL: https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+Logo: https://picserve.netplus.ch/channels/kto.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
 
 Group: religious
 Name: Vatican media Europa
@@ -2144,6 +2120,11 @@ URL: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mgg_tv/live.livx/playlist.
 Logo: https://freebox.cdn.scw.iliad.fr/large_MGGTV_LOGO_Vertical_81d21eee36.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
 --------------------------------------------------
+Name: La chaine L'EQUIPE
+URL: https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+Logo: https://picserve.netplus.ch/channels/lequipe21.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
+--------------------------------------------------
 
 Group: sports
 Name: More Than Sports TV HD
@@ -2157,6 +2138,13 @@ Name: TREK HD
 URL: https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 Logo: https://picserve.netplus.ch/channels/escales.png
 Source: https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+--------------------------------------------------
+
+Group: travel documentary
+Name: France5 HD
+URL: https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+Logo: https://picserve.netplus.ch/channels/france5hd.png
+Source: https://github.com/iptv-ch/iptv-ch.github.io/raw/refs/heads/master/netplus.m3u8
 --------------------------------------------------
 
 Group: wetter
